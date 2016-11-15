@@ -1,0 +1,1058 @@
+[submodule "kubernetes"]
+	path = kubernetes
+	url = https://github.com/kubernetes/kubernetes.git
+[submodule "kubernetes-template-project"]
+	path = kubernetes-template-project
+	url = https://github.com/kubernetes/kubernetes-template-project.git
+[submodule "gengo"]
+	path = gengo
+	url = https://github.com/kubernetes/gengo.git
+[submodule "pr-bot"]
+	path = pr-bot
+	url = https://github.com/kubernetes/pr-bot.git
+[submodule "git-sync"]
+	path = git-sync
+	url = https://github.com/kubernetes/git-sync.git
+[submodule "perf-tests"]
+	path = perf-tests
+	url = https://github.com/kubernetes/perf-tests.git
+[submodule "release"]
+	path = release
+	url = https://github.com/kubernetes/release.git
+[submodule "md-check"]
+	path = md-check
+	url = https://github.com/kubernetes/md-check.git
+[submodule "charts"]
+	path = charts
+	url = https://github.com/kubernetes/charts.git
+[submodule "k8s.io"]
+	path = k8s.io
+	url = https://github.com/kubernetes/k8s.io.git
+[submodule "kubernetes-bootcamp"]
+	path = kubernetes-bootcamp
+	url = https://github.com/kubernetes/kubernetes-bootcamp.git
+[submodule "frakti"]
+	path = frakti
+	url = https://github.com/kubernetes/frakti.git
+[submodule "node-problem-detector"]
+	path = node-problem-detector
+	url = https://github.com/kubernetes/node-problem-detector.git
+[submodule "kubernetes-anywhere"]
+	path = kubernetes-anywhere
+	url = https://github.com/kubernetes/kubernetes-anywhere.git
+[submodule "helm"]
+	path = helm
+	url = https://github.com/kubernetes/helm.git
+[submodule "client-go"]
+	path = client-go
+	url = https://github.com/kubernetes/client-go.git
+[submodule "test-infra"]
+	path = test-infra
+	url = https://github.com/kubernetes/test-infra.git
+[submodule "kube-ui"]
+	path = kube-ui
+	url = https://github.com/kubernetes/kube-ui.git
+[submodule "minikube"]
+	path = minikube
+	url = https://github.com/kubernetes/minikube.git
+[submodule "kubernetes-docs-cn"]
+	path = kubernetes-docs-cn
+	url = https://github.com/kubernetes/kubernetes-docs-cn.git
+[submodule "contrib"]
+	path = contrib
+	url = https://github.com/kubernetes/contrib.git
+[submodule "heapster"]
+	path = heapster
+	url = https://github.com/kubernetes/heapster.git
+[submodule "kubernetes.github.io"]
+	path = kubernetes.github.io
+	url = https://github.com/kubernetes/kubernetes.github.io.git
+[submodule "kops"]
+	path = kops
+	url = https://github.com/kubernetes/kops.git
+[submodule "dashboard"]
+	path = dashboard
+	url = https://github.com/kubernetes/dashboard.git
+[submodule "corelb"]
+	path = corelb
+	url = https://github.com/coreos/corelb.git
+[submodule "capnslog"]
+	path = capnslog
+	url = https://github.com/coreos/capnslog.git
+[submodule "aws-auth-proxy"]
+	path = aws-auth-proxy
+	url = https://github.com/coreos/aws-auth-proxy.git
+[submodule "core-cache"]
+	path = core-cache
+	url = https://github.com/coreos/core-cache.git
+[submodule "blog-examples"]
+	path = blog-examples
+	url = https://github.com/coreos/blog-examples.git
+[submodule "coreos-buildbot"]
+	path = coreos-buildbot
+	url = https://github.com/coreos/coreos-buildbot.git
+[submodule "caddy-docker"]
+	path = caddy-docker
+	url = https://github.com/coreos/caddy-docker.git
+[submodule "aci-discovery"]
+	path = aci-discovery
+	url = https://github.com/coreos/aci-discovery.git
+[submodule "cetcd"]
+	path = cetcd
+	url = https://github.com/coreos/cetcd.git
+[submodule "bugs"]
+	path = bugs
+	url = https://github.com/coreos/bugs.git
+[submodule "coreos-vagrant"]
+	path = coreos-vagrant
+	url = https://github.com/coreos/coreos-vagrant.git
+[submodule "coreos-xhyve"]
+	path = coreos-xhyve
+	url = https://github.com/coreos/coreos-xhyve.git
+[submodule "cobra"]
+	path = cobra
+	url = https://github.com/coreos/cobra.git
+[submodule "coreos-github"]
+	path = coreos-github
+	url = https://github.com/coreos/coreos-github.git
+[submodule "devweb"]
+	path = devweb
+	url = https://github.com/coreos/devweb.git
+[submodule "bootengine"]
+	path = bootengine
+	url = https://github.com/coreos/bootengine.git
+[submodule "elb-presence"]
+	path = elb-presence
+	url = https://github.com/coreos/elb-presence.git
+[submodule "compute-image-packages"]
+	path = compute-image-packages
+	url = https://github.com/coreos/compute-image-packages.git
+[submodule "coreos-userdata-validator"]
+	path = coreos-userdata-validator
+	url = https://github.com/coreos/coreos-userdata-validator.git
+[submodule "dbus-cplusplus"]
+	path = dbus-cplusplus
+	url = https://github.com/coreos/dbus-cplusplus.git
+[submodule "cross-compiler"]
+	path = cross-compiler
+	url = https://github.com/coreos/cross-compiler.git
+[submodule "efunctions"]
+	path = efunctions
+	url = https://github.com/coreos/efunctions.git
+[submodule "docker-private-registry-etcd-users"]
+	path = docker-private-registry-etcd-users
+	url = https://github.com/coreos/docker-private-registry-etcd-users.git
+[submodule "coreos-web"]
+	path = coreos-web
+	url = https://github.com/coreos/coreos-web.git
+[submodule "etcd-manager"]
+	path = etcd-manager
+	url = https://github.com/coreos/etcd-manager.git
+[submodule "docker-nginx-https-redirect"]
+	path = docker-nginx-https-redirect
+	url = https://github.com/coreos/docker-nginx-https-redirect.git
+[submodule "eselect-go"]
+	path = eselect-go
+	url = https://github.com/coreos/eselect-go.git
+[submodule "coreos-rackspace-rescue-scripts"]
+	path = coreos-rackspace-rescue-scripts
+	url = https://github.com/coreos/coreos-rackspace-rescue-scripts.git
+[submodule "git-validation"]
+	path = git-validation
+	url = https://github.com/coreos/git-validation.git
+[submodule "coreos-cloudinit"]
+	path = coreos-cloudinit
+	url = https://github.com/coreos/coreos-cloudinit.git
+[submodule "etcdctl"]
+	path = etcdctl
+	url = https://github.com/coreos/etcdctl.git
+[submodule "doozerd"]
+	path = doozerd
+	url = https://github.com/coreos/doozerd.git
+[submodule "gocat"]
+	path = gocat
+	url = https://github.com/coreos/gocat.git
+[submodule "go-check-certs"]
+	path = go-check-certs
+	url = https://github.com/coreos/go-check-certs.git
+[submodule "etcd-aws-cluster"]
+	path = etcd-aws-cluster
+	url = https://github.com/coreos/etcd-aws-cluster.git
+[submodule "core-admin"]
+	path = core-admin
+	url = https://github.com/coreos/core-admin.git
+[submodule "gexpect"]
+	path = gexpect
+	url = https://github.com/coreos/gexpect.git
+[submodule "go-force"]
+	path = go-force
+	url = https://github.com/coreos/go-force.git
+[submodule "alertmanager"]
+	path = alertmanager
+	url = https://github.com/coreos/alertmanager.git
+[submodule "go-etcd"]
+	path = go-etcd
+	url = https://github.com/coreos/go-etcd.git
+[submodule "docker-rclone-latest"]
+	path = docker-rclone-latest
+	url = https://github.com/coreos/docker-rclone-latest.git
+[submodule "go-namespaces"]
+	path = go-namespaces
+	url = https://github.com/coreos/go-namespaces.git
+[submodule "gofail"]
+	path = gofail
+	url = https://github.com/coreos/gofail.git
+[submodule "findowner"]
+	path = findowner
+	url = https://github.com/coreos/findowner.git
+[submodule "go-oidc"]
+	path = go-oidc
+	url = https://github.com/coreos/go-oidc.git
+[submodule "doozer"]
+	path = doozer
+	url = https://github.com/coreos/doozer.git
+[submodule "etcd-ca"]
+	path = etcd-ca
+	url = https://github.com/coreos/etcd-ca.git
+[submodule "go-gitreceive"]
+	path = go-gitreceive
+	url = https://github.com/coreos/go-gitreceive.git
+[submodule "dev-util"]
+	path = dev-util
+	url = https://github.com/coreos/dev-util.git
+[submodule "go-iptables"]
+	path = go-iptables
+	url = https://github.com/coreos/go-iptables.git
+[submodule "baselayout"]
+	path = baselayout
+	url = https://github.com/coreos/baselayout.git
+[submodule "fuze"]
+	path = fuze
+	url = https://github.com/coreos/fuze.git
+[submodule "go-quay"]
+	path = go-quay
+	url = https://github.com/coreos/go-quay.git
+[submodule "go-log"]
+	path = go-log
+	url = https://github.com/coreos/go-log.git
+[submodule "etcd-starter"]
+	path = etcd-starter
+	url = https://github.com/coreos/etcd-starter.git
+[submodule "go-tspi"]
+	path = go-tspi
+	url = https://github.com/coreos/go-tspi.git
+[submodule "goproxy"]
+	path = goproxy
+	url = https://github.com/coreos/goproxy.git
+[submodule "hawk-go"]
+	path = hawk-go
+	url = https://github.com/coreos/hawk-go.git
+[submodule "go-workflow"]
+	path = go-workflow
+	url = https://github.com/coreos/go-workflow.git
+[submodule "issue-analyzer"]
+	path = issue-analyzer
+	url = https://github.com/coreos/issue-analyzer.git
+[submodule "go-webrtc-datachannel"]
+	path = go-webrtc-datachannel
+	url = https://github.com/coreos/go-webrtc-datachannel.git
+[submodule "go-omaha"]
+	path = go-omaha
+	url = https://github.com/coreos/go-omaha.git
+[submodule "jetcd"]
+	path = jetcd
+	url = https://github.com/coreos/jetcd.git
+[submodule "jenkins-docker"]
+	path = jenkins-docker
+	url = https://github.com/coreos/jenkins-docker.git
+[submodule "installer"]
+	path = installer
+	url = https://github.com/coreos/installer.git
+[submodule "discovery.etcd.io"]
+	path = discovery.etcd.io
+	url = https://github.com/coreos/discovery.etcd.io.git
+[submodule "go-semver"]
+	path = go-semver
+	url = https://github.com/coreos/go-semver.git
+[submodule "go-tcmu"]
+	path = go-tcmu
+	url = https://github.com/coreos/go-tcmu.git
+[submodule "init"]
+	path = init
+	url = https://github.com/coreos/init.git
+[submodule "go.dbus"]
+	path = go.dbus
+	url = https://github.com/coreos/go.dbus.git
+[submodule "ioprogress"]
+	path = ioprogress
+	url = https://github.com/coreos/ioprogress.git
+[submodule "go-systemd"]
+	path = go-systemd
+	url = https://github.com/coreos/go-systemd.git
+[submodule "jwt-auth-example"]
+	path = jwt-auth-example
+	url = https://github.com/coreos/jwt-auth-example.git
+[submodule "ignition"]
+	path = ignition
+	url = https://github.com/coreos/ignition.git
+[submodule "kpm"]
+	path = kpm
+	url = https://github.com/coreos/kpm.git
+[submodule "docs"]
+	path = docs
+	url = https://github.com/coreos/docs.git
+[submodule "jwtproxy"]
+	path = jwtproxy
+	url = https://github.com/coreos/jwtproxy.git
+[submodule "goamz"]
+	path = goamz
+	url = https://github.com/coreos/goamz.git
+[submodule "clair"]
+	path = clair
+	url = https://github.com/coreos/clair.git
+[submodule "khealth"]
+	path = khealth
+	url = https://github.com/coreos/khealth.git
+[submodule "etcd-play"]
+	path = etcd-play
+	url = https://github.com/coreos/etcd-play.git
+[submodule "depot_tools"]
+	path = depot_tools
+	url = https://github.com/coreos/depot_tools.git
+[submodule "fleet"]
+	path = fleet
+	url = https://github.com/coreos/fleet.git
+[submodule "coreos-overlay"]
+	path = coreos-overlay
+	url = https://github.com/coreos/coreos-overlay.git
+[submodule "chromite"]
+	path = chromite
+	url = https://github.com/coreos/chromite.git
+[submodule "gzran"]
+	path = gzran
+	url = https://github.com/coreos/gzran.git
+[submodule "flannel"]
+	path = flannel
+	url = https://github.com/coreos/flannel.git
+[submodule "coreos-kubernetes"]
+	path = coreos-kubernetes
+	url = https://github.com/coreos/coreos-kubernetes.git
+[submodule "dex"]
+	path = dex
+	url = https://github.com/coreos/dex.git
+[submodule "coreos-baremetal"]
+	path = coreos-baremetal
+	url = https://github.com/coreos/coreos-baremetal.git
+[submodule "board-overlays"]
+	path = board-overlays
+	url = https://github.com/coreos/board-overlays.git
+[submodule "etcd"]
+	path = etcd
+	url = https://github.com/coreos/etcd.git
+[submodule "autotest"]
+	path = autotest
+	url = https://github.com/coreos/autotest.git
+[submodule "docker"]
+	path = docker
+	url = https://github.com/coreos/docker.git
+[submodule "grub"]
+	path = grub
+	url = https://github.com/coreos/grub.git
+[submodule "code-of-conduct"]
+	path = code-of-conduct
+	url = https://github.com/docker/code-of-conduct.git
+[submodule "dnsserver"]
+	path = dnsserver
+	url = https://github.com/docker/dnsserver.git
+[submodule "bender"]
+	path = bender
+	url = https://github.com/docker/bender.git
+[submodule "communitytools-image2docker-win"]
+	path = communitytools-image2docker-win
+	url = https://github.com/docker/communitytools-image2docker-win.git
+[submodule "dctx"]
+	path = dctx
+	url = https://github.com/docker/dctx.git
+[submodule "docker-bb"]
+	path = docker-bb
+	url = https://github.com/docker/docker-bb.git
+[submodule "docker-e2e"]
+	path = docker-e2e
+	url = https://github.com/docker/docker-e2e.git
+[submodule "docker-credential-helpers"]
+	path = docker-credential-helpers
+	url = https://github.com/docker/docker-credential-helpers.git
+[submodule "docker-status"]
+	path = docker-status
+	url = https://github.com/docker/docker-status.git
+[submodule "dockercloud-quickstart-python"]
+	path = dockercloud-quickstart-python
+	url = https://github.com/docker/dockercloud-quickstart-python.git
+[submodule "dockerlite"]
+	path = dockerlite
+	url = https://github.com/docker/dockerlite.git
+[submodule "docker-bench-security"]
+	path = docker-bench-security
+	url = https://github.com/docker/docker-bench-security.git
+[submodule "dockercloud-agent"]
+	path = dockercloud-agent
+	url = https://github.com/docker/dockercloud-agent.git
+[submodule "for-win"]
+	path = for-win
+	url = https://github.com/docker/for-win.git
+[submodule "for-mac"]
+	path = for-mac
+	url = https://github.com/docker/for-mac.git
+[submodule "example-voting-app"]
+	path = example-voting-app
+	url = https://github.com/docker/example-voting-app.git
+[submodule "dockercloud-hello-world"]
+	path = dockercloud-hello-world
+	url = https://github.com/docker/dockercloud-hello-world.git
+[submodule "go-healthcheck"]
+	path = go-healthcheck
+	url = https://github.com/docker/go-healthcheck.git
+[submodule "go-metrics"]
+	path = go-metrics
+	url = https://github.com/docker/go-metrics.git
+[submodule "go-p9p"]
+	path = go-p9p
+	url = https://github.com/docker/go-p9p.git
+[submodule "dockercloud-cli"]
+	path = dockercloud-cli
+	url = https://github.com/docker/dockercloud-cli.git
+[submodule "go-events"]
+	path = go-events
+	url = https://github.com/docker/go-events.git
+[submodule "go-units"]
+	path = go-units
+	url = https://github.com/docker/go-units.git
+[submodule "docker-network"]
+	path = docker-network
+	url = https://github.com/docker/docker-network.git
+[submodule "go-dockercloud"]
+	path = go-dockercloud
+	url = https://github.com/docker/go-dockercloud.git
+[submodule "gordon-bot"]
+	path = gordon-bot
+	url = https://github.com/docker/gordon-bot.git
+[submodule "docker-registry"]
+	path = docker-registry
+	url = https://github.com/docker/docker-registry.git
+[submodule "go-plugins-helpers"]
+	path = go-plugins-helpers
+	url = https://github.com/docker/go-plugins-helpers.git
+[submodule "go-redis-server"]
+	path = go-redis-server
+	url = https://github.com/docker/go-redis-server.git
+[submodule "docker-birthday-3"]
+	path = docker-birthday-3
+	url = https://github.com/docker/docker-birthday-3.git
+[submodule "datakit"]
+	path = datakit
+	url = https://github.com/docker/datakit.git
+[submodule "jenkins-pipeline-scripts"]
+	path = jenkins-pipeline-scripts
+	url = https://github.com/docker/jenkins-pipeline-scripts.git
+[submodule "irc-minutes"]
+	path = irc-minutes
+	url = https://github.com/docker/irc-minutes.git
+[submodule "jira-test"]
+	path = jira-test
+	url = https://github.com/docker/jira-test.git
+[submodule "dockercloud-haproxy"]
+	path = dockercloud-haproxy
+	url = https://github.com/docker/dockercloud-haproxy.git
+[submodule "leadership"]
+	path = leadership
+	url = https://github.com/docker/leadership.git
+[submodule "gordon"]
+	path = gordon
+	url = https://github.com/docker/gordon.git
+[submodule "leeroy"]
+	path = leeroy
+	url = https://github.com/docker/leeroy.git
+[submodule "go-connections"]
+	path = go-connections
+	url = https://github.com/docker/go-connections.git
+[submodule "dockercloud-network-daemon"]
+	path = dockercloud-network-daemon
+	url = https://github.com/docker/dockercloud-network-daemon.git
+[submodule "go"]
+	path = go
+	url = https://github.com/docker/go.git
+[submodule "libtrust"]
+	path = libtrust
+	url = https://github.com/docker/libtrust.git
+[submodule "libkv"]
+	path = libkv
+	url = https://github.com/docker/libkv.git
+[submodule "hub-feedback"]
+	path = hub-feedback
+	url = https://github.com/docker/hub-feedback.git
+[submodule "markdownlint"]
+	path = markdownlint
+	url = https://github.com/docker/markdownlint.git
+[submodule "migrator"]
+	path = migrator
+	url = https://github.com/docker/migrator.git
+[submodule "engine-api"]
+	path = engine-api
+	url = https://github.com/docker/engine-api.git
+[submodule "dockercloud-events"]
+	path = dockercloud-events
+	url = https://github.com/docker/dockercloud-events.git
+[submodule "libchan"]
+	path = libchan
+	url = https://github.com/docker/libchan.git
+[submodule "linkcheck"]
+	path = linkcheck
+	url = https://github.com/docker/linkcheck.git
+[submodule "openstack-docker"]
+	path = openstack-docker
+	url = https://github.com/docker/openstack-docker.git
+[submodule "openstack-heat-docker"]
+	path = openstack-heat-docker
+	url = https://github.com/docker/openstack-heat-docker.git
+[submodule "distribution"]
+	path = distribution
+	url = https://github.com/docker/distribution.git
+[submodule "docker-py"]
+	path = docker-py
+	url = https://github.com/docker/docker-py.git
+[submodule "golem"]
+	path = golem
+	url = https://github.com/docker/golem.git
+[submodule "python-dockercloud"]
+	path = python-dockercloud
+	url = https://github.com/docker/python-dockercloud.git
+[submodule "pulpo"]
+	path = pulpo
+	url = https://github.com/docker/pulpo.git
+[submodule "spdystream"]
+	path = spdystream
+	url = https://github.com/docker/spdystream.git
+[submodule "swarm-frontends"]
+	path = swarm-frontends
+	url = https://github.com/docker/swarm-frontends.git
+[submodule "libnetwork"]
+	path = libnetwork
+	url = https://github.com/docker/libnetwork.git
+[submodule "orchestration-workshop"]
+	path = orchestration-workshop
+	url = https://github.com/docker/orchestration-workshop.git
+[submodule "docs-base"]
+	path = docs-base
+	url = https://github.com/docker/docs-base.git
+[submodule "docker-tutorial"]
+	path = docker-tutorial
+	url = https://github.com/docker/docker-tutorial.git
+[submodule "dceu_tutorials"]
+	path = dceu_tutorials
+	url = https://github.com/docker/dceu_tutorials.git
+[submodule "notary-server-image"]
+	path = notary-server-image
+	url = https://github.com/docker/notary-server-image.git
+[submodule "infrakit.aws"]
+	path = infrakit.aws
+	url = https://github.com/docker/infrakit.aws.git
+[submodule "infrakit"]
+	path = infrakit
+	url = https://github.com/docker/infrakit.git
+[submodule "libcompose"]
+	path = libcompose
+	url = https://github.com/docker/libcompose.git
+[submodule "containerd"]
+	path = containerd
+	url = https://github.com/docker/containerd.git
+[submodule "libcontainer"]
+	path = libcontainer
+	url = https://github.com/docker/libcontainer.git
+[submodule "motdgen"]
+	path = motdgen
+	url = https://github.com/coreos/motdgen.git
+[submodule "pods"]
+	path = pods
+	url = https://github.com/coreos/pods.git
+[submodule "kubernetes-workshops"]
+	path = kubernetes-workshops
+	url = https://github.com/coreos/kubernetes-workshops.git
+[submodule "minikube-iso"]
+	path = minikube-iso
+	url = https://github.com/coreos/minikube-iso.git
+[submodule "pkg"]
+	path = pkg
+	url = https://github.com/coreos/pkg.git
+[submodule "pflag"]
+	path = pflag
+	url = https://github.com/coreos/pflag.git
+[submodule "nova-agent-watcher"]
+	path = nova-agent-watcher
+[submodule "protodoc"]
+	path = protodoc
+	url = https://github.com/coreos/protodoc.git
+[submodule "nss-altfiles"]
+	path = nss-altfiles
+	url = https://github.com/coreos/nss-altfiles.git
+[submodule "registry-monitor"]
+	path = registry-monitor
+	url = https://github.com/coreos/registry-monitor.git
+[submodule "kscale"]
+	path = kscale
+	url = https://github.com/coreos/kscale.git
+[submodule "resumablehashlib"]
+	path = resumablehashlib
+	url = https://github.com/coreos/resumablehashlib.git
+[submodule "regress-e2e"]
+	path = regress-e2e
+	url = https://github.com/coreos/regress-e2e.git
+[submodule "rkt-builder"]
+	path = rkt-builder
+	url = https://github.com/coreos/rkt-builder.git
+[submodule "oauth2_proxy"]
+	path = oauth2_proxy
+	url = https://github.com/coreos/oauth2_proxy.git
+[submodule "sdnotify-proxy"]
+	path = sdnotify-proxy
+	url = https://github.com/coreos/sdnotify-proxy.git
+[submodule "subgun"]
+	path = subgun
+	url = https://github.com/coreos/subgun.git
+[submodule "locksmith"]
+	path = locksmith
+	url = https://github.com/coreos/locksmith.git
+[submodule "sysroot-wrappers"]
+	path = sysroot-wrappers
+	url = https://github.com/coreos/sysroot-wrappers.git
+[submodule "stashy"]
+	path = stashy
+	url = https://github.com/coreos/stashy.git
+[submodule "template-project"]
+	path = template-project
+	url = https://github.com/coreos/template-project.git
+[submodule "krud"]
+	path = krud
+	url = https://github.com/coreos/krud.git
+[submodule "mockldap"]
+	path = mockldap
+	url = https://github.com/coreos/mockldap.git
+[submodule "ksched"]
+	path = ksched
+	url = https://github.com/coreos/ksched.git
+[submodule "third_party.go"]
+	path = third_party.go
+	url = https://github.com/coreos/third_party.go.git
+[submodule "toolbox"]
+	path = toolbox
+	url = https://github.com/coreos/toolbox.git
+[submodule "opensource"]
+	path = opensource
+	url = https://github.com/docker/opensource.git
+[submodule "mayday"]
+	path = mayday
+	url = https://github.com/coreos/mayday.git
+[submodule "terraform-provider-fuze"]
+	path = terraform-provider-fuze
+	url = https://github.com/coreos/terraform-provider-fuze.git
+[submodule "training"]
+	path = training
+	url = https://github.com/coreos/training.git
+[submodule "unit-examples"]
+	path = unit-examples
+	url = https://github.com/coreos/unit-examples.git
+[submodule "update-ssh-keys"]
+	path = update-ssh-keys
+	url = https://github.com/coreos/update-ssh-keys.git
+[submodule "manifest-builds"]
+	path = manifest-builds
+	url = https://github.com/coreos/manifest-builds.git
+[submodule "zetcd"]
+	path = zetcd
+	url = https://github.com/coreos/zetcd.git
+[submodule "motd-http"]
+	path = motd-http
+	url = https://github.com/coreos/motd-http.git
+[submodule "pyapi-gitlab"]
+	path = pyapi-gitlab
+	url = https://github.com/coreos/pyapi-gitlab.git
+[submodule "updateservicectl"]
+	path = updateservicectl
+	url = https://github.com/coreos/updateservicectl.git
+[submodule "raft"]
+	path = raft
+	url = https://github.com/coreos/raft.git
+[submodule "openstack-guest-agents-unix"]
+	path = openstack-guest-agents-unix
+	url = https://github.com/coreos/openstack-guest-agents-unix.git
+[submodule "rktnetes-workshop"]
+	path = rktnetes-workshop
+	url = https://github.com/coreos/rktnetes-workshop.git
+[submodule "update_engine"]
+	path = update_engine
+	url = https://github.com/coreos/update_engine.git
+[submodule "swarm-microservice-demo-v1"]
+	path = swarm-microservice-demo-v1
+	url = https://github.com/docker/swarm-microservice-demo-v1.git
+[submodule "shim"]
+	path = shim
+	url = https://github.com/coreos/shim.git
+[submodule "torus"]
+	path = torus
+	url = https://github.com/coreos/torus.git
+[submodule "manifest"]
+	path = manifest
+	url = https://github.com/coreos/manifest.git
+[submodule "runc"]
+	path = runc
+	url = https://github.com/docker/runc.git
+[submodule "peewee"]
+	path = peewee
+	url = https://github.com/coreos/peewee.git
+[submodule "yaml"]
+	path = yaml
+	url = https://github.com/coreos/yaml.git
+[submodule "birthdaysite"]
+	path = birthdaysite
+	url = https://github.com/docker/birthdaysite.git
+[submodule "kube-namespace-cni"]
+	path = kube-namespace-cni
+	url = https://github.com/coreos/kube-namespace-cni.git
+[submodule "compose"]
+	path = compose
+	url = https://github.com/docker/compose.git
+[submodule "quay-docs"]
+	path = quay-docs
+	url = https://github.com/coreos/quay-docs.git
+[submodule "systemd-rest"]
+	path = systemd-rest
+	url = https://github.com/coreos/systemd-rest.git
+[submodule "notary-signer-image"]
+	path = notary-signer-image
+	url = https://github.com/docker/notary-signer-image.git
+[submodule "machine"]
+	path = machine
+	url = https://github.com/docker/machine.git
+[submodule "dcus-hol-2016"]
+	path = dcus-hol-2016
+	url = https://github.com/docker/dcus-hol-2016.git
+[submodule "quayctl"]
+	path = quayctl
+	url = https://github.com/coreos/quayctl.git
+[submodule "hyperkit"]
+	path = hyperkit
+	url = https://github.com/docker/hyperkit.git
+[submodule "swarm"]
+	path = swarm
+	url = https://github.com/docker/swarm.git
+[submodule "nova-agent-container"]
+	path = nova-agent-container
+	url = https://github.com/coreos/nova-agent-container.git
+[submodule "swarmkit"]
+	path = swarmkit
+	url = https://github.com/docker/swarmkit.git
+[submodule "scripts"]
+	path = scripts
+	url = https://github.com/coreos/scripts.git
+[submodule "portage-stable"]
+	path = portage-stable
+	url = https://github.com/coreos/portage-stable.git
+[submodule "prometheus"]
+	path = prometheus
+	url = https://github.com/coreos/prometheus.git
+[submodule "rkt"]
+	path = rkt
+	url = https://github.com/coreos/rkt.git
+[submodule "seismograph"]
+	path = seismograph
+	url = https://github.com/coreos/seismograph.git
+[submodule "notary-official-images"]
+	path = notary-official-images
+	url = https://github.com/docker/notary-official-images.git
+[submodule "mantle"]
+	path = mantle
+	url = https://github.com/coreos/mantle.git
+[submodule "dockercraft"]
+	path = dockercraft
+	url = https://github.com/docker/dockercraft.git
+[submodule "community"]
+	path = community
+	url = https://github.com/docker/community.git
+[submodule "kitematic"]
+	path = kitematic
+	url = https://github.com/docker/kitematic.git
+[submodule "notary"]
+	path = notary
+	url = https://github.com/docker/notary.git
+[submodule "global-hack-day-3"]
+	path = global-hack-day-3
+	url = https://github.com/docker/global-hack-day-3.git
+[submodule "hugo"]
+	path = hugo
+	url = https://github.com/docker/hugo.git
+[submodule "homebrew-core"]
+	path = homebrew-core
+	url = https://github.com/docker/homebrew-core.git
+[submodule "distribution-library-image"]
+	path = distribution-library-image
+	url = https://github.com/docker/distribution-library-image.git
+[submodule "systemd"]
+	path = systemd
+	url = https://github.com/coreos/systemd.git
+[submodule "systemd-deprecated"]
+	path = systemd-deprecated
+	url = https://github.com/coreos/systemd-deprecated.git
+[submodule "swarm-library-image"]
+	path = swarm-library-image
+	url = https://github.com/docker/swarm-library-image.git
+[submodule "labs"]
+	path = labs
+	url = https://github.com/docker/labs.git
+[submodule "docker.github.io"]
+	path = docker.github.io
+	url = https://github.com/docker/docker.github.io.git
+[submodule "v1.10-migrator"]
+	path = v1.10-migrator
+	url = https://github.com/docker/v1.10-migrator.git
+[submodule "vpnkit"]
+	path = vpnkit
+	url = https://github.com/docker/vpnkit.git
+[submodule "ucp_lab"]
+	path = ucp_lab
+	url = https://github.com/docker/ucp_lab.git
+[submodule "apporch-step-by-step"]
+	path = apporch-step-by-step
+	url = https://github.com/puppetlabs/apporch-step-by-step.git
+[submodule "beaker-http"]
+	path = beaker-http
+	url = https://github.com/puppetlabs/beaker-http.git
+[submodule "beaker-abs"]
+	path = beaker-abs
+	url = https://github.com/puppetlabs/beaker-abs.git
+[submodule "atom-puppet-dark-syntax"]
+	path = atom-puppet-dark-syntax
+	url = https://github.com/puppetlabs/atom-puppet-dark-syntax.git
+[submodule "beaker-facter"]
+	path = beaker-facter
+[submodule "appmgmt-module-lamp"]
+	path = appmgmt-module-lamp
+	url = https://github.com/puppetlabs/appmgmt-module-lamp.git
+[submodule "beaker-hiera"]
+	path = beaker-hiera
+	url = https://github.com/puppetlabs/beaker-hiera.git
+[submodule "animals-demo"]
+	path = animals-demo
+	url = https://github.com/puppetlabs/animals-demo.git
+[submodule "aws_lifecycle_tools"]
+	path = aws_lifecycle_tools
+	url = https://github.com/puppetlabs/aws_lifecycle_tools.git
+[submodule "BeakerRubyMinePlugin"]
+	path = BeakerRubyMinePlugin
+	url = https://github.com/puppetlabs/BeakerRubyMinePlugin.git
+[submodule "build-data"]
+	path = build-data
+	url = https://github.com/puppetlabs/build-data.git
+[submodule "beaker-answers"]
+	path = beaker-answers
+	url = https://github.com/puppetlabs/beaker-answers.git
+[submodule "block-queued-job-plugin"]
+	path = block-queued-job-plugin
+	url = https://github.com/puppetlabs/block-queued-job-plugin.git
+[submodule "chloride"]
+	path = chloride
+	url = https://github.com/puppetlabs/chloride.git
+[submodule "classroom-example"]
+	path = classroom-example
+[submodule "clj-i18n"]
+	path = clj-i18n
+	url = https://github.com/puppetlabs/clj-i18n.git
+[submodule "clj-parent"]
+	path = clj-parent
+	url = https://github.com/puppetlabs/clj-parent.git
+[submodule "clj-ldap"]
+	path = clj-ldap
+	url = https://github.com/puppetlabs/clj-ldap.git
+[submodule "clj-schema-tools"]
+	path = clj-schema-tools
+	url = https://github.com/puppetlabs/clj-schema-tools.git
+[submodule "clj-pcp-common"]
+	path = clj-pcp-common
+	url = https://github.com/puppetlabs/clj-pcp-common.git
+[submodule "clj-typesafe-config"]
+	path = clj-typesafe-config
+	url = https://github.com/puppetlabs/clj-typesafe-config.git
+[submodule "clojure-gatling-spike"]
+	path = clojure-gatling-spike
+	url = https://github.com/puppetlabs/clojure-gatling-spike.git
+[submodule "cfjunkie"]
+	path = cfjunkie
+	url = https://github.com/puppetlabs/cfjunkie.git
+[submodule "cloudbees-demo"]
+	path = cloudbees-demo
+	url = https://github.com/puppetlabs/cloudbees-demo.git
+[submodule "cljs-dashboard-widgets"]
+	path = cljs-dashboard-widgets
+[submodule "clj-pcp-client"]
+	path = clj-pcp-client
+	url = https://github.com/puppetlabs/clj-pcp-client.git
+[submodule "cloudbees-site"]
+	path = cloudbees-site
+	url = https://github.com/puppetlabs/cloudbees-site.git
+[submodule "clj-puppetdb"]
+	path = clj-puppetdb
+	url = https://github.com/puppetlabs/clj-puppetdb.git
+[submodule "cloudbees-profile"]
+	path = cloudbees-profile
+	url = https://github.com/puppetlabs/cloudbees-profile.git
+[submodule "clj-kitchensink"]
+	path = clj-kitchensink
+	url = https://github.com/puppetlabs/clj-kitchensink.git
+[submodule "comidi"]
+	path = comidi
+	url = https://github.com/puppetlabs/comidi.git
+[submodule "cloudstack_resources"]
+	path = cloudstack_resources
+	url = https://github.com/puppetlabs/cloudstack_resources.git
+[submodule "cpp-project-template"]
+	path = cpp-project-template
+	url = https://github.com/puppetlabs/cpp-project-template.git
+[submodule "crates-caching-proxy"]
+	path = crates-caching-proxy
+	url = https://github.com/puppetlabs/crates-caching-proxy.git
+[submodule "control-repo"]
+	path = control-repo
+	url = https://github.com/puppetlabs/control-repo.git
+[submodule "beaker-hostgenerator"]
+	path = beaker-hostgenerator
+	url = https://github.com/puppetlabs/beaker-hostgenerator.git
+[submodule "deep_merge"]
+	path = deep_merge
+	url = https://github.com/puppetlabs/deep_merge.git
+[submodule "diamond-solariskstat"]
+	path = diamond-solariskstat
+	url = https://github.com/puppetlabs/diamond-solariskstat.git
+[submodule "dujour-version-check"]
+	path = dujour-version-check
+	url = https://github.com/puppetlabs/dujour-version-check.git
+[submodule "courseware-lms-content"]
+	path = courseware-lms-content
+	url = https://github.com/puppetlabs/courseware-lms-content.git
+[submodule "clj-jwt"]
+	path = clj-jwt
+	url = https://github.com/puppetlabs/clj-jwt.git
+[submodule "gettext-setup-gem"]
+	path = gettext-setup-gem
+	url = https://github.com/puppetlabs/gettext-setup-gem.git
+[submodule "hiera-community-debian"]
+	path = hiera-community-debian
+	url = https://github.com/puppetlabs/hiera-community-debian.git
+[submodule "ghpublisher"]
+	path = ghpublisher
+	url = https://github.com/puppetlabs/ghpublisher.git
+[submodule "grunt-drupal-extensions"]
+	path = grunt-drupal-extensions
+	url = https://github.com/puppetlabs/grunt-drupal-extensions.git
+[submodule "eduteam-dotfiles"]
+	path = eduteam-dotfiles
+	url = https://github.com/puppetlabs/eduteam-dotfiles.git
+[submodule "grunt-drush"]
+	path = grunt-drush
+	url = https://github.com/puppetlabs/grunt-drush.git
+[submodule "gitlog-md"]
+	path = gitlog-md
+	url = https://github.com/puppetlabs/gitlog-md.git
+[submodule "cpp-hocon"]
+	path = cpp-hocon
+	url = https://github.com/puppetlabs/cpp-hocon.git
+[submodule "harrison"]
+	path = harrison
+	url = https://github.com/puppetlabs/harrison.git
+[submodule "file-sync-testing-control-repo"]
+	path = file-sync-testing-control-repo
+	url = https://github.com/puppetlabs/file-sync-testing-control-repo.git
+[submodule "graph"]
+	path = graph
+	url = https://github.com/puppetlabs/graph.git
+[submodule "horsewhisperer"]
+	path = horsewhisperer
+	url = https://github.com/puppetlabs/horsewhisperer.git
+[submodule "infrastructure-puppetfile"]
+	path = infrastructure-puppetfile
+	url = https://github.com/puppetlabs/infrastructure-puppetfile.git
+[submodule "hiera-puppet"]
+	path = hiera-puppet
+	url = https://github.com/puppetlabs/hiera-puppet.git
+[submodule "in-parallel"]
+	path = in-parallel
+	url = https://github.com/puppetlabs/in-parallel.git
+[submodule "jenkins-pipeline-puppet-enterprise-plugin"]
+	path = jenkins-pipeline-puppet-enterprise-plugin
+	url = https://github.com/puppetlabs/jenkins-pipeline-puppet-enterprise-plugin.git
+[submodule "jdbc-util"]
+	path = jdbc-util
+	url = https://github.com/puppetlabs/jdbc-util.git
+[submodule "clj-http-client"]
+	path = clj-http-client
+	url = https://github.com/puppetlabs/clj-http-client.git
+[submodule "hiera"]
+	path = hiera
+	url = https://github.com/puppetlabs/hiera.git
+[submodule "facter-debian-packaging"]
+	path = facter-debian-packaging
+	url = https://github.com/puppetlabs/facter-debian-packaging.git
+[submodule "forge-ruby"]
+	path = forge-ruby
+	url = https://github.com/puppetlabs/forge-ruby.git
+[submodule "ezbake"]
+	path = ezbake
+	url = https://github.com/puppetlabs/ezbake.git
+[submodule "icfp-2014"]
+	path = icfp-2014
+	url = https://github.com/puppetlabs/icfp-2014.git
+[submodule "green-team-ci-eye"]
+	path = green-team-ci-eye
+	url = https://github.com/puppetlabs/green-team-ci-eye.git
+[submodule "jekyll"]
+	path = jekyll
+	url = https://github.com/puppetlabs/jekyll.git
+[submodule "jenkins-job-builder"]
+	path = jenkins-job-builder
+	url = https://github.com/puppetlabs/jenkins-job-builder.git
+[submodule "courseware-lvm"]
+	path = courseware-lvm
+	url = https://github.com/puppetlabs/courseware-lvm.git
+[submodule "cfacter"]
+	path = cfacter
+	url = https://github.com/puppetlabs/cfacter.git
+[submodule "community-big-picture"]
+	path = community-big-picture
+	url = https://github.com/puppetlabs/community-big-picture.git
+[submodule "gatling-puppet-load-test"]
+	path = gatling-puppet-load-test
+	url = https://github.com/puppetlabs/gatling-puppet-load-test.git
+[submodule "cpp-pcp-client"]
+	path = cpp-pcp-client
+	url = https://github.com/puppetlabs/cpp-pcp-client.git
+[submodule "beaker"]
+	path = beaker
+	url = https://github.com/puppetlabs/beaker.git
+[submodule "facter"]
+	path = facter
+	url = https://github.com/puppetlabs/facter.git
+[submodule "geppetto"]
+	path = geppetto
+	url = https://github.com/puppetlabs/geppetto.git
+[submodule "boxen-web"]
+	path = boxen-web
+	url = https://github.com/puppetlabs/boxen-web.git
+[submodule "education-builds"]
+	path = education-builds
+	url = https://github.com/puppetlabs/education-builds.git
+[submodule "crossfader"]
+	path = crossfader
+	url = https://github.com/puppetlabs/crossfader.git
+[submodule "linux"]
+	path = linux
+	url = https://github.com/coreos/linux.git
+[submodule "linux-deprecated"]
+	path = linux-deprecated
+	url = https://github.com/coreos/linux-deprecated.git
