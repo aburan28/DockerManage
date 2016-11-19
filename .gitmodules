@@ -1056,3 +1056,48 @@
 [submodule "linux-deprecated"]
 	path = linux-deprecated
 	url = https://github.com/coreos/linux-deprecated.git
+[submodule "vagrant"]
+	path = vagrant
+	url = https://github.com/mitchellh/vagrant
+[submodule "kompose"]
+	path = kompose
+	url = https://github.com/kubernetes-incubator/kompose
+[submodule "spartakus"]
+	path = spartakus
+	url = https://github.com/kubernetes-incubator/spartakus
+[submodule "application-images"]
+	path = application-images
+	url = https://github.com/kubernetes-incubator/application-images
+[submodule "kube-mesos-framework"]
+	path = kube-mesos-framework
+	url = https://github.com/kubernetes-incubator/kube-mesos-framework
+[submodule "nfs-provisioner"]
+	path = nfs-provisioner
+	url = https://github.com/kubernetes-incubator/nfs-provisioner
+[submodule "client-python"]
+	path = client-python
+	url = https://github.com/kubernetes-incubator/client-python
+[submodule "rktlet"]
+	path = rktlet
+	url = https://github.com/kubernetes-incubator/rktlet
+[submodule "service-catalog"]
+	path = service-catalog
+	url = https://github.com/kubernetes-incubator/service-catalog
+[submodule "kargo"]
+	path = kargo
+	url = https://github.com/kubernetes-incubator/kargo
+[submodule "node-feature-discovery"]
+	path = node-feature-discovery
+	url = https://github.com/kubernetes-incubator/node-feature-discovery
+[submodule "cri-o"]
+	path = cri-o
+	url = https://github.com/kubernetes-incubator/cri-o
+[submodule "bootkube"]
+	path = bootkube
+	url = https://github.com/kubernetes-incubator/bootkube
+[submodule "cluster-proportional-autoscaler"]
+	path = cluster-proportional-autoscaler
+	url = https://github.com/kubernetes-incubator/cluster-proportional-autoscaler
+[submodule "puppet-in-docker-examples"]
+	path = puppet-in-docker-examples
+	url = https://github.com/puppetlabs/puppet-in-docker-examples
