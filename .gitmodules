@@ -1101,3 +1101,357 @@
 [submodule "puppet-in-docker-examples"]
 	path = puppet-in-docker-examples
 	url = https://github.com/puppetlabs/puppet-in-docker-examples
+[submodule "dockercloud-node"]
+	path = dockercloud-node
+	url = https://github.com/docker/dockercloud-node.git
+[submodule "dockercloud-quickstart-go"]
+	path = dockercloud-quickstart-go
+	url = https://github.com/docker/dockercloud-quickstart-go.git
+[submodule "datakit.logs"]
+	path = datakit.logs
+	url = https://github.com/docker/datakit.logs.git
+[submodule "features"]
+	path = features
+	url = https://github.com/kubernetes/features.git
+[submodule "kube-state-metrics"]
+	path = kube-state-metrics
+	url = https://github.com/kubernetes/kube-state-metrics.git
+[submodule "kube-deploy"]
+	path = kube-deploy
+	url = https://github.com/kubernetes/kube-deploy.git
+[submodule "ingress"]
+	path = ingress
+	url = https://github.com/kubernetes/ingress.git
+[submodule "oci-fetch"]
+	path = oci-fetch
+	url = https://github.com/containers/oci-fetch.git
+[submodule "build"]
+	path = build
+	url = https://github.com/containers/build.git
+[submodule "image"]
+	path = image
+	url = https://github.com/containers/image.git
+[submodule "storage"]
+	path = storage
+	url = https://github.com/containers/storage.git
+[submodule "py-awsaudit"]
+	path = py-awsaudit
+	url = https://github.com/puppetlabs/py-awsaudit.git
+[submodule "razor-control-repo"]
+	path = razor-control-repo
+	url = https://github.com/puppetlabs/razor-control-repo.git
+[submodule "razor-client"]
+	path = razor-client
+	url = https://github.com/puppetlabs/razor-client.git
+[submodule "repo-metrics"]
+	path = repo-metrics
+	url = https://github.com/puppetlabs/repo-metrics.git
+[submodule "ring-middleware"]
+	path = ring-middleware
+	url = https://github.com/puppetlabs/ring-middleware.git
+[submodule "rspec-system-puppet"]
+	path = rspec-system-puppet
+	url = https://github.com/puppetlabs/rspec-system-puppet.git
+[submodule "razor-el-mk"]
+	path = razor-el-mk
+	url = https://github.com/puppetlabs/razor-el-mk.git
+[submodule "seisan-line"]
+	path = seisan-line
+	url = https://github.com/puppetlabs/seisan-line.git
+[submodule "razor-vanagon"]
+	path = razor-vanagon
+	url = https://github.com/puppetlabs/razor-vanagon.git
+[submodule "stackhammer-api"]
+	path = stackhammer-api
+	url = https://github.com/puppetlabs/stackhammer-api.git
+[submodule "reductive_build"]
+	path = reductive_build
+	url = https://github.com/puppetlabs/reductive_build.git
+[submodule "rspec-system-serverspec"]
+	path = rspec-system-serverspec
+	url = https://github.com/puppetlabs/rspec-system-serverspec.git
+[submodule "skeksis"]
+	path = skeksis
+	url = https://github.com/puppetlabs/skeksis.git
+[submodule "stringify-hash"]
+	path = stringify-hash
+	url = https://github.com/puppetlabs/stringify-hash.git
+[submodule "telly"]
+	path = telly
+	url = https://github.com/puppetlabs/telly.git
+[submodule "rototiller"]
+	path = rototiller
+	url = https://github.com/puppetlabs/rototiller.git
+[submodule "stockpile"]
+	path = stockpile
+	url = https://github.com/puppetlabs/stockpile.git
+[submodule "ticketmatch"]
+	path = ticketmatch
+	url = https://github.com/puppetlabs/ticketmatch.git
+[submodule "test-component"]
+	path = test-component
+	url = https://github.com/puppetlabs/test-component.git
+[submodule "structured-logging"]
+	path = structured-logging
+	url = https://github.com/puppetlabs/structured-logging.git
+[submodule "trapperkeeper-comidi-metrics"]
+	path = trapperkeeper-comidi-metrics
+	url = https://github.com/puppetlabs/trapperkeeper-comidi-metrics.git
+[submodule "stomp"]
+	path = stomp
+	url = https://github.com/puppetlabs/stomp.git
+[submodule "trapperkeeper-demo"]
+	path = trapperkeeper-demo
+	url = https://github.com/puppetlabs/trapperkeeper-demo.git
+[submodule "PuppetManifestGenerator"]
+	path = PuppetManifestGenerator
+	url = https://github.com/puppetlabs/PuppetManifestGenerator.git
+[submodule "trapperkeeper-rpc"]
+	path = trapperkeeper-rpc
+	url = https://github.com/puppetlabs/trapperkeeper-rpc.git
+[submodule "trapperkeeper-filesystem-watcher"]
+	path = trapperkeeper-filesystem-watcher
+	url = https://github.com/puppetlabs/trapperkeeper-filesystem-watcher.git
+[submodule "semantic_puppet"]
+	path = semantic_puppet
+	url = https://github.com/puppetlabs/semantic_puppet.git
+[submodule "stack_builder"]
+	path = stack_builder
+	url = https://github.com/puppetlabs/stack_builder.git
+[submodule "ruby-pcp-client"]
+	path = ruby-pcp-client
+	url = https://github.com/puppetlabs/ruby-pcp-client.git
+[submodule "trapperkeeper-scheduler"]
+	path = trapperkeeper-scheduler
+	url = https://github.com/puppetlabs/trapperkeeper-scheduler.git
+[submodule "trapperkeeper"]
+	path = trapperkeeper
+	url = https://github.com/puppetlabs/trapperkeeper.git
+[submodule "tse-module-awsenv"]
+	path = tse-module-awsenv
+	url = https://github.com/puppetlabs/tse-module-awsenv.git
+[submodule "trapperkeeper-webserver-jetty7"]
+	path = trapperkeeper-webserver-jetty7
+	url = https://github.com/puppetlabs/trapperkeeper-webserver-jetty7.git
+[submodule "tse-module-dotnet"]
+	path = tse-module-dotnet
+	url = https://github.com/puppetlabs/tse-module-dotnet.git
+[submodule "tse-module-awstraining"]
+	path = tse-module-awstraining
+	url = https://github.com/puppetlabs/tse-module-awstraining.git
+[submodule "ruby-hocon"]
+	path = ruby-hocon
+	url = https://github.com/puppetlabs/ruby-hocon.git
+[submodule "puppet_for_the_win"]
+	path = puppet_for_the_win
+	url = https://github.com/puppetlabs/puppet_for_the_win.git
+[submodule "tse-module-ldapserver"]
+	path = tse-module-ldapserver
+	url = https://github.com/puppetlabs/tse-module-ldapserver.git
+[submodule "tse-module-nimbus"]
+	path = tse-module-nimbus
+	url = https://github.com/puppetlabs/tse-module-nimbus.git
+[submodule "tse-module-openssh"]
+	path = tse-module-openssh
+	url = https://github.com/puppetlabs/tse-module-openssh.git
+[submodule "tse-module-pe_windows_shortcuts"]
+	path = tse-module-pe_windows_shortcuts
+	url = https://github.com/puppetlabs/tse-module-pe_windows_shortcuts.git
+[submodule "tse-module-shortcut"]
+	path = tse-module-shortcut
+	url = https://github.com/puppetlabs/tse-module-shortcut.git
+[submodule "test-suite-vanagon"]
+	path = test-suite-vanagon
+	url = https://github.com/puppetlabs/test-suite-vanagon.git
+[submodule "tse-module-nonpriv"]
+	path = tse-module-nonpriv
+	url = https://github.com/puppetlabs/tse-module-nonpriv.git
+[submodule "tse-module-tse_admins"]
+	path = tse-module-tse_admins
+	url = https://github.com/puppetlabs/tse-module-tse_admins.git
+[submodule "tse-module-puppet_nodes"]
+	path = tse-module-puppet_nodes
+	url = https://github.com/puppetlabs/tse-module-puppet_nodes.git
+[submodule "tse-module-tse_windows"]
+	path = tse-module-tse_windows
+	url = https://github.com/puppetlabs/tse-module-tse_windows.git
+[submodule "tse-module-winntp"]
+	path = tse-module-winntp
+	url = https://github.com/puppetlabs/tse-module-winntp.git
+[submodule "trapperkeeper-ruby"]
+	path = trapperkeeper-ruby
+	url = https://github.com/puppetlabs/trapperkeeper-ruby.git
+[submodule "tse-module-time"]
+	path = tse-module-time
+	url = https://github.com/puppetlabs/tse-module-time.git
+[submodule "tse-module-tse_facts"]
+	path = tse-module-tse_facts
+	url = https://github.com/puppetlabs/tse-module-tse_facts.git
+[submodule "vagrant-beaker"]
+	path = vagrant-beaker
+	url = https://github.com/puppetlabs/vagrant-beaker.git
+[submodule "trapperkeeper-webserver-jetty9"]
+	path = trapperkeeper-webserver-jetty9
+	url = https://github.com/puppetlabs/trapperkeeper-webserver-jetty9.git
+[submodule "velocity_puppet_workshop_2009"]
+	path = velocity_puppet_workshop_2009
+	url = https://github.com/puppetlabs/velocity_puppet_workshop_2009.git
+[submodule "rspec-system"]
+	path = rspec-system
+	url = https://github.com/puppetlabs/rspec-system.git
+[submodule "vmwr"]
+	path = vmwr
+	url = https://github.com/puppetlabs/vmwr.git
+[submodule "tse-toolkit"]
+	path = tse-toolkit
+	url = https://github.com/puppetlabs/tse-toolkit.git
+[submodule "win32-taskscheduler"]
+	path = win32-taskscheduler
+	url = https://github.com/puppetlabs/win32-taskscheduler.git
+[submodule "wetty"]
+	path = wetty
+	url = https://github.com/puppetlabs/wetty.git
+[submodule "quest"]
+	path = quest
+	url = https://github.com/puppetlabs/quest.git
+[submodule "vmpooler"]
+	path = vmpooler
+	url = https://github.com/puppetlabs/vmpooler.git
+[submodule "r10k"]
+	path = r10k
+	url = https://github.com/puppetlabs/r10k.git
+[submodule "rbvmomi"]
+	path = rbvmomi
+	url = https://github.com/puppetlabs/rbvmomi.git
+[submodule "Razor-Microkernel"]
+	path = Razor-Microkernel
+	url = https://github.com/puppetlabs/Razor-Microkernel.git
+[submodule "vanagon"]
+	path = vanagon
+	url = https://github.com/puppetlabs/vanagon.git
+[submodule "tse-module-local_yum_repo"]
+	path = tse-module-local_yum_repo
+	url = https://github.com/puppetlabs/tse-module-local_yum_repo.git
+[submodule "puppet_community_data"]
+	path = puppet_community_data
+	url = https://github.com/puppetlabs/puppet_community_data.git
+[submodule "rgbank"]
+	path = rgbank
+	url = https://github.com/puppetlabs/rgbank.git
+[submodule "tse-module-tse_sqlserver"]
+	path = tse-module-tse_sqlserver
+	url = https://github.com/puppetlabs/tse-module-tse_sqlserver.git
+[submodule "puppetserver"]
+	path = puppetserver
+	url = https://github.com/puppetlabs/puppetserver.git
+[submodule "Razor"]
+	path = Razor
+	url = https://github.com/puppetlabs/Razor.git
+[submodule "showoff"]
+	path = showoff
+	url = https://github.com/puppetlabs/showoff.git
+[submodule "pxp-agent"]
+	path = pxp-agent
+	url = https://github.com/puppetlabs/pxp-agent.git
+[submodule "tse-module-cmsapp"]
+	path = tse-module-cmsapp
+	url = https://github.com/puppetlabs/tse-module-cmsapp.git
+[submodule "waylon"]
+	path = waylon
+	url = https://github.com/puppetlabs/waylon.git
+[submodule "razor-torquebox"]
+	path = razor-torquebox
+	url = https://github.com/puppetlabs/razor-torquebox.git
+[submodule "cloudwatch_exporter"]
+	path = cloudwatch_exporter
+	url = https://github.com/prometheus/cloudwatch_exporter.git
+[submodule "client_model"]
+	path = client_model
+	url = https://github.com/prometheus/client_model.git
+[submodule "host_exporter"]
+	path = host_exporter
+	url = https://github.com/prometheus/host_exporter.git
+[submodule "prom2json"]
+	path = prom2json
+	url = https://github.com/prometheus/prom2json.git
+[submodule "golang-builder"]
+	path = golang-builder
+	url = https://github.com/prometheus/golang-builder.git
+[submodule "nagios_plugins"]
+	path = nagios_plugins
+	url = https://github.com/prometheus/nagios_plugins.git
+[submodule "client_python"]
+	path = client_python
+	url = https://github.com/prometheus/client_python.git
+[submodule "migrate"]
+	path = migrate
+	url = https://github.com/prometheus/migrate.git
+[submodule "utils"]
+	path = utils
+	url = https://github.com/prometheus/utils.git
+[submodule "procfs"]
+	path = procfs
+	url = https://github.com/prometheus/procfs.git
+[submodule "common"]
+	path = common
+	url = https://github.com/prometheus/common.git
+[submodule "consul_exporter"]
+	path = consul_exporter
+	url = https://github.com/prometheus/consul_exporter.git
+[submodule "client_golang"]
+	path = client_golang
+	url = https://github.com/prometheus/client_golang.git
+[submodule "pushgateway"]
+	path = pushgateway
+	url = https://github.com/prometheus/pushgateway.git
+[submodule "memcached_exporter"]
+	path = memcached_exporter
+	url = https://github.com/prometheus/memcached_exporter.git
+[submodule "client_ruby"]
+	path = client_ruby
+	url = https://github.com/prometheus/client_ruby.git
+[submodule "snmp_exporter"]
+	path = snmp_exporter
+	url = https://github.com/prometheus/snmp_exporter.git
+[submodule "blackbox_exporter"]
+	path = blackbox_exporter
+	url = https://github.com/prometheus/blackbox_exporter.git
+[submodule "node_exporter"]
+	path = node_exporter
+	url = https://github.com/prometheus/node_exporter.git
+[submodule "influxdb_exporter"]
+	path = influxdb_exporter
+	url = https://github.com/prometheus/influxdb_exporter.git
+[submodule "statsd_exporter"]
+	path = statsd_exporter
+	url = https://github.com/prometheus/statsd_exporter.git
+[submodule "haproxy_exporter"]
+	path = haproxy_exporter
+	url = https://github.com/prometheus/haproxy_exporter.git
+[submodule "promdash"]
+	path = promdash
+	url = https://github.com/prometheus/promdash.git
+[submodule "busybox"]
+	path = busybox
+	url = https://github.com/prometheus/busybox.git
+[submodule "jmx_exporter"]
+	path = jmx_exporter
+	url = https://github.com/prometheus/jmx_exporter.git
+[submodule "client_java"]
+	path = client_java
+	url = https://github.com/prometheus/client_java.git
+[submodule "graphite_exporter"]
+	path = graphite_exporter
+	url = https://github.com/prometheus/graphite_exporter.git
+[submodule "promu"]
+	path = promu
+	url = https://github.com/prometheus/promu.git
+[submodule "mysqld_exporter"]
+	path = mysqld_exporter
+	url = https://github.com/prometheus/mysqld_exporter.git
+[submodule "prometheus.github.io"]
+	path = prometheus.github.io
+	url = https://github.com/prometheus/prometheus.github.io.git
+[submodule "origin"]
+	path = origin
+	url = https://github.com/openshift/origin
