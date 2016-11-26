@@ -1455,3 +1455,305 @@
 [submodule "origin"]
 	path = origin
 	url = https://github.com/openshift/origin
+[submodule "acctest-application-configuration"]
+	path = acctest-application-configuration
+	url = https://github.com/hashicorp/acctest-application-configuration.git
+[submodule "atlas-packer-vagrant-tutorial"]
+	path = atlas-packer-vagrant-tutorial
+	url = https://github.com/hashicorp/atlas-packer-vagrant-tutorial.git
+[submodule "consul-migrate"]
+	path = consul-migrate
+	url = https://github.com/hashicorp/consul-migrate.git
+[submodule "demo-app-nodejs"]
+	path = demo-app-nodejs
+	url = https://github.com/hashicorp/demo-app-nodejs.git
+[submodule "atlas-terraform-tutorial"]
+	path = atlas-terraform-tutorial
+	url = https://github.com/hashicorp/atlas-terraform-tutorial.git
+[submodule "best-practices"]
+	path = best-practices
+	url = https://github.com/hashicorp/best-practices.git
+[submodule "atlas-go"]
+	path = atlas-go
+	url = https://github.com/hashicorp/atlas-go.git
+[submodule "acctest-build-configuration"]
+	path = acctest-build-configuration
+	url = https://github.com/hashicorp/acctest-build-configuration.git
+[submodule "consul-replicate"]
+	path = consul-replicate
+	url = https://github.com/hashicorp/consul-replicate.git
+[submodule "force-www"]
+	path = force-www
+	url = https://github.com/hashicorp/force-www.git
+[submodule "go-cleanhttp"]
+	path = go-cleanhttp
+	url = https://github.com/hashicorp/go-cleanhttp.git
+[submodule "demo-app-rails"]
+	path = demo-app-rails
+[submodule "go-gatedio"]
+	path = go-gatedio
+	url = https://github.com/hashicorp/go-gatedio.git
+[submodule "go-checkpoint"]
+	path = go-checkpoint
+	url = https://github.com/hashicorp/go-checkpoint.git
+[submodule "docker-basetool"]
+	path = docker-basetool
+	url = https://github.com/hashicorp/docker-basetool.git
+[submodule "go-getter"]
+	path = go-getter
+	url = https://github.com/hashicorp/go-getter.git
+[submodule "c1m"]
+	path = c1m
+	url = https://github.com/hashicorp/c1m.git
+[submodule "go-immutable-radix"]
+	path = go-immutable-radix
+	url = https://github.com/hashicorp/go-immutable-radix.git
+[submodule "aws-sdk-go"]
+	path = aws-sdk-go
+	url = https://github.com/hashicorp/aws-sdk-go.git
+[submodule "go-memdb"]
+	path = go-memdb
+	url = https://github.com/hashicorp/go-memdb.git
+[submodule "go-multierror"]
+	path = go-multierror
+	url = https://github.com/hashicorp/go-multierror.git
+[submodule "go-syslog"]
+	path = go-syslog
+	url = https://github.com/hashicorp/go-syslog.git
+[submodule "go-retryablehttp"]
+	path = go-retryablehttp
+	url = https://github.com/hashicorp/go-retryablehttp.git
+[submodule "go-reap"]
+	path = go-reap
+	url = https://github.com/hashicorp/go-reap.git
+[submodule "go-rootcerts"]
+	path = go-rootcerts
+	url = https://github.com/hashicorp/go-rootcerts.git
+[submodule "go-plugin"]
+	path = go-plugin
+	url = https://github.com/hashicorp/go-plugin.git
+[submodule "hello-from-rack"]
+	path = hello-from-rack
+	url = https://github.com/hashicorp/hello-from-rack.git
+[submodule "go-version"]
+	path = go-version
+	url = https://github.com/hashicorp/go-version.git
+[submodule "golang-lru"]
+	path = golang-lru
+	url = https://github.com/hashicorp/golang-lru.git
+[submodule "go-msgpack"]
+	path = go-msgpack
+	url = https://github.com/hashicorp/go-msgpack.git
+[submodule "gomemcache"]
+	path = gomemcache
+	url = https://github.com/hashicorp/gomemcache.git
+[submodule "http-echo"]
+	path = http-echo
+	url = https://github.com/hashicorp/http-echo.git
+[submodule "heroku-buildpack-middleman"]
+	path = heroku-buildpack-middleman
+	url = https://github.com/hashicorp/heroku-buildpack-middleman.git
+[submodule "logutils"]
+	path = logutils
+	url = https://github.com/hashicorp/logutils.git
+[submodule "heroku-buildpack-rubygem-server"]
+	path = heroku-buildpack-rubygem-server
+	url = https://github.com/hashicorp/heroku-buildpack-rubygem-server.git
+[submodule "go.net"]
+	path = go.net
+	url = https://github.com/hashicorp/go.net.git
+[submodule "hcl"]
+	path = hcl
+	url = https://github.com/hashicorp/hcl.git
+[submodule "multiple-envs"]
+	path = multiple-envs
+	url = https://github.com/hashicorp/multiple-envs.git
+[submodule "go-uuid"]
+	path = go-uuid
+	url = https://github.com/hashicorp/go-uuid.git
+[submodule "net-rpc-msgpackrpc"]
+	path = net-rpc-msgpackrpc
+	url = https://github.com/hashicorp/net-rpc-msgpackrpc.git
+[submodule "mdns"]
+	path = mdns
+	url = https://github.com/hashicorp/mdns.git
+[submodule "photon-vagrant"]
+	path = photon-vagrant
+	url = https://github.com/hashicorp/photon-vagrant.git
+[submodule "go-sockaddr"]
+	path = go-sockaddr
+	url = https://github.com/hashicorp/go-sockaddr.git
+[submodule "otto-getting-started"]
+	path = otto-getting-started
+	url = https://github.com/hashicorp/otto-getting-started.git
+[submodule "envconsul"]
+	path = envconsul
+	url = https://github.com/hashicorp/envconsul.git
+[submodule "middleman-hashicorp"]
+	path = middleman-hashicorp
+	url = https://github.com/hashicorp/middleman-hashicorp.git
+[submodule "puppet-bootstrap"]
+	path = puppet-bootstrap
+	url = https://github.com/hashicorp/puppet-bootstrap.git
+[submodule "hil"]
+	path = hil
+	url = https://github.com/hashicorp/hil.git
+[submodule "otto-example-app-plugin"]
+	path = otto-example-app-plugin
+	url = https://github.com/hashicorp/otto-example-app-plugin.git
+[submodule "raft-mdb"]
+	path = raft-mdb
+	url = https://github.com/hashicorp/raft-mdb.git
+[submodule "rtmo-lesson-2"]
+	path = rtmo-lesson-2
+	url = https://github.com/hashicorp/rtmo-lesson-2.git
+[submodule "docker-official-images"]
+	path = docker-official-images
+	url = https://github.com/hashicorp/docker-official-images.git
+[submodule "rtmo-lesson-1"]
+	path = rtmo-lesson-1
+	url = https://github.com/hashicorp/rtmo-lesson-1.git
+[submodule "rtmo-terraform"]
+	path = rtmo-terraform
+	url = https://github.com/hashicorp/rtmo-terraform.git
+[submodule "ruby-checkpoint"]
+	path = ruby-checkpoint
+	url = https://github.com/hashicorp/ruby-checkpoint.git
+[submodule "scada-client"]
+	path = scada-client
+	url = https://github.com/hashicorp/scada-client.git
+[submodule "rtmo-consul"]
+	path = rtmo-consul
+	url = https://github.com/hashicorp/rtmo-consul.git
+[submodule "uuid"]
+	path = uuid
+	url = https://github.com/hashicorp/uuid.git
+[submodule "libucl"]
+	path = libucl
+	url = https://github.com/hashicorp/libucl.git
+[submodule "vault-provision-example"]
+	path = vault-provision-example
+	url = https://github.com/hashicorp/vault-provision-example.git
+[submodule "vagrant-plugin-changelog"]
+	path = vagrant-plugin-changelog
+	url = https://github.com/hashicorp/vagrant-plugin-changelog.git
+[submodule "rtmo-packer"]
+	path = rtmo-packer
+	url = https://github.com/hashicorp/rtmo-packer.git
+[submodule "vault-rails"]
+	path = vault-rails
+	url = https://github.com/hashicorp/vault-rails.git
+[submodule "vagrant-docs-old"]
+	path = vagrant-docs-old
+	url = https://github.com/hashicorp/vagrant-docs-old.git
+[submodule "yamux"]
+	path = yamux
+	url = https://github.com/hashicorp/yamux.git
+[submodule "vault-ruby"]
+	path = vault-ruby
+	url = https://github.com/hashicorp/vault-ruby.git
+[submodule "vault-ssh-helper"]
+	path = vault-ssh-helper
+	url = https://github.com/hashicorp/vault-ssh-helper.git
+[submodule "schedbench"]
+	path = schedbench
+	url = https://github.com/hashicorp/schedbench.git
+[submodule "consul-template"]
+	path = consul-template
+	url = https://github.com/hashicorp/consul-template.git
+[submodule "otto"]
+	path = otto
+	url = https://github.com/hashicorp/otto.git
+[submodule "ionicons"]
+	path = ionicons
+	url = https://github.com/hashicorp/ionicons.git
+[submodule "raft-boltdb"]
+	path = raft-boltdb
+	url = https://github.com/hashicorp/raft-boltdb.git
+[submodule "atlas-examples"]
+	path = atlas-examples
+	url = https://github.com/hashicorp/atlas-examples.git
+[submodule "rtmo-pipeline"]
+	path = rtmo-pipeline
+	url = https://github.com/hashicorp/rtmo-pipeline.git
+[submodule "memberlist"]
+	path = memberlist
+	url = https://github.com/hashicorp/memberlist.git
+[submodule "docker-vault"]
+	path = docker-vault
+	url = https://github.com/hashicorp/docker-vault.git
+[submodule "docker-consul"]
+	path = docker-consul
+	url = https://github.com/hashicorp/docker-consul.git
+[submodule "serf"]
+	path = serf
+	url = https://github.com/hashicorp/serf.git
+[submodule "vault-demo-server"]
+	path = vault-demo-server
+	url = https://github.com/hashicorp/vault-demo-server.git
+[submodule "lets-chat"]
+	path = lets-chat
+	url = https://github.com/hashicorp/lets-chat.git
+[submodule "vault"]
+	path = vault
+	url = https://github.com/hashicorp/vault.git
+[submodule "consul"]
+	path = consul
+	url = https://github.com/hashicorp/consul.git
+[submodule "nomad"]
+	path = nomad
+	url = https://github.com/hashicorp/nomad.git
+[submodule "docker-docs"]
+	path = docker-docs
+	url = https://github.com/hashicorp/docker-docs.git
+[submodule "terraform"]
+	path = terraform
+	url = https://github.com/hashicorp/terraform.git
+[submodule "awscli"]
+	path = awscli
+	url = https://github.com/coreos/awscli.git
+[submodule "coretest"]
+	path = coretest
+	url = https://github.com/coreos/coretest.git
+[submodule "ga-beacon"]
+	path = ga-beacon
+	url = https://github.com/coreos/ga-beacon.git
+[submodule "etcd-operator"]
+	path = etcd-operator
+	url = https://github.com/coreos/etcd-operator.git
+[submodule "bcrypt-tool"]
+	path = bcrypt-tool
+	url = https://github.com/coreos/bcrypt-tool.git
+[submodule "clair-jwt"]
+	path = clair-jwt
+	url = https://github.com/coreos/clair-jwt.git
+[submodule "dbtester"]
+	path = dbtester
+	url = https://github.com/coreos/dbtester.git
+[submodule "journal-2-logentries"]
+	path = journal-2-logentries
+	url = https://github.com/coreos/journal-2-logentries.git
+[submodule "libtorrent-go"]
+	path = libtorrent-go
+	url = https://github.com/coreos/libtorrent-go.git
+[submodule "prometheus-aggregator"]
+	path = prometheus-aggregator
+	url = https://github.com/coreos/prometheus-aggregator.git
+[submodule "nsproxy"]
+	path = nsproxy
+	url = https://github.com/coreos/nsproxy.git
+[submodule "strudel"]
+	path = strudel
+	url = https://github.com/coreos/strudel.git
+[submodule "prometheus-operator"]
+	path = prometheus-operator
+	url = https://github.com/coreos/prometheus-operator.git
+[submodule "kube-aws"]
+	path = kube-aws
+	url = https://github.com/coreos/kube-aws.git
+[submodule "kube-lego"]
+	path = kube-lego
+	url = https://github.com/coreos/kube-lego.git
+[submodule "docker-fluentd-kubernetes"]
+	path = docker-fluentd-kubernetes
+	url = https://github.com/coreos/docker-fluentd-kubernetes.git
