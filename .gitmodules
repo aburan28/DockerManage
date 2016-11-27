@@ -1757,3 +1757,201 @@
 [submodule "docker-fluentd-kubernetes"]
 	path = docker-fluentd-kubernetes
 	url = https://github.com/coreos/docker-fluentd-kubernetes.git
+[submodule "conf2kube"]
+	path = conf2kube
+	url = https://github.com/kelseyhightower/conf2kube.git
+[submodule "app-healthz"]
+	path = app-healthz
+	url = https://github.com/kelseyhightower/app-healthz.git
+[submodule "coreos-vmware-tutorial"]
+	path = coreos-vmware-tutorial
+	url = https://github.com/kelseyhightower/coreos-vmware-tutorial.git
+[submodule "cpic"]
+	path = cpic
+	url = https://github.com/kelseyhightower/cpic.git
+[submodule "app"]
+	path = app
+	url = https://github.com/kelseyhightower/app.git
+[submodule "compose2kube-talk"]
+	path = compose2kube-talk
+[submodule "automacon"]
+	path = automacon
+	url = https://github.com/kelseyhightower/automacon.git
+[submodule "csv2json"]
+	path = csv2json
+[submodule "endpoints"]
+	path = endpoints
+	url = https://github.com/kelseyhightower/endpoints.git
+[submodule "app-healthz2"]
+	path = app-healthz2
+	url = https://github.com/kelseyhightower/app-healthz2.git
+[submodule "code-snippets"]
+	path = code-snippets
+	url = https://github.com/kelseyhightower/code-snippets.git
+[submodule "dockerfiles"]
+	path = dockerfiles
+	url = https://github.com/kelseyhightower/dockerfiles.git
+[submodule "envconfig"]
+	path = envconfig
+[submodule "gls"]
+	path = gls
+	url = https://github.com/kelseyhightower/gls.git
+[submodule "dns01-exec-plugins"]
+	path = dns01-exec-plugins
+	url = https://github.com/kelseyhightower/dns01-exec-plugins.git
+[submodule "csv2json-cli"]
+	path = csv2json-cli
+	url = https://github.com/kelseyhightower/csv2json-cli.git
+[submodule "etcd-production-setup"]
+	path = etcd-production-setup
+	url = https://github.com/kelseyhightower/etcd-production-setup.git
+[submodule "devnation"]
+	path = devnation
+	url = https://github.com/kelseyhightower/devnation.git
+[submodule "craft-kubernetes-workshop"]
+	path = craft-kubernetes-workshop
+	url = https://github.com/kelseyhightower/craft-kubernetes-workshop.git
+[submodule "go-at-coreos"]
+	path = go-at-coreos
+	url = https://github.com/kelseyhightower/go-at-coreos.git
+[submodule "google-cloud-functions-go"]
+	path = google-cloud-functions-go
+	url = https://github.com/kelseyhightower/google-cloud-functions-go.git
+[submodule "compose2kube"]
+	path = compose2kube
+	url = https://github.com/kelseyhightower/compose2kube.git
+[submodule "appdash"]
+	path = appdash
+	url = https://github.com/kelseyhightower/appdash.git
+[submodule "hashiapp"]
+	path = hashiapp
+[submodule "csv2json-http"]
+	path = csv2json-http
+	url = https://github.com/kelseyhightower/csv2json-http.git
+[submodule "instance-groups-tutorial"]
+	path = instance-groups-tutorial
+	url = https://github.com/kelseyhightower/instance-groups-tutorial.git
+[submodule "hello"]
+	path = hello
+	url = https://github.com/kelseyhightower/hello.git
+[submodule "hashiconf-eu-2016"]
+	path = hashiconf-eu-2016
+	url = https://github.com/kelseyhightower/hashiconf-eu-2016.git
+[submodule "inspector"]
+	path = inspector
+	url = https://github.com/kelseyhightower/inspector.git
+[submodule "intro-to-kubernetes-workshop"]
+	path = intro-to-kubernetes-workshop
+	url = https://github.com/kelseyhightower/intro-to-kubernetes-workshop.git
+[submodule "krane"]
+	path = krane
+	url = https://github.com/kelseyhightower/krane.git
+[submodule "jsonrpc-server"]
+	path = jsonrpc-server
+	url = https://github.com/kelseyhightower/jsonrpc-server.git
+[submodule "htbolt"]
+	path = htbolt
+	url = https://github.com/kelseyhightower/htbolt.git
+[submodule "kubernetes-letsencrypt-tutorial"]
+	path = kubernetes-letsencrypt-tutorial
+	url = https://github.com/kelseyhightower/kubernetes-letsencrypt-tutorial.git
+[submodule "kubestack-solo"]
+	path = kubestack-solo
+	url = https://github.com/kelseyhightower/kubestack-solo.git
+[submodule "kubestack-release"]
+	path = kubestack-release
+	url = https://github.com/kelseyhightower/kubestack-release.git
+[submodule "kubernetes-external-proxy"]
+	path = kubernetes-external-proxy
+	url = https://github.com/kelseyhightower/kubernetes-external-proxy.git
+[submodule "jira-on-kubernetes"]
+	path = jira-on-kubernetes
+	url = https://github.com/kelseyhightower/jira-on-kubernetes.git
+[submodule "kur"]
+	path = kur
+	url = https://github.com/kelseyhightower/kur.git
+[submodule "memkv"]
+	path = memkv
+	url = https://github.com/kelseyhightower/memkv.git
+[submodule "kube-cert-manager"]
+	path = kube-cert-manager
+[submodule "monitorama"]
+	path = monitorama
+	url = https://github.com/kelseyhightower/monitorama.git
+[submodule "grpc-hello-service"]
+	path = grpc-hello-service
+	url = https://github.com/kelseyhightower/grpc-hello-service.git
+[submodule "motorboat"]
+	path = motorboat
+	url = https://github.com/kelseyhightower/motorboat.git
+[submodule "memq"]
+	path = memq
+	url = https://github.com/kelseyhightower/memq.git
+[submodule "mysql-healthz"]
+	path = mysql-healthz
+[submodule "kubernetes-the-hard-way"]
+	path = kubernetes-the-hard-way
+	url = https://github.com/kelseyhightower/kubernetes-the-hard-way.git
+[submodule "passwd"]
+	path = passwd
+	url = https://github.com/kelseyhightower/passwd.git
+[submodule "pinger"]
+	path = pinger
+	url = https://github.com/kelseyhightower/pinger.git
+[submodule "puppetconf-2016"]
+	path = puppetconf-2016
+	url = https://github.com/kelseyhightower/puppetconf-2016.git
+[submodule "osdc-2015"]
+	path = osdc-2015
+	url = https://github.com/kelseyhightower/osdc-2015.git
+[submodule "pm"]
+	path = pm
+	url = https://github.com/kelseyhightower/pm.git
+[submodule "kubernetes-cluster-federation"]
+	path = kubernetes-cluster-federation
+	url = https://github.com/kelseyhightower/kubernetes-cluster-federation.git
+[submodule "terminus"]
+	path = terminus
+	url = https://github.com/kelseyhightower/terminus.git
+[submodule "worker"]
+	path = worker
+	url = https://github.com/kelseyhightower/worker.git
+[submodule "targz"]
+	path = targz
+	url = https://github.com/kelseyhightower/targz.git
+[submodule "setup-network-environment"]
+	path = setup-network-environment
+	url = https://github.com/kelseyhightower/setup-network-environment.git
+[submodule "ticker"]
+	path = ticker
+	url = https://github.com/kelseyhightower/ticker.git
+[submodule "talks"]
+	path = talks
+	url = https://github.com/kelseyhightower/talks.git
+[submodule "gophercon2014"]
+	path = gophercon2014
+	url = https://github.com/kelseyhightower/gophercon2014.git
+[submodule "vault-controller"]
+	path = vault-controller
+	url = https://github.com/kelseyhightower/vault-controller.git
+[submodule "hello-universe"]
+	path = hello-universe
+	url = https://github.com/kelseyhightower/hello-universe.git
+[submodule "thrasher"]
+	path = thrasher
+	url = https://github.com/kelseyhightower/thrasher.git
+[submodule "confd"]
+	path = confd
+	url = https://github.com/kelseyhightower/confd.git
+[submodule "gobot"]
+	path = gobot
+	url = https://github.com/kelseyhightower/gobot.git
+[submodule "jira-deployment-controller"]
+	path = jira-deployment-controller
+	url = https://github.com/kelseyhightower/jira-deployment-controller.git
+[submodule "lobsters"]
+	path = lobsters
+	url = https://github.com/kelseyhightower/lobsters.git
+[submodule "kubeadm"]
+	path = kubeadm
+	url = https://github.com/kubernetes/kubeadm.git
