@@ -1955,3 +1955,54 @@
 [submodule "kubeadm"]
 	path = kubeadm
 	url = https://github.com/kubernetes/kubeadm.git
+[submodule "beaker-rspec"]
+	path = beaker-rspec
+	url = https://github.com/puppetlabs/beaker-rspec.git
+[submodule "beaker-qa-i18n"]
+	path = beaker-qa-i18n
+	url = https://github.com/puppetlabs/beaker-qa-i18n.git
+[submodule "beaker-puppet_install_helper"]
+	path = beaker-puppet_install_helper
+	url = https://github.com/puppetlabs/beaker-puppet_install_helper.git
+[submodule "beaker-testmode_switcher"]
+	path = beaker-testmode_switcher
+	url = https://github.com/puppetlabs/beaker-testmode_switcher.git
+[submodule "beaker-windows"]
+	path = beaker-windows
+	url = https://github.com/puppetlabs/beaker-windows.git
+[submodule "beaker-pe"]
+	path = beaker-pe
+	url = https://github.com/puppetlabs/beaker-pe.git
+[submodule "cowsay"]
+	path = cowsay
+	url = https://github.com/puppetlabs/cowsay.git
+[submodule "cppbestpractices"]
+	path = cppbestpractices
+	url = https://github.com/puppetlabs/cppbestpractices.git
+[submodule "fault-injector-controller"]
+	path = fault-injector-controller
+	url = https://github.com/puppetlabs/fault-injector-controller.git
+[submodule "it-printer_drivers"]
+	path = it-printer_drivers
+	url = https://github.com/puppetlabs/it-printer_drivers.git
+[submodule "commons-compress"]
+	path = commons-compress
+	url = https://github.com/puppetlabs/commons-compress.git
+[submodule "aws-sdk-for-java"]
+	path = aws-sdk-for-java
+	url = https://github.com/puppetlabs/aws-sdk-for-java.git
+[submodule "forge_community_data"]
+	path = forge_community_data
+	url = https://github.com/puppetlabs/forge_community_data.git
+[submodule "ember-cli"]
+	path = ember-cli
+	url = https://github.com/puppetlabs/ember-cli.git
+[submodule "eduteam-boxen"]
+	path = eduteam-boxen
+	url = https://github.com/puppetlabs/eduteam-boxen.git
+[submodule "coreos-git"]
+	path = coreos-git
+	url = https://github.com/coreos/coreos-git
+[submodule "go-git"]
+	path = go-git
+	url = https://github.com/coreos/go-git
