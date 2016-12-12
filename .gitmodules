@@ -2006,3 +2006,826 @@
 [submodule "go-git"]
 	path = go-git
 	url = https://github.com/coreos/go-git
+[submodule "pyapi-git"]
+	path = pyapi-git
+	url = https://github.com/coreos/pyapi-git
+[submodule "ansible-provisioner"]
+	path = ansible-provisioner
+	url = https://github.com/garethr/ansible-provisioner.git
+[submodule "Asteroid"]
+	path = Asteroid
+	url = https://github.com/garethr/Asteroid.git
+[submodule "digit"]
+	path = digit
+	url = https://github.com/garethr/digit
+[submodule "appengine-uptime"]
+	path = appengine-uptime
+[submodule "chef-repo"]
+	path = chef-repo
+	url = https://github.com/garethr/chef-repo.git
+[submodule "appengine-queue"]
+	path = appengine-queue
+	url = https://github.com/garethr/appengine-queue.git
+[submodule "appengine-image-host"]
+	path = appengine-image-host
+	url = https://github.com/garethr/appengine-image-host.git
+[submodule "appengine-books"]
+	path = appengine-books
+	url = https://github.com/garethr/appengine-books.git
+[submodule "appengine-imified"]
+	path = appengine-imified
+	url = https://github.com/garethr/appengine-imified.git
+[submodule "devopsbookmarks.com"]
+	path = devopsbookmarks.com
+	url = https://github.com/garethr/devopsbookmarks.com.git
+[submodule "cloudfoundry-quickstart"]
+	path = cloudfoundry-quickstart
+	url = https://github.com/garethr/cloudfoundry-quickstart.git
+[submodule "clj-yaml"]
+	path = clj-yaml
+	url = https://github.com/garethr/clj-yaml.git
+[submodule "digital-ocean"]
+	path = digital-ocean
+	url = https://github.com/garethr/digital-ocean.git
+[submodule "digitalocean-expect"]
+	path = digitalocean-expect
+	url = https://github.com/garethr/digitalocean-expect.git
+[submodule "capistrano-puppet"]
+	path = capistrano-puppet
+	url = https://github.com/garethr/capistrano-puppet.git
+[submodule "django-clue"]
+	path = django-clue
+	url = https://github.com/garethr/django-clue.git
+[submodule "django-mmstats"]
+	path = django-mmstats
+	url = https://github.com/garethr/django-mmstats.git
+[submodule "css-test"]
+	path = css-test
+	url = https://github.com/garethr/css-test.git
+[submodule "django-linklist"]
+	path = django-linklist
+	url = https://github.com/garethr/django-linklist.git
+[submodule "do-test-kitchen"]
+	path = do-test-kitchen
+	url = https://github.com/garethr/do-test-kitchen.git
+[submodule "django-fraggle"]
+	path = django-fraggle
+	url = https://github.com/garethr/django-fraggle.git
+[submodule "django-varnish"]
+	path = django-varnish
+	url = https://github.com/garethr/django-varnish.git
+[submodule "azure-sdk-for-ruby"]
+	path = azure-sdk-for-ruby
+	url = https://github.com/garethr/azure-sdk-for-ruby.git
+[submodule "django-project-templates"]
+	path = django-project-templates
+	url = https://github.com/garethr/django-project-templates.git
+[submodule "django-test-extensions"]
+	path = django-test-extensions
+	url = https://github.com/garethr/django-test-extensions.git
+[submodule "django-mobileadmin"]
+	path = django-mobileadmin
+	url = https://github.com/garethr/django-mobileadmin.git
+[submodule "Dumper"]
+	path = Dumper
+	url = https://github.com/garethr/Dumper.git
+[submodule "evenup-auditd"]
+	path = evenup-auditd
+	url = https://github.com/garethr/evenup-auditd.git
+[submodule "fedora-atomic-packer"]
+	path = fedora-atomic-packer
+	url = https://github.com/garethr/fedora-atomic-packer.git
+[submodule "garethr-elasticsearch"]
+	path = garethr-elasticsearch
+	url = https://github.com/garethr/garethr-elasticsearch.git
+[submodule "dvtm"]
+	path = dvtm
+	url = https://github.com/garethr/dvtm.git
+[submodule "garethr-erlang"]
+	path = garethr-erlang
+	url = https://github.com/garethr/garethr-erlang.git
+[submodule "garethr-elixir"]
+	path = garethr-elixir
+	url = https://github.com/garethr/garethr-elixir.git
+[submodule "foreman"]
+	path = foreman
+	url = https://github.com/garethr/foreman.git
+[submodule "garethr-golang"]
+	path = garethr-golang
+	url = https://github.com/garethr/garethr-golang.git
+[submodule "garethr-kibana"]
+	path = garethr-kibana
+	url = https://github.com/garethr/garethr-kibana.git
+[submodule "garethr-graphite"]
+	path = garethr-graphite
+	url = https://github.com/garethr/garethr-graphite.git
+[submodule "garethr-iaas"]
+	path = garethr-iaas
+	url = https://github.com/garethr/garethr-iaas.git
+[submodule "garethr-nginx"]
+	path = garethr-nginx
+	url = https://github.com/garethr/garethr-nginx.git
+[submodule "garethr-pypy"]
+	path = garethr-pypy
+	url = https://github.com/garethr/garethr-pypy.git
+[submodule "garethr-spotify"]
+	path = garethr-spotify
+	url = https://github.com/garethr/garethr-spotify.git
+[submodule "garethr-remotesyslog"]
+	path = garethr-remotesyslog
+	url = https://github.com/garethr/garethr-remotesyslog.git
+[submodule "garethr-riemann"]
+	path = garethr-riemann
+	url = https://github.com/garethr/garethr-riemann.git
+[submodule "garethr-wackopicko"]
+	path = garethr-wackopicko
+	url = https://github.com/garethr/garethr-wackopicko.git
+[submodule "garethr-kubernetes"]
+	path = garethr-kubernetes
+	url = https://github.com/garethr/garethr-kubernetes.git
+[submodule "Diamond"]
+	path = Diamond
+	url = https://github.com/garethr/Diamond.git
+[submodule "cucumber-nagios"]
+	path = cucumber-nagios
+	url = https://github.com/garethr/cucumber-nagios.git
+[submodule "autorest"]
+	path = autorest
+	url = https://github.com/garethr/autorest.git
+[submodule "devopsdays-webby"]
+	path = devopsdays-webby
+	url = https://github.com/garethr/devopsdays-webby.git
+[submodule "garethr"]
+	path = garethr
+	url = https://github.com/garethr/garethr.git
+[submodule "garethr.github.io"]
+	path = garethr.github.io
+	url = https://github.com/garethr/garethr.github.io.git
+[submodule "gatling-demo"]
+	path = gatling-demo
+	url = https://github.com/garethr/gatling-demo.git
+[submodule "jruby-embedded-jetty"]
+	path = jruby-embedded-jetty
+	url = https://github.com/garethr/jruby-embedded-jetty.git
+[submodule "inboxer"]
+	path = inboxer
+	url = https://github.com/garethr/inboxer.git
+[submodule "garethrushgrove-heroku"]
+	path = garethrushgrove-heroku
+	url = https://github.com/garethr/garethrushgrove-heroku.git
+[submodule "jenkins-job-builder-clamav"]
+	path = jenkins-job-builder-clamav
+	url = https://github.com/garethr/jenkins-job-builder-clamav.git
+[submodule "go-librato"]
+	path = go-librato
+	url = https://github.com/garethr/go-librato.git
+[submodule "kitchen-vagrant"]
+	path = kitchen-vagrant
+	url = https://github.com/garethr/kitchen-vagrant.git
+[submodule "iWeb"]
+	path = iWeb
+	url = https://github.com/garethr/iWeb.git
+[submodule "logstash-patterns"]
+	path = logstash-patterns
+	url = https://github.com/garethr/logstash-patterns.git
+[submodule "jenkins-job-builder-brakeman"]
+	path = jenkins-job-builder-brakeman
+	url = https://github.com/garethr/jenkins-job-builder-brakeman.git
+[submodule "jenkins-build-list"]
+	path = jenkins-build-list
+	url = https://github.com/garethr/jenkins-build-list.git
+[submodule "localbuilder"]
+	path = localbuilder
+	url = https://github.com/garethr/localbuilder.git
+[submodule "lastbot"]
+	path = lastbot
+	url = https://github.com/garethr/lastbot.git
+[submodule "librarian-puppet"]
+	path = librarian-puppet
+	url = https://github.com/garethr/librarian-puppet.git
+[submodule "mirage-skeleton"]
+	path = mirage-skeleton
+	url = https://github.com/garethr/mirage-skeleton.git
+[submodule "mnml"]
+	path = mnml
+	url = https://github.com/garethr/mnml.git
+[submodule "nash"]
+	path = nash
+	url = https://github.com/garethr/nash.git
+[submodule "mrzarquon-certsigner"]
+	path = mrzarquon-certsigner
+	url = https://github.com/garethr/mrzarquon-certsigner.git
+[submodule "nginx-json-proxy"]
+	path = nginx-json-proxy
+	url = https://github.com/garethr/nginx-json-proxy.git
+[submodule "hubot-scripts"]
+	path = hubot-scripts
+	url = https://github.com/garethr/hubot-scripts.git
+[submodule "package-test"]
+	path = package-test
+	url = https://github.com/garethr/package-test.git
+[submodule "omnibus-nginx"]
+	path = omnibus-nginx
+	url = https://github.com/garethr/omnibus-nginx.git
+[submodule "prodder-steps"]
+	path = prodder-steps
+	url = https://github.com/garethr/prodder-steps.git
+[submodule "oh-my-zsh"]
+	path = oh-my-zsh
+	url = https://github.com/garethr/oh-my-zsh.git
+[submodule "puppet-googlechrome"]
+	path = puppet-googlechrome
+	url = https://github.com/garethr/puppet-googlechrome.git
+[submodule "puppet-dashboard-face"]
+	path = puppet-dashboard-face
+	url = https://github.com/garethr/puppet-dashboard-face.git
+[submodule "pkgr"]
+	path = pkgr
+	url = https://github.com/garethr/pkgr.git
+[submodule "puppet-serf"]
+	path = puppet-serf
+	url = https://github.com/garethr/puppet-serf.git
+[submodule "puppet-docker-swarm-example"]
+	path = puppet-docker-swarm-example
+	url = https://github.com/garethr/puppet-docker-swarm-example.git
+[submodule "puppet-mesos-example"]
+	path = puppet-mesos-example
+	url = https://github.com/garethr/puppet-mesos-example.git
+[submodule "puppetdb-expect"]
+	path = puppetdb-expect
+	url = https://github.com/garethr/puppetdb-expect.git
+[submodule "puppet-shelf"]
+	path = puppet-shelf
+[submodule "puppet-lint"]
+	path = puppet-lint
+	url = https://github.com/garethr/puppet-lint.git
+[submodule "puppet-module-skeleton"]
+	path = puppet-module-skeleton
+	url = https://github.com/garethr/puppet-module-skeleton.git
+[submodule "puppet-sonos"]
+	path = puppet-sonos
+	url = https://github.com/garethr/puppet-sonos.git
+[submodule "puppetlabs-docker_platform"]
+	path = puppetlabs-docker_platform
+	url = https://github.com/garethr/puppetlabs-docker_platform.git
+[submodule "puppetlabs-azure"]
+	path = puppetlabs-azure
+	url = https://github.com/garethr/puppetlabs-azure.git
+[submodule "sensu-playground"]
+	path = sensu-playground
+	url = https://github.com/garethr/sensu-playground.git
+[submodule "ruby-vagrantboxes"]
+	path = ruby-vagrantboxes
+	url = https://github.com/garethr/ruby-vagrantboxes.git
+[submodule "riemann-vagrant"]
+	path = riemann-vagrant
+	url = https://github.com/garethr/riemann-vagrant.git
+[submodule "serf-playground"]
+	path = serf-playground
+	url = https://github.com/garethr/serf-playground.git
+[submodule "serverspec-puppetdb"]
+	path = serverspec-puppetdb
+	url = https://github.com/garethr/serverspec-puppetdb.git
+[submodule "serf-master"]
+	path = serf-master
+	url = https://github.com/garethr/serf-master.git
+[submodule "puppetlabs-rgbank"]
+	path = puppetlabs-rgbank
+	url = https://github.com/garethr/puppetlabs-rgbank.git
+[submodule "sinatra-hello-world"]
+	path = sinatra-hello-world
+	url = https://github.com/garethr/sinatra-hello-world.git
+[submodule "sensu-puppet"]
+	path = sensu-puppet
+	url = https://github.com/garethr/sensu-puppet.git
+[submodule "riemann-dash"]
+	path = riemann-dash
+	url = https://github.com/garethr/riemann-dash.git
+[submodule "sock-puppet"]
+	path = sock-puppet
+	url = https://github.com/garethr/sock-puppet.git
+[submodule "sessionpicker"]
+	path = sessionpicker
+	url = https://github.com/garethr/sessionpicker.git
+[submodule "tk-demo-puppet"]
+	path = tk-demo-puppet
+	url = https://github.com/garethr/tk-demo-puppet.git
+[submodule "sysadmin-scripts"]
+	path = sysadmin-scripts
+	url = https://github.com/garethr/sysadmin-scripts.git
+[submodule "puppetlabs-ntp"]
+	path = puppetlabs-ntp
+	url = https://github.com/garethr/puppetlabs-ntp.git
+[submodule "ruby-metrics"]
+	path = ruby-metrics
+	url = https://github.com/garethr/ruby-metrics.git
+[submodule "puppet-redis"]
+	path = puppet-redis
+	url = https://github.com/garethr/puppet-redis.git
+[submodule "test-kitchen"]
+	path = test-kitchen
+	url = https://github.com/garethr/test-kitchen.git
+[submodule "puppet-logstash"]
+	path = puppet-logstash
+	url = https://github.com/garethr/puppet-logstash.git
+[submodule "site-inspector-ruby"]
+	path = site-inspector-ruby
+	url = https://github.com/garethr/site-inspector-ruby.git
+[submodule "osquery"]
+	path = osquery
+	url = https://github.com/garethr/osquery.git
+[submodule "packer"]
+	path = packer
+	url = https://github.com/garethr/packer.git
+[submodule "morethanseven-heroku"]
+	path = morethanseven-heroku
+	url = https://github.com/garethr/morethanseven-heroku.git
+[submodule "morethanseven-old"]
+	path = morethanseven-old
+	url = https://github.com/garethr/morethanseven-old.git
+[submodule "puppet-swagger-generator"]
+	path = puppet-swagger-generator
+	url = https://github.com/garethr/puppet-swagger-generator.git
+[submodule "puppetlabs-java"]
+	path = puppetlabs-java
+	url = https://github.com/garethr/puppetlabs-java.git
+[submodule "integrity"]
+	path = integrity
+	url = https://github.com/garethr/integrity.git
+[submodule "morethanseven"]
+	path = morethanseven
+	url = https://github.com/garethr/morethanseven.git
+[submodule "PowerShell"]
+	path = PowerShell
+	url = https://github.com/garethr/PowerShell.git
+[submodule "pelican-site"]
+	path = pelican-site
+	url = https://github.com/garethr/pelican-site.git
+[submodule "government-service-design-manual"]
+	path = government-service-design-manual
+	url = https://github.com/garethr/government-service-design-manual.git
+[submodule "my-boxen"]
+	path = my-boxen
+	url = https://github.com/garethr/my-boxen.git
+[submodule "web-facter"]
+	path = web-facter
+	url = https://github.com/garethr/web-facter.git
+[submodule "toto-framework.github.io"]
+	path = toto-framework.github.io
+	url = https://github.com/garethr/toto-framework.github.io.git
+[submodule "vagrant-cucumber-host"]
+	path = vagrant-cucumber-host
+	url = https://github.com/garethr/vagrant-cucumber-host.git
+[submodule "urltest"]
+	path = urltest
+[submodule "zapr"]
+	path = zapr
+	url = https://github.com/garethr/zapr.git
+[submodule "web-puppet"]
+	path = web-puppet
+	url = https://github.com/garethr/web-puppet.git
+[submodule "vagrantboxes-heroku"]
+	path = vagrantboxes-heroku
+	url = https://github.com/garethr/vagrantboxes-heroku.git
+[submodule "vagrant-origin"]
+	path = vagrant-origin
+	url = https://github.com/garethr/vagrant-origin.git
+[submodule "vcap"]
+	path = vcap
+	url = https://github.com/garethr/vcap.git
+[submodule "vcap-tests"]
+	path = vcap-tests
+	url = https://github.com/garethr/vcap-tests.git
+[submodule "xmpp-http-gateway"]
+	path = xmpp-http-gateway
+[submodule "vmerize"]
+	path = vmerize
+	url = https://github.com/garethr/vmerize.git
+[submodule "workstation"]
+	path = workstation
+	url = https://github.com/garethr/workstation.git
+[submodule "zapr-example"]
+	path = zapr-example
+	url = https://github.com/garethr/zapr-example.git
+[submodule "vmc"]
+	path = vmc
+	url = https://github.com/garethr/vmc.git
+[submodule "conair-docker-swarm"]
+	path = conair-docker-swarm
+	url = https://github.com/giantswarm/conair-docker-swarm.git
+[submodule "celery-flower"]
+	path = celery-flower
+	url = https://github.com/giantswarm/celery-flower.git
+[submodule "docker-cloudflare-cli"]
+	path = docker-cloudflare-cli
+	url = https://github.com/giantswarm/docker-cloudflare-cli.git
+[submodule "docker-filebeat"]
+	path = docker-filebeat
+	url = https://github.com/giantswarm/docker-filebeat.git
+[submodule "curator"]
+	path = curator
+	url = https://github.com/giantswarm/curator.git
+[submodule "docker-python"]
+	path = docker-python
+[submodule "flaskexample"]
+	path = flaskexample
+	url = https://github.com/giantswarm/flaskexample.git
+[submodule "docker-workshop"]
+	path = docker-workshop
+[submodule "giantswarm-advancedexample"]
+	path = giantswarm-advancedexample
+	url = https://github.com/giantswarm/giantswarm-advancedexample.git
+[submodule "docker-influxdb-min"]
+	path = docker-influxdb-min
+	url = https://github.com/giantswarm/docker-influxdb-min.git
+[submodule "columnize"]
+	path = columnize
+[submodule "generic-types-go"]
+	path = generic-types-go
+	url = https://github.com/giantswarm/generic-types-go.git
+[submodule "giantswarm-clojure"]
+	path = giantswarm-clojure
+	url = https://github.com/giantswarm/giantswarm-clojure.git
+[submodule "flocker-coreos"]
+	path = flocker-coreos
+	url = https://github.com/giantswarm/flocker-coreos.git
+[submodule "giantswarm-firstapp-nodejs"]
+	path = giantswarm-firstapp-nodejs
+	url = https://github.com/giantswarm/giantswarm-firstapp-nodejs.git
+[submodule "giantswarm-mongodb-cluster"]
+	path = giantswarm-mongodb-cluster
+	url = https://github.com/giantswarm/giantswarm-mongodb-cluster.git
+[submodule "giantswarm-examples"]
+	path = giantswarm-examples
+	url = https://github.com/giantswarm/giantswarm-examples.git
+[submodule "giantswarm-leanix-caller"]
+	path = giantswarm-leanix-caller
+[submodule "giantswarm-zulip"]
+	path = giantswarm-zulip
+[submodule "giantswarm-crate"]
+	path = giantswarm-crate
+	url = https://github.com/giantswarm/giantswarm-crate.git
+[submodule "giantswarm-firstapp-php"]
+	path = giantswarm-firstapp-php
+	url = https://github.com/giantswarm/giantswarm-firstapp-php.git
+[submodule "giantswarm-scummvm"]
+	path = giantswarm-scummvm
+	url = https://github.com/giantswarm/giantswarm-scummvm.git
+[submodule "giantswarm-gatk"]
+	path = giantswarm-gatk
+	url = https://github.com/giantswarm/giantswarm-gatk.git
+[submodule "giantswarm-firstapp-java"]
+	path = giantswarm-firstapp-java
+[submodule "giantswarm-meteor"]
+	path = giantswarm-meteor
+	url = https://github.com/giantswarm/giantswarm-meteor.git
+[submodule "giantswarm-wordpress-mysql"]
+	path = giantswarm-wordpress-mysql
+	url = https://github.com/giantswarm/giantswarm-wordpress-mysql.git
+[submodule "giantswarm-pod-example"]
+	path = giantswarm-pod-example
+	url = https://github.com/giantswarm/giantswarm-pod-example.git
+[submodule "gulp-docker"]
+	path = gulp-docker
+[submodule "gosass"]
+	path = gosass
+	url = https://github.com/giantswarm/gosass.git
+[submodule "github-releases-slack-notifier"]
+	path = github-releases-slack-notifier
+	url = https://github.com/giantswarm/github-releases-slack-notifier.git
+[submodule "gsctl"]
+	path = gsctl
+	url = https://github.com/giantswarm/gsctl.git
+[submodule "golang-mgo-bson-debian"]
+	path = golang-mgo-bson-debian
+	url = https://github.com/giantswarm/golang-mgo-bson-debian.git
+[submodule "homebrew-swarm"]
+	path = homebrew-swarm
+	url = https://github.com/giantswarm/homebrew-swarm.git
+[submodule "helloworld-caddy"]
+	path = helloworld-caddy
+	url = https://github.com/giantswarm/helloworld-caddy.git
+[submodule "hubot-slack"]
+	path = hubot-slack
+	url = https://github.com/giantswarm/hubot-slack.git
+[submodule "hubspot-blog-export"]
+	path = hubspot-blog-export
+[submodule "hijack-stream-support"]
+	path = hijack-stream-support
+	url = https://github.com/giantswarm/hijack-stream-support.git
+[submodule "io-stream-go"]
+	path = io-stream-go
+[submodule "homebrew-giantswarm"]
+	path = homebrew-giantswarm
+	url = https://github.com/giantswarm/homebrew-giantswarm.git
+[submodule "httptest-helper"]
+	path = httptest-helper
+	url = https://github.com/giantswarm/httptest-helper.git
+[submodule "hipache"]
+	path = hipache
+	url = https://github.com/giantswarm/hipache.git
+[submodule "kemp-client"]
+	path = kemp-client
+	url = https://github.com/giantswarm/kemp-client.git
+[submodule "kubernetes-certificate-service"]
+	path = kubernetes-certificate-service
+	url = https://github.com/giantswarm/kubernetes-certificate-service.git
+[submodule "kocho"]
+	path = kocho
+	url = https://github.com/giantswarm/kocho.git
+[submodule "inspect-docker-image"]
+	path = inspect-docker-image
+	url = https://github.com/giantswarm/inspect-docker-image.git
+[submodule "kempctl"]
+	path = kempctl
+	url = https://github.com/giantswarm/kempctl.git
+[submodule "kubernetes-currentweather"]
+	path = kubernetes-currentweather
+[submodule "hubot-irc"]
+	path = hubot-irc
+	url = https://github.com/giantswarm/hubot-irc.git
+[submodule "kubernetes-heapster-influxdb-grafana"]
+	path = kubernetes-heapster-influxdb-grafana
+	url = https://github.com/giantswarm/kubernetes-heapster-influxdb-grafana.git
+[submodule "kubernetes-ingress"]
+	path = kubernetes-ingress
+	url = https://github.com/giantswarm/kubernetes-ingress.git
+[submodule "k8s-setup-network-environment"]
+	path = k8s-setup-network-environment
+	url = https://github.com/giantswarm/k8s-setup-network-environment.git
+[submodule "kubernetes-prometheus"]
+	path = kubernetes-prometheus
+	url = https://github.com/giantswarm/kubernetes-prometheus.git
+[submodule "kubernetes-docker-files"]
+	path = kubernetes-docker-files
+	url = https://github.com/giantswarm/kubernetes-docker-files.git
+[submodule "docs-content"]
+	path = docs-content
+	url = https://github.com/giantswarm/docs-content.git
+[submodule "kubernetes-glusterfs"]
+	path = kubernetes-glusterfs
+	url = https://github.com/giantswarm/kubernetes-glusterfs.git
+[submodule "kubernetes-dashboard"]
+	path = kubernetes-dashboard
+	url = https://github.com/giantswarm/kubernetes-dashboard.git
+[submodule "aws-eb-python-dockerfiles"]
+	path = aws-eb-python-dockerfiles
+	url = https://github.com/aws/aws-eb-python-dockerfiles.git
+[submodule "aws-cla"]
+	path = aws-cla
+	url = https://github.com/aws/aws-cla.git
+[submodule "aws-dotnet-trace-listener"]
+	path = aws-dotnet-trace-listener
+	url = https://github.com/aws/aws-dotnet-trace-listener.git
+[submodule "aws-cloudtrail-processing-library"]
+	path = aws-cloudtrail-processing-library
+	url = https://github.com/aws/aws-cloudtrail-processing-library.git
+[submodule "aws-iot-device-sdk-java"]
+	path = aws-iot-device-sdk-java
+	url = https://github.com/aws/aws-iot-device-sdk-java.git
+[submodule "aws-iot-device-sdk-cpp"]
+	path = aws-iot-device-sdk-cpp
+	url = https://github.com/aws/aws-iot-device-sdk-cpp.git
+[submodule "aws-lambda-dotnet"]
+	path = aws-lambda-dotnet
+	url = https://github.com/aws/aws-lambda-dotnet.git
+[submodule "aws-lambda-java-libs"]
+	path = aws-lambda-java-libs
+	url = https://github.com/aws/aws-lambda-java-libs.git
+[submodule "aws-iot-device-sdk-arduino-yun"]
+	path = aws-iot-device-sdk-arduino-yun
+	url = https://github.com/aws/aws-iot-device-sdk-arduino-yun.git
+[submodule "amazon-cognito-ios"]
+	path = amazon-cognito-ios
+	url = https://github.com/aws/amazon-cognito-ios.git
+[submodule "amazon-cognito-js"]
+	path = amazon-cognito-js
+	url = https://github.com/aws/amazon-cognito-js.git
+[submodule "amazon-ecs-init"]
+	path = amazon-ecs-init
+	url = https://github.com/aws/amazon-ecs-init.git
+[submodule "aws-sdk-java-archetype"]
+	path = aws-sdk-java-archetype
+	url = https://github.com/aws/aws-sdk-java-archetype.git
+[submodule "aws-js-sns-message-validator"]
+	path = aws-js-sns-message-validator
+	url = https://github.com/aws/aws-js-sns-message-validator.git
+[submodule "amazon-cognito-unity"]
+	path = amazon-cognito-unity
+	url = https://github.com/aws/amazon-cognito-unity.git
+[submodule "amazon-cognito-android"]
+	path = amazon-cognito-android
+	url = https://github.com/aws/amazon-cognito-android.git
+[submodule "aws-sdk-java-samples"]
+	path = aws-sdk-java-samples
+	url = https://github.com/aws/aws-sdk-java-samples.git
+[submodule "aws-sdk-php-silex"]
+	path = aws-sdk-php-silex
+	url = https://github.com/aws/aws-sdk-php-silex.git
+[submodule "aws-sdk-php-v3-bridge"]
+	path = aws-sdk-php-v3-bridge
+	url = https://github.com/aws/aws-sdk-php-v3-bridge.git
+[submodule "aws-sdk-php-symfony"]
+	path = aws-sdk-php-symfony
+	url = https://github.com/aws/aws-sdk-php-symfony.git
+[submodule "aws-iot-device-sdk-embedded-C"]
+	path = aws-iot-device-sdk-embedded-C
+	url = https://github.com/aws/aws-iot-device-sdk-embedded-C.git
+[submodule "aws-sdk-php-zf2"]
+	path = aws-sdk-php-zf2
+	url = https://github.com/aws/aws-sdk-php-zf2.git
+[submodule "aws-sdk-rails"]
+	path = aws-sdk-rails
+	url = https://github.com/aws/aws-sdk-rails.git
+[submodule "aws-cfn-resource-bridge"]
+	path = aws-cfn-resource-bridge
+	url = https://github.com/aws/aws-cfn-resource-bridge.git
+[submodule "aws-swf-build-tools"]
+	path = aws-swf-build-tools
+	url = https://github.com/aws/aws-swf-build-tools.git
+[submodule "aws-sdk-php-laravel"]
+	path = aws-sdk-php-laravel
+	url = https://github.com/aws/aws-sdk-php-laravel.git
+[submodule "aws-swf-flow-library"]
+	path = aws-swf-flow-library
+	url = https://github.com/aws/aws-swf-flow-library.git
+[submodule "aws-eb-glassfish-dockerfiles"]
+	path = aws-eb-glassfish-dockerfiles
+	url = https://github.com/aws/aws-eb-glassfish-dockerfiles.git
+[submodule "elastic-load-balancing-tools"]
+	path = elastic-load-balancing-tools
+	url = https://github.com/aws/elastic-load-balancing-tools.git
+[submodule "Trusted-Advisor-Tools"]
+	path = Trusted-Advisor-Tools
+	url = https://github.com/aws/Trusted-Advisor-Tools.git
+[submodule "aws-flow-ruby"]
+	path = aws-flow-ruby
+	url = https://github.com/aws/aws-flow-ruby.git
+[submodule "aws-sdk-js-dist-tools"]
+	path = aws-sdk-js-dist-tools
+	url = https://github.com/aws/aws-sdk-js-dist-tools.git
+[submodule "aws-sdk-ruby-record"]
+	path = aws-sdk-ruby-record
+	url = https://github.com/aws/aws-sdk-ruby-record.git
+[submodule "aws-dotnet-session-provider"]
+	path = aws-dotnet-session-provider
+	url = https://github.com/aws/aws-dotnet-session-provider.git
+[submodule "aws-week-in-review"]
+	path = aws-week-in-review
+	url = https://github.com/aws/aws-week-in-review.git
+[submodule "aws-mobilehub-helper-ios"]
+	path = aws-mobilehub-helper-ios
+	url = https://github.com/aws/aws-mobilehub-helper-ios.git
+[submodule "aws-codedeploy-agent"]
+	path = aws-codedeploy-agent
+	url = https://github.com/aws/aws-codedeploy-agent.git
+[submodule "amazon-ecs-agent"]
+	path = amazon-ecs-agent
+	url = https://github.com/aws/amazon-ecs-agent.git
+[submodule "aws-sessionstore-dynamodb-ruby"]
+	path = aws-sessionstore-dynamodb-ruby
+	url = https://github.com/aws/aws-sessionstore-dynamodb-ruby.git
+[submodule "aws-sdk-js-apis"]
+	path = aws-sdk-js-apis
+	url = https://github.com/aws/aws-sdk-js-apis.git
+[submodule "amazon-cognito-identity-js"]
+	path = amazon-cognito-identity-js
+	url = https://github.com/aws/amazon-cognito-identity-js.git
+[submodule "opsworks-cookbooks"]
+	path = opsworks-cookbooks
+	url = https://github.com/aws/opsworks-cookbooks.git
+[submodule "aws-sdk-unity"]
+	path = aws-sdk-unity
+	url = https://github.com/aws/aws-sdk-unity.git
+[submodule "aws-sdk-android"]
+	path = aws-sdk-android
+	url = https://github.com/aws/aws-sdk-android.git
+[submodule "amazon-ssm-agent"]
+	path = amazon-ssm-agent
+	url = https://github.com/aws/amazon-ssm-agent.git
+[submodule "amazon-ecs-cli"]
+	path = amazon-ecs-cli
+	url = https://github.com/aws/amazon-ecs-cli.git
+[submodule "aws-sdk-ios-v1"]
+	path = aws-sdk-ios-v1
+	url = https://github.com/aws/aws-sdk-ios-v1.git
+[submodule "aws-cli"]
+	path = aws-cli
+	url = https://github.com/aws/aws-cli.git
+[submodule "aws-sdk-core-ruby"]
+	path = aws-sdk-core-ruby
+	url = https://github.com/aws/aws-sdk-core-ruby.git
+[submodule "amazon-cognito-dotnet"]
+	path = amazon-cognito-dotnet
+	url = https://github.com/aws/amazon-cognito-dotnet.git
+[submodule "coreos-userdata-builder"]
+	path = coreos-userdata-builder
+	url = https://github.com/coreos/coreos-userdata-builder.git
+[submodule "aws-sdk-ios"]
+	path = aws-sdk-ios
+	url = https://github.com/aws/aws-sdk-ios.git
+[submodule "aws-sdk-ruby"]
+	path = aws-sdk-ruby
+	url = https://github.com/aws/aws-sdk-ruby.git
+[submodule "aws-sdk-php"]
+	path = aws-sdk-php
+	url = https://github.com/aws/aws-sdk-php.git
+[submodule "aws-sdk-js"]
+	path = aws-sdk-js
+	url = https://github.com/aws/aws-sdk-js.git
+[submodule "amazon-linux-docker-images"]
+	path = amazon-linux-docker-images
+	url = https://github.com/aws/amazon-linux-docker-images.git
+[submodule "beaker-module_install_helper"]
+	path = beaker-module_install_helper
+	url = https://github.com/puppetlabs/beaker-module_install_helper.git
+[submodule "gatling-pcp"]
+	path = gatling-pcp
+	url = https://github.com/puppetlabs/gatling-pcp.git
+[submodule "aws-sdk-cpp"]
+	path = aws-sdk-cpp
+	url = https://github.com/aws/aws-sdk-cpp.git
+[submodule "aws-toolkit-eclipse"]
+	path = aws-toolkit-eclipse
+	url = https://github.com/aws/aws-toolkit-eclipse.git
+[submodule "aws-sdk-net"]
+	path = aws-sdk-net
+	url = https://github.com/aws/aws-sdk-net.git
+[submodule "aws-sdk-java"]
+	path = aws-sdk-java
+	url = https://github.com/aws/aws-sdk-java.git
+[submodule "hypercontainer-utils"]
+	path = hypercontainer-utils
+	url = https://github.com/hyperhq/hypercontainer-utils.git
+[submodule "docs.hyper.sh"]
+	path = docs.hyper.sh
+	url = https://github.com/hyperhq/docs.hyper.sh.git
+[submodule "Hyper_Rocket.Chat"]
+	path = Hyper_Rocket.Chat
+	url = https://github.com/hyperhq/Hyper_Rocket.Chat.git
+[submodule "jenkins-image-slave"]
+	path = jenkins-image-slave
+	url = https://github.com/hyperhq/jenkins-image-slave.git
+[submodule "websocket-client"]
+	path = websocket-client
+	url = https://github.com/hyperhq/websocket-client.git
+[submodule "hyper-installer"]
+	path = hyper-installer
+	url = https://github.com/hyperhq/hyper-installer.git
+[submodule "slackin"]
+	path = slackin
+	url = https://github.com/hyperhq/slackin.git
+[submodule "specs"]
+	path = specs
+	url = https://github.com/hyperhq/specs.git
+[submodule "docs.hypercontainer.io"]
+	path = docs.hypercontainer.io
+	url = https://github.com/hyperhq/docs.hypercontainer.io.git
+[submodule "hypernova"]
+	path = hypernova
+	url = https://github.com/hyperhq/hypernova.git
+[submodule "hypernetes-docs"]
+	path = hypernetes-docs
+	url = https://github.com/hyperhq/hypernetes-docs.git
+[submodule "hyper-build-step-plugin"]
+	path = hyper-build-step-plugin
+	url = https://github.com/hyperhq/hyper-build-step-plugin.git
+[submodule "pressuretest"]
+	path = pressuretest
+	url = https://github.com/hyperhq/pressuretest.git
+[submodule "runv"]
+	path = runv
+	url = https://github.com/hyperhq/runv.git
+[submodule "cadvisor"]
+	path = cadvisor
+	url = https://github.com/hyperhq/cadvisor.git
+[submodule "www.hypercontainer.io"]
+	path = www.hypercontainer.io
+	url = https://github.com/hyperhq/www.hypercontainer.io.git
+[submodule "hyperd"]
+	path = hyperd
+	url = https://github.com/hyperhq/hyperd.git
+[submodule "hypercli"]
+	path = hypercli
+	url = https://github.com/hyperhq/hypercli.git
+[submodule "hyperstart"]
+	path = hyperstart
+	url = https://github.com/hyperhq/hyperstart.git
+[submodule "qemu"]
+	path = qemu
+	url = https://github.com/hyperhq/qemu.git
+[submodule "container-linux-install"]
+	path = container-linux-install
+	url = https://github.com/coreos/container-linux-install.git
+[submodule "container-linux-userdata-builder"]
+	path = container-linux-userdata-builder
+	url = https://github.com/coreos/container-linux-userdata-builder.git
+[submodule "container-linux-userdata-validator"]
+	path = container-linux-userdata-validator
+	url = https://github.com/coreos/container-linux-userdata-validator.git
+[submodule "virtcontainers"]
+	path = virtcontainers
+	url = https://github.com/containers/virtcontainers.git
+[submodule "atlas-terraform-git"]
+	path = atlas-terraform-git
+	url = https://github.com/hashicorp/atlas-terraform-git
