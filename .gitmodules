@@ -2829,3 +2829,116 @@
 [submodule "atlas-terraform-git"]
 	path = atlas-terraform-git
 	url = https://github.com/hashicorp/atlas-terraform-git
+[submodule "appengine-template"]
+	path = appengine-template
+	url = https://github.com/garethr/appengine-template.git
+[submodule "django-train"]
+	path = django-train
+	url = https://github.com/garethr/django-train.git
+[submodule "django-http-debug"]
+	path = django-http-debug
+	url = https://github.com/garethr/django-http-debug.git
+[submodule "dockerfilepp"]
+	path = dockerfilepp
+	url = https://github.com/garethr/dockerfilepp.git
+[submodule "docker-label-inspector"]
+	path = docker-label-inspector
+	url = https://github.com/garethr/docker-label-inspector.git
+[submodule "epydoc-themes"]
+	path = epydoc-themes
+	url = https://github.com/garethr/epydoc-themes.git
+[submodule "garethr-digitalocean"]
+	path = garethr-digitalocean
+	url = https://github.com/garethr/garethr-digitalocean.git
+[submodule "garethr-key_value_config"]
+	path = garethr-key_value_config
+	url = https://github.com/garethr/garethr-key_value_config.git
+[submodule "garethr-cube"]
+	path = garethr-cube
+	url = https://github.com/garethr/garethr-cube.git
+[submodule "garethr-rustlang"]
+	path = garethr-rustlang
+	url = https://github.com/garethr/garethr-rustlang.git
+[submodule "garethr-sysdig"]
+	path = garethr-sysdig
+	url = https://github.com/garethr/garethr-sysdig.git
+[submodule "garethr-scala"]
+	path = garethr-scala
+	url = https://github.com/garethr/garethr-scala.git
+[submodule "garethr-rundeck"]
+	path = garethr-rundeck
+	url = https://github.com/garethr/garethr-rundeck.git
+[submodule "garethr-mirageos"]
+	path = garethr-mirageos
+	url = https://github.com/garethr/garethr-mirageos.git
+[submodule "dotvim"]
+	path = dotvim
+	url = https://github.com/garethr/dotvim.git
+[submodule "fig"]
+	path = fig
+	url = https://github.com/garethr/fig.git
+[submodule "ansible"]
+	path = ansible
+	url = https://github.com/garethr/ansible.git
+[submodule "django"]
+	path = django
+	url = https://github.com/garethr/django.git
+[submodule "bosh"]
+	path = bosh
+	url = https://github.com/garethr/bosh.git
+[submodule "graylogtail"]
+	path = graylogtail
+	url = https://github.com/garethr/graylogtail.git
+[submodule "garethr.github.com"]
+	path = garethr.github.com
+	url = https://github.com/garethr/garethr.github.com.git
+[submodule "gmetric-web"]
+	path = gmetric-web
+	url = https://github.com/garethr/gmetric-web.git
+[submodule "graypy"]
+	path = graypy
+	url = https://github.com/garethr/graypy.git
+[submodule "puppet-docker-example"]
+	path = puppet-docker-example
+	url = https://github.com/garethr/puppet-docker-example.git
+[submodule "packer-serverspec-example"]
+	path = packer-serverspec-example
+	url = https://github.com/garethr/packer-serverspec-example.git
+[submodule "prodder"]
+	path = prodder
+	url = https://github.com/garethr/prodder.git
+[submodule "puppet-gearman"]
+	path = puppet-gearman
+	url = https://github.com/garethr/puppet-gearman.git
+[submodule "puppetmaster-vagrant"]
+	path = puppetmaster-vagrant
+[submodule "remote-workstation"]
+	path = remote-workstation
+	url = https://github.com/garethr/remote-workstation.git
+[submodule "puppet-docker-vnext-example"]
+	path = puppet-docker-vnext-example
+	url = https://github.com/garethr/puppet-docker-vnext-example.git
+[submodule "puppetlabs-strings"]
+	path = puppetlabs-strings
+	url = https://github.com/garethr/puppetlabs-strings.git
+[submodule "puppetlabs-aws"]
+	path = puppetlabs-aws
+	url = https://github.com/garethr/puppetlabs-aws.git
+[submodule "NodeGoat"]
+	path = NodeGoat
+	url = https://github.com/garethr/NodeGoat.git
+[submodule "puppet"]
+	path = puppet
+	url = https://github.com/garethr/puppet.git
+[submodule "packages"]
+	path = packages
+	url = https://github.com/garethr/packages.git
+[submodule "fixmysite"]
+	path = fixmysite
+	url = https://github.com/garethr/fixmysite.git
+[submodule "ddc-opencontrol"]
+	path = ddc-opencontrol
+	url = https://github.com/docker/ddc-opencontrol.git
+[submodule "go-digest"]
+	path = go-digest
+	url = https://github.com/docker/go-digest.git
