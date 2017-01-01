@@ -2942,3 +2942,1402 @@
 [submodule "go-digest"]
 	path = go-digest
 	url = https://github.com/docker/go-digest.git
+[submodule "errgo"]
+	path = errgo
+	url = https://github.com/giantswarm/errgo.git
+[submodule "kubernetes-registry"]
+	path = kubernetes-registry
+	url = https://github.com/giantswarm/kubernetes-registry.git
+[submodule "orchestra-concerthall"]
+	path = orchestra-concerthall
+	url = https://github.com/giantswarm/orchestra-concerthall.git
+[submodule "quobyte-automation"]
+	path = quobyte-automation
+	url = https://github.com/giantswarm/quobyte-automation.git
+[submodule "mizaru"]
+	path = mizaru
+	url = https://github.com/giantswarm/mizaru.git
+[submodule "prometheus-pingdom-exporter"]
+	path = prometheus-pingdom-exporter
+	url = https://github.com/giantswarm/prometheus-pingdom-exporter.git
+[submodule "percona-galera"]
+	path = percona-galera
+	url = https://github.com/giantswarm/percona-galera.git
+[submodule "orchestra-conductor"]
+	path = orchestra-conductor
+	url = https://github.com/giantswarm/orchestra-conductor.git
+[submodule "parallel-go"]
+	path = parallel-go
+	url = https://github.com/giantswarm/parallel-go.git
+[submodule "kubernetes-recipes"]
+	path = kubernetes-recipes
+	url = https://github.com/giantswarm/kubernetes-recipes.git
+[submodule "pingdom-irc-healthcheck"]
+	path = pingdom-irc-healthcheck
+	url = https://github.com/giantswarm/pingdom-irc-healthcheck.git
+[submodule "request-tester"]
+	path = request-tester
+	url = https://github.com/giantswarm/request-tester.git
+[submodule "mergo"]
+	path = mergo
+	url = https://github.com/giantswarm/mergo.git
+[submodule "retry-go"]
+	path = retry-go
+	url = https://github.com/giantswarm/retry-go.git
+[submodule "python-flask-helloworld"]
+	path = python-flask-helloworld
+	url = https://github.com/giantswarm/python-flask-helloworld.git
+[submodule "mariadb-galera"]
+	path = mariadb-galera
+	url = https://github.com/giantswarm/mariadb-galera.git
+[submodule "kubetree-backend"]
+	path = kubetree-backend
+	url = https://github.com/giantswarm/kubetree-backend.git
+[submodule "redis-discovery"]
+	path = redis-discovery
+	url = https://github.com/giantswarm/redis-discovery.git
+[submodule "kubetree-frontend"]
+	path = kubetree-frontend
+	url = https://github.com/giantswarm/kubetree-frontend.git
+[submodule "redis-example"]
+	path = redis-example
+	url = https://github.com/giantswarm/redis-example.git
+[submodule "ppnet-proxy"]
+	path = ppnet-proxy
+	url = https://github.com/giantswarm/ppnet-proxy.git
+[submodule "local-mesos"]
+	path = local-mesos
+	url = https://github.com/giantswarm/local-mesos.git
+[submodule "prometheus-kemp-exporter"]
+	path = prometheus-kemp-exporter
+	url = https://github.com/giantswarm/prometheus-kemp-exporter.git
+[submodule "sass-docker"]
+	path = sass-docker
+	url = https://github.com/giantswarm/sass-docker.git
+[submodule "slack-ircbridge"]
+	path = slack-ircbridge
+	url = https://github.com/giantswarm/slack-ircbridge.git
+[submodule "swagger-codegen-cli.docker"]
+	path = swagger-codegen-cli.docker
+	url = https://github.com/giantswarm/swagger-codegen-cli.docker.git
+[submodule "stripe-event-archiver"]
+	path = stripe-event-archiver
+	url = https://github.com/giantswarm/stripe-event-archiver.git
+[submodule "swarm-ethereum"]
+	path = swarm-ethereum
+	url = https://github.com/giantswarm/swarm-ethereum.git
+[submodule "service-definition-examples"]
+	path = service-definition-examples
+	url = https://github.com/giantswarm/service-definition-examples.git
+[submodule "sys-analysis-tools"]
+	path = sys-analysis-tools
+	url = https://github.com/giantswarm/sys-analysis-tools.git
+[submodule "swarm-flask-hello"]
+	path = swarm-flask-hello
+	url = https://github.com/giantswarm/swarm-flask-hello.git
+[submodule "swarm-mono"]
+	path = swarm-mono
+	url = https://github.com/giantswarm/swarm-mono.git
+[submodule "swarm-splunk"]
+	path = swarm-splunk
+	url = https://github.com/giantswarm/swarm-splunk.git
+[submodule "swarm-ipfs"]
+	path = swarm-ipfs
+	url = https://github.com/giantswarm/swarm-ipfs.git
+[submodule "lorry"]
+	path = lorry
+	url = https://github.com/giantswarm/lorry.git
+[submodule "tiny-tools"]
+	path = tiny-tools
+	url = https://github.com/giantswarm/tiny-tools.git
+[submodule "sparkexample"]
+	path = sparkexample
+	url = https://github.com/giantswarm/sparkexample.git
+[submodule "swarm-holdem"]
+	path = swarm-holdem
+	url = https://github.com/giantswarm/swarm-holdem.git
+[submodule "validate"]
+	path = validate
+	url = https://github.com/giantswarm/validate.git
+[submodule "yochu"]
+	path = yochu
+	url = https://github.com/giantswarm/yochu.git
+[submodule "onsho"]
+	path = onsho
+	url = https://github.com/giantswarm/onsho.git
+[submodule "units-visualizer"]
+	path = units-visualizer
+	url = https://github.com/giantswarm/units-visualizer.git
+[submodule "swarm-ogar"]
+	path = swarm-ogar
+	url = https://github.com/giantswarm/swarm-ogar.git
+[submodule "spark"]
+	path = spark
+	url = https://github.com/giantswarm/spark.git
+[submodule "todoapp-spark"]
+	path = todoapp-spark
+	url = https://github.com/giantswarm/todoapp-spark.git
+[submodule "sample_app_rails_4"]
+	path = sample_app_rails_4
+	url = https://github.com/giantswarm/sample_app_rails_4.git
+[submodule "swarm-ghost"]
+	path = swarm-ghost
+	url = https://github.com/giantswarm/swarm-ghost.git
+[submodule "uchiwa"]
+	path = uchiwa
+	url = https://github.com/giantswarm/uchiwa.git
+[submodule "symfony-standard"]
+	path = symfony-standard
+	url = https://github.com/giantswarm/symfony-standard.git
+[submodule "middleware-server"]
+	path = middleware-server
+	url = https://github.com/giantswarm/middleware-server.git
+[submodule "swarm-wercker"]
+	path = swarm-wercker
+	url = https://github.com/giantswarm/swarm-wercker.git
+[submodule "swarm-inception"]
+	path = swarm-inception
+	url = https://github.com/giantswarm/swarm-inception.git
+[submodule "user-config"]
+	path = user-config
+	url = https://github.com/giantswarm/user-config.git
+[submodule "legal"]
+	path = legal
+	url = https://github.com/giantswarm/legal.git
+[submodule "request-context"]
+	path = request-context
+	url = https://github.com/giantswarm/request-context.git
+[submodule "swarm-bench"]
+	path = swarm-bench
+	url = https://github.com/giantswarm/swarm-bench.git
+[submodule "semver-bump"]
+	path = semver-bump
+	url = https://github.com/giantswarm/semver-bump.git
+[submodule "swarm-cubism"]
+	path = swarm-cubism
+	url = https://github.com/giantswarm/swarm-cubism.git
+[submodule "kubernetes-training"]
+	path = kubernetes-training
+	url = https://github.com/giantswarm/kubernetes-training.git
+[submodule "nomi"]
+	path = nomi
+	url = https://github.com/giantswarm/nomi.git
+[submodule "twitter-hot-urls-example"]
+	path = twitter-hot-urls-example
+	url = https://github.com/giantswarm/twitter-hot-urls-example.git
+[submodule "mayu"]
+	path = mayu
+	url = https://github.com/giantswarm/mayu.git
+[submodule "orchestra-musician"]
+	path = orchestra-musician
+	url = https://github.com/giantswarm/orchestra-musician.git
+[submodule "microkit"]
+	path = microkit
+	url = https://github.com/giantswarm/microkit.git
+[submodule "microkit-example"]
+	path = microkit-example
+	url = https://github.com/giantswarm/microkit-example.git
+[submodule "ppnet"]
+	path = ppnet
+	url = https://github.com/giantswarm/ppnet.git
+[submodule "talks-oponder-dockerizing-rails"]
+	path = talks-oponder-dockerizing-rails
+	url = https://github.com/giantswarm/talks-oponder-dockerizing-rails.git
+[submodule "identidock"]
+	path = identidock
+	url = https://github.com/using-docker/identidock.git
+[submodule "ci-testing"]
+	path = ci-testing
+	url = https://github.com/using-docker/ci-testing.git
+[submodule "deploying-containers"]
+	path = deploying-containers
+	url = https://github.com/using-docker/deploying-containers.git
+[submodule "creating-a-simple-web-app"]
+	path = creating-a-simple-web-app
+	url = https://github.com/using-docker/creating-a-simple-web-app.git
+[submodule "artifact-test"]
+	path = artifact-test
+	url = https://github.com/circleci/artifact-test.git
+[submodule "bond"]
+	path = bond
+	url = https://github.com/circleci/bond.git
+[submodule "cci-demo-go"]
+	path = cci-demo-go
+	url = https://github.com/circleci/cci-demo-go.git
+[submodule "circle-dummy-public-project"]
+	path = circle-dummy-public-project
+	url = https://github.com/circleci/circle-dummy-public-project.git
+[submodule "cci-demo-react"]
+	path = cci-demo-react
+	url = https://github.com/circleci/cci-demo-react.git
+[submodule "circle-dummy-branch-repo"]
+	path = circle-dummy-branch-repo
+	url = https://github.com/circleci/circle-dummy-branch-repo.git
+[submodule "color-test"]
+	path = color-test
+	url = https://github.com/circleci/color-test.git
+[submodule "cljr"]
+	path = cljr
+	url = https://github.com/circleci/cljr.git
+[submodule "cci-demo-rails"]
+	path = cci-demo-rails
+	url = https://github.com/circleci/cci-demo-rails.git
+[submodule "docker-elasticsearch"]
+	path = docker-elasticsearch
+	url = https://github.com/circleci/docker-elasticsearch.git
+[submodule "docker-brew-ubuntu-server"]
+	path = docker-brew-ubuntu-server
+	url = https://github.com/circleci/docker-brew-ubuntu-server.git
+[submodule "clipchat"]
+	path = clipchat
+	url = https://github.com/circleci/clipchat.git
+[submodule "discourse-styles"]
+	path = discourse-styles
+	url = https://github.com/circleci/discourse-styles.git
+[submodule "ansible-aws"]
+	path = ansible-aws
+	url = https://github.com/circleci/ansible-aws.git
+[submodule "docker-hello"]
+	path = docker-hello
+	url = https://github.com/circleci/docker-hello.git
+[submodule "circle-dummy-android"]
+	path = circle-dummy-android
+	url = https://github.com/circleci/circle-dummy-android.git
+[submodule "django-coverage"]
+	path = django-coverage
+	url = https://github.com/circleci/django-coverage.git
+[submodule "cucumber-formatter"]
+	path = cucumber-formatter
+	url = https://github.com/circleci/cucumber-formatter.git
+[submodule "docker-load-test"]
+	path = docker-load-test
+	url = https://github.com/circleci/docker-load-test.git
+[submodule "docker-hello-google"]
+	path = docker-hello-google
+	url = https://github.com/circleci/docker-hello-google.git
+[submodule "enterprise-setup"]
+	path = enterprise-setup
+	url = https://github.com/circleci/enterprise-setup.git
+[submodule "fantasticorp-reset"]
+	path = fantasticorp-reset
+	url = https://github.com/circleci/fantasticorp-reset.git
+[submodule "flaky-ruby-tests"]
+	path = flaky-ruby-tests
+	url = https://github.com/circleci/flaky-ruby-tests.git
+[submodule "freeze-fn"]
+	path = freeze-fn
+	url = https://github.com/circleci/freeze-fn.git
+[submodule "EspressoSample"]
+	path = EspressoSample
+	url = https://github.com/circleci/EspressoSample.git
+[submodule "circle-env"]
+	path = circle-env
+	url = https://github.com/circleci/circle-env.git
+[submodule "fs"]
+	path = fs
+	url = https://github.com/circleci/fs.git
+[submodule "go-ecs-ecr"]
+	path = go-ecs-ecr
+	url = https://github.com/circleci/go-ecs-ecr.git
+[submodule "heroku-cd"]
+	path = heroku-cd
+	url = https://github.com/circleci/heroku-cd.git
+[submodule "karma-cljs.test"]
+	path = karma-cljs.test
+	url = https://github.com/circleci/karma-cljs.test.git
+[submodule "ios-deployment-sample"]
+	path = ios-deployment-sample
+	url = https://github.com/circleci/ios-deployment-sample.git
+[submodule "lein-deploy-deps"]
+	path = lein-deploy-deps
+	url = https://github.com/circleci/lein-deploy-deps.git
+[submodule "android-cloud-test-lab"]
+	path = android-cloud-test-lab
+	url = https://github.com/circleci/android-cloud-test-lab.git
+[submodule "lein-jarbin"]
+	path = lein-jarbin
+	url = https://github.com/circleci/lein-jarbin.git
+[submodule "lein-daemon"]
+	path = lein-daemon
+	url = https://github.com/circleci/lein-daemon.git
+[submodule "encrypted-files"]
+	path = encrypted-files
+	url = https://github.com/circleci/encrypted-files.git
+[submodule "lein-jartask"]
+	path = lein-jartask
+	url = https://github.com/circleci/lein-jartask.git
+[submodule "image-builder"]
+	path = image-builder
+	url = https://github.com/circleci/image-builder.git
+[submodule "lein-set-dep-ver"]
+	path = lein-set-dep-ver
+	url = https://github.com/circleci/lein-set-dep-ver.git
+[submodule "lein-version-specs"]
+	path = lein-version-specs
+	url = https://github.com/circleci/lein-version-specs.git
+[submodule "clj-ssh"]
+	path = clj-ssh
+	url = https://github.com/circleci/clj-ssh.git
+[submodule "cci-demo-lumen"]
+	path = cci-demo-lumen
+	url = https://github.com/circleci/cci-demo-lumen.git
+[submodule "minitest-ci"]
+	path = minitest-ci
+	url = https://github.com/circleci/minitest-ci.git
+[submodule "nsexec"]
+	path = nsexec
+	url = https://github.com/circleci/nsexec.git
+[submodule "package-builder"]
+	path = package-builder
+	url = https://github.com/circleci/package-builder.git
+[submodule "rspec-simplecov-example"]
+	path = rspec-simplecov-example
+	url = https://github.com/circleci/rspec-simplecov-example.git
+[submodule "rspec_formatters"]
+	path = rspec_formatters
+	url = https://github.com/circleci/rspec_formatters.git
+[submodule "gilded-rose-kata"]
+	path = gilded-rose-kata
+	url = https://github.com/circleci/gilded-rose-kata.git
+[submodule "rollcage"]
+	path = rollcage
+	url = https://github.com/circleci/rollcage.git
+[submodule "s3-wagon-private"]
+	path = s3-wagon-private
+	url = https://github.com/circleci/s3-wagon-private.git
+[submodule "rails-selenium-sample"]
+	path = rails-selenium-sample
+	url = https://github.com/circleci/rails-selenium-sample.git
+[submodule "rspec_junit_formatter"]
+	path = rspec_junit_formatter
+	url = https://github.com/circleci/rspec_junit_formatter.git
+[submodule "sauce-connect"]
+	path = sauce-connect
+	url = https://github.com/circleci/sauce-connect.git
+[submodule "salesforce"]
+	path = salesforce
+	url = https://github.com/circleci/salesforce.git
+[submodule "node-slack-upload"]
+	path = node-slack-upload
+	url = https://github.com/circleci/node-slack-upload.git
+[submodule "schema-typer"]
+	path = schema-typer
+	url = https://github.com/circleci/schema-typer.git
+[submodule "php-build"]
+	path = php-build
+	url = https://github.com/circleci/php-build.git
+[submodule "pagerbot"]
+	path = pagerbot
+	url = https://github.com/circleci/pagerbot.git
+[submodule "translate-midje"]
+	path = translate-midje
+	url = https://github.com/circleci/translate-midje.git
+[submodule "version-specs"]
+	path = version-specs
+	url = https://github.com/circleci/version-specs.git
+[submodule "wait-for"]
+	path = wait-for
+	url = https://github.com/circleci/wait-for.git
+[submodule "waitproc"]
+	path = waitproc
+	url = https://github.com/circleci/waitproc.git
+[submodule "tentacles"]
+	path = tentacles
+	url = https://github.com/circleci/tentacles.git
+[submodule "mongofinil"]
+	path = mongofinil
+	url = https://github.com/circleci/mongofinil.git
+[submodule "YourFirstGreenBuild"]
+	path = YourFirstGreenBuild
+	url = https://github.com/circleci/YourFirstGreenBuild.git
+[submodule "requestbin"]
+	path = requestbin
+	url = https://github.com/circleci/requestbin.git
+[submodule "android-tdd-playground"]
+	path = android-tdd-playground
+	url = https://github.com/circleci/android-tdd-playground.git
+[submodule "stefon"]
+	path = stefon
+	url = https://github.com/circleci/stefon.git
+[submodule "cci-demo-flask"]
+	path = cci-demo-flask
+	url = https://github.com/circleci/cci-demo-flask.git
+[submodule "typed-clojure"]
+	path = typed-clojure
+	url = https://github.com/circleci/typed-clojure.git
+[submodule "codedeploy-demo-app"]
+	path = codedeploy-demo-app
+	url = https://github.com/circleci/codedeploy-demo-app.git
+[submodule "trivia"]
+	path = trivia
+	url = https://github.com/circleci/trivia.git
+[submodule "precog"]
+	path = precog
+	url = https://github.com/circleci/precog.git
+[submodule "congomongo"]
+	path = congomongo
+	url = https://github.com/circleci/congomongo.git
+[submodule "circleci-docs"]
+	path = circleci-docs
+	url = https://github.com/circleci/circleci-docs.git
+[submodule "circle-ecs"]
+	path = circle-ecs
+	url = https://github.com/circleci/circle-ecs.git
+[submodule "clj-keyczar"]
+	path = clj-keyczar
+	url = https://github.com/circleci/clj-keyczar.git
+[submodule "clj-plist"]
+	path = clj-plist
+	url = https://github.com/circleci/clj-plist.git
+[submodule "code2040-practice"]
+	path = code2040-practice
+	url = https://github.com/circleci/code2040-practice.git
+[submodule "angular-phonecat"]
+	path = angular-phonecat
+	url = https://github.com/circleci/angular-phonecat.git
+[submodule "core.typed"]
+	path = core.typed
+	url = https://github.com/circleci/core.typed.git
+[submodule "github-services"]
+	path = github-services
+	url = https://github.com/circleci/github-services.git
+[submodule "CocoaPods"]
+	path = CocoaPods
+	url = https://github.com/circleci/CocoaPods.git
+[submodule "presto"]
+	path = presto
+	url = https://github.com/circleci/presto.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/circleci/frontend.git
+[submodule "scope-global-swarm-service"]
+	path = scope-global-swarm-service
+	url = https://github.com/weaveworks/scope-global-swarm-service.git
+[submodule "shell-image"]
+	path = shell-image
+	url = https://github.com/weaveworks/shell-image.git
+[submodule "weave-cni"]
+	path = weave-cni
+	url = https://github.com/weaveworks/weave-cni.git
+[submodule "kubelet-mesh"]
+	path = kubelet-mesh
+	url = https://github.com/weaveworks/kubelet-mesh.git
+[submodule "ps"]
+	path = ps
+	url = https://github.com/weaveworks/ps.git
+[submodule "github-release"]
+	path = github-release
+	url = https://github.com/weaveworks/github-release.git
+[submodule "grafanalib"]
+	path = grafanalib
+	url = https://github.com/weaveworks/grafanalib.git
+[submodule "discovery"]
+	path = discovery
+	url = https://github.com/weaveworks/discovery.git
+[submodule "terraform-kubernetes"]
+	path = terraform-kubernetes
+	url = https://github.com/weaveworks/terraform-kubernetes.git
+[submodule "ui-components"]
+	path = ui-components
+	url = https://github.com/weaveworks/ui-components.git
+[submodule "demo-weave-kube-hybrid"]
+	path = demo-weave-kube-hybrid
+	url = https://github.com/weaveworks/demo-weave-kube-hybrid.git
+[submodule "go-odp"]
+	path = go-odp
+	url = https://github.com/weaveworks/go-odp.git
+[submodule "build-tools"]
+	path = build-tools
+	url = https://github.com/weaveworks/build-tools.git
+[submodule "mesh"]
+	path = mesh
+	url = https://github.com/weaveworks/mesh.git
+[submodule "kubediff"]
+	path = kubediff
+	url = https://github.com/weaveworks/kubediff.git
+[submodule "weave-guide-sync"]
+	path = weave-guide-sync
+	url = https://github.com/weaveworks/weave-guide-sync.git
+[submodule "procspy"]
+	path = procspy
+	url = https://github.com/weaveworks/procspy.git
+[submodule "blackfriday"]
+	path = blackfriday
+	url = https://github.com/weaveworks/blackfriday.git
+[submodule "flux-example"]
+	path = flux-example
+	url = https://github.com/weaveworks/flux-example.git
+[submodule "wordepress"]
+	path = wordepress
+	url = https://github.com/weaveworks/wordepress.git
+[submodule "alpine-ansible"]
+	path = alpine-ansible
+	url = https://github.com/weaveworks/alpine-ansible.git
+[submodule "flux"]
+	path = flux
+	url = https://github.com/weaveworks/flux.git
+[submodule "ghost"]
+	path = ghost
+	url = https://github.com/weaveworks/ghost.git
+[submodule "docker-terraform"]
+	path = docker-terraform
+	url = https://github.com/weaveworks/docker-terraform.git
+[submodule "weave-npc"]
+	path = weave-npc
+	url = https://github.com/weaveworks/weave-npc.git
+[submodule "flux-classic"]
+	path = flux-classic
+	url = https://github.com/weaveworks/flux-classic.git
+[submodule "control-repo-vagrant"]
+	path = control-repo-vagrant
+	url = https://github.com/puppetlabs/control-repo-vagrant.git
+[submodule "lein-release-4digit-version"]
+	path = lein-release-4digit-version
+	url = https://github.com/puppetlabs/lein-release-4digit-version.git
+[submodule "jira-backup"]
+	path = jira-backup
+	url = https://github.com/puppetlabs/jira-backup.git
+[submodule "mcollective-actionpolicy-auth"]
+	path = mcollective-actionpolicy-auth
+	url = https://github.com/puppetlabs/mcollective-actionpolicy-auth.git
+[submodule "lein-ubersource"]
+	path = lein-ubersource
+	url = https://github.com/puppetlabs/lein-ubersource.git
+[submodule "jenkins-workflow-library"]
+	path = jenkins-workflow-library
+	url = https://github.com/puppetlabs/jenkins-workflow-library.git
+[submodule "liberator-util"]
+	path = liberator-util
+	url = https://github.com/puppetlabs/liberator-util.git
+[submodule "jenkins-plugin-redis"]
+	path = jenkins-plugin-redis
+	url = https://github.com/puppetlabs/jenkins-plugin-redis.git
+[submodule "mcollective-facter-facts"]
+	path = mcollective-facter-facts
+	url = https://github.com/puppetlabs/mcollective-facter-facts.git
+[submodule "mcollective-collective-builder"]
+	path = mcollective-collective-builder
+	url = https://github.com/puppetlabs/mcollective-collective-builder.git
+[submodule "master_manipulator"]
+	path = master_manipulator
+	url = https://github.com/puppetlabs/master_manipulator.git
+[submodule "jira-dependency-graph"]
+	path = jira-dependency-graph
+	url = https://github.com/puppetlabs/jira-dependency-graph.git
+[submodule "mcollective-process-agent"]
+	path = mcollective-process-agent
+	url = https://github.com/puppetlabs/mcollective-process-agent.git
+[submodule "mcollective-integration"]
+	path = mcollective-integration
+[submodule "mcollective-service-agent"]
+	path = mcollective-service-agent
+	url = https://github.com/puppetlabs/mcollective-service-agent.git
+[submodule "mcollective-filemgr-agent"]
+	path = mcollective-filemgr-agent
+	url = https://github.com/puppetlabs/mcollective-filemgr-agent.git
+[submodule "mcollective-nettest-agent"]
+	path = mcollective-nettest-agent
+	url = https://github.com/puppetlabs/mcollective-nettest-agent.git
+[submodule "mcollective-iptables-agent"]
+	path = mcollective-iptables-agent
+	url = https://github.com/puppetlabs/mcollective-iptables-agent.git
+[submodule "jvm-ssl-utils"]
+	path = jvm-ssl-utils
+	url = https://github.com/puppetlabs/jvm-ssl-utils.git
+[submodule "lock_manager"]
+	path = lock_manager
+	url = https://github.com/puppetlabs/lock_manager.git
+[submodule "mcollective-nrpe-agent"]
+	path = mcollective-nrpe-agent
+	url = https://github.com/puppetlabs/mcollective-nrpe-agent.git
+[submodule "mcollective-package-agent"]
+	path = mcollective-package-agent
+	url = https://github.com/puppetlabs/mcollective-package-agent.git
+[submodule "mcollective-sshkey-security"]
+	path = mcollective-sshkey-security
+	url = https://github.com/puppetlabs/mcollective-sshkey-security.git
+[submodule "mcollective-sysctl-data"]
+	path = mcollective-sysctl-data
+	url = https://github.com/puppetlabs/mcollective-sysctl-data.git
+[submodule "mcollective-shell-agent"]
+	path = mcollective-shell-agent
+	url = https://github.com/puppetlabs/mcollective-shell-agent.git
+[submodule "mcollective-zeromq-connector"]
+	path = mcollective-zeromq-connector
+	url = https://github.com/puppetlabs/mcollective-zeromq-connector.git
+[submodule "mq"]
+	path = mq
+	url = https://github.com/puppetlabs/mq.git
+[submodule "libral"]
+	path = libral
+	url = https://github.com/puppetlabs/libral.git
+[submodule "modulesync_configs"]
+	path = modulesync_configs
+	url = https://github.com/puppetlabs/modulesync_configs.git
+[submodule "mof"]
+	path = mof
+	url = https://github.com/puppetlabs/mof.git
+[submodule "net_http_unix"]
+	path = net_http_unix
+	url = https://github.com/puppetlabs/net_http_unix.git
+[submodule "packer-vsphere"]
+	path = packer-vsphere
+	url = https://github.com/puppetlabs/packer-vsphere.git
+[submodule "orchestrator_api-ruby"]
+	path = orchestrator_api-ruby
+	url = https://github.com/puppetlabs/orchestrator_api-ruby.git
+[submodule "origami"]
+	path = origami
+	url = https://github.com/puppetlabs/origami.git
+[submodule "pe-er-testbed"]
+	path = pe-er-testbed
+	url = https://github.com/puppetlabs/pe-er-testbed.git
+[submodule "mesos-plugin"]
+	path = mesos-plugin
+	url = https://github.com/puppetlabs/mesos-plugin.git
+[submodule "pcp-specifications"]
+	path = pcp-specifications
+	url = https://github.com/puppetlabs/pcp-specifications.git
+[submodule "Naginator"]
+	path = Naginator
+	url = https://github.com/puppetlabs/Naginator.git
+[submodule "pcp-test"]
+	path = pcp-test
+	url = https://github.com/puppetlabs/pcp-test.git
+[submodule "pltraining-classroomdemo"]
+	path = pltraining-classroomdemo
+	url = https://github.com/puppetlabs/pltraining-classroomdemo.git
+[submodule "matrix-project-plugin"]
+	path = matrix-project-plugin
+	url = https://github.com/puppetlabs/matrix-project-plugin.git
+[submodule "mcollective-puppet-agent"]
+	path = mcollective-puppet-agent
+	url = https://github.com/puppetlabs/mcollective-puppet-agent.git
+[submodule "mocha"]
+	path = mocha
+	url = https://github.com/puppetlabs/mocha.git
+[submodule "pl-clojure-style"]
+	path = pl-clojure-style
+	url = https://github.com/puppetlabs/pl-clojure-style.git
+[submodule "pcp-broker"]
+	path = pcp-broker
+	url = https://github.com/puppetlabs/pcp-broker.git
+[submodule "pltraining-pasture"]
+	path = pltraining-pasture
+	url = https://github.com/puppetlabs/pltraining-pasture.git
+[submodule "netdev_stdlib_eos"]
+	path = netdev_stdlib_eos
+	url = https://github.com/puppetlabs/netdev_stdlib_eos.git
+[submodule "pltraining-dockeragent"]
+	path = pltraining-dockeragent
+	url = https://github.com/puppetlabs/pltraining-dockeragent.git
+[submodule "pltraining-showoff"]
+	path = pltraining-showoff
+	url = https://github.com/puppetlabs/pltraining-showoff.git
+[submodule "pl-build-tools-vanagon"]
+	path = pl-build-tools-vanagon
+	url = https://github.com/puppetlabs/pl-build-tools-vanagon.git
+[submodule "pltraining-localrepo"]
+	path = pltraining-localrepo
+	url = https://github.com/puppetlabs/pltraining-localrepo.git
+[submodule "pltraining-selfpaced"]
+	path = pltraining-selfpaced
+	url = https://github.com/puppetlabs/pltraining-selfpaced.git
+[submodule "pltraining-course_selector"]
+	path = pltraining-course_selector
+	url = https://github.com/puppetlabs/pltraining-course_selector.git
+[submodule "pltraining-wordpress"]
+	path = pltraining-wordpress
+	url = https://github.com/puppetlabs/pltraining-wordpress.git
+[submodule "leatherman"]
+	path = leatherman
+	url = https://github.com/puppetlabs/leatherman.git
+[submodule "prosvc-code_manager_face"]
+	path = prosvc-code_manager_face
+	url = https://github.com/puppetlabs/prosvc-code_manager_face.git
+[submodule "mcollective-plugins"]
+	path = mcollective-plugins
+	url = https://github.com/puppetlabs/mcollective-plugins.git
+[submodule "pltraining-dirtree"]
+	path = pltraining-dirtree
+	url = https://github.com/puppetlabs/pltraining-dirtree.git
+[submodule "prosvc-preview_report"]
+	path = prosvc-preview_report
+	url = https://github.com/puppetlabs/prosvc-preview_report.git
+[submodule "pltraining-bootstrap"]
+	path = pltraining-bootstrap
+	url = https://github.com/puppetlabs/pltraining-bootstrap.git
+[submodule "plumbing"]
+	path = plumbing
+	url = https://github.com/puppetlabs/plumbing.git
+[submodule "pltraining-student"]
+	path = pltraining-student
+	url = https://github.com/puppetlabs/pltraining-student.git
+[submodule "pmm-pe-demo-env"]
+	path = pmm-pe-demo-env
+	url = https://github.com/puppetlabs/pmm-pe-demo-env.git
+[submodule "ps-sox"]
+	path = ps-sox
+	url = https://github.com/puppetlabs/ps-sox.git
+[submodule "puppet-cloud_connection"]
+	path = puppet-cloud_connection
+	url = https://github.com/puppetlabs/puppet-cloud_connection.git
+[submodule "prosvcs-node_manager"]
+	path = prosvcs-node_manager
+	url = https://github.com/puppetlabs/prosvcs-node_manager.git
+[submodule "puppet-agent-osx-installer-plugin"]
+	path = puppet-agent-osx-installer-plugin
+	url = https://github.com/puppetlabs/puppet-agent-osx-installer-plugin.git
+[submodule "jruby-parser"]
+	path = jruby-parser
+	url = https://github.com/puppetlabs/jruby-parser.git
+[submodule "pmm-puppet-site"]
+	path = pmm-puppet-site
+	url = https://github.com/puppetlabs/pmm-puppet-site.git
+[submodule "nogotofail"]
+	path = nogotofail
+	url = https://github.com/puppetlabs/nogotofail.git
+[submodule "libpuppetdb"]
+	path = libpuppetdb
+	url = https://github.com/puppetlabs/libpuppetdb.git
+[submodule "puppet-ca-bundle"]
+	path = puppet-ca-bundle
+	url = https://github.com/puppetlabs/puppet-ca-bundle.git
+[submodule "packaging"]
+	path = packaging
+	url = https://github.com/puppetlabs/packaging.git
+[submodule "marionette-collective"]
+	path = marionette-collective
+	url = https://github.com/puppetlabs/marionette-collective.git
+[submodule "phabricator"]
+	path = phabricator
+	url = https://github.com/puppetlabs/phabricator.git
+[submodule "pltraining-learning"]
+	path = pltraining-learning
+	url = https://github.com/puppetlabs/pltraining-learning.git
+[submodule "puppet-acceptance"]
+	path = puppet-acceptance
+	url = https://github.com/puppetlabs/puppet-acceptance.git
+[submodule "puppet-agent"]
+	path = puppet-agent
+	url = https://github.com/puppetlabs/puppet-agent.git
+[submodule "pltraining-userprefs"]
+	path = pltraining-userprefs
+	url = https://github.com/puppetlabs/pltraining-userprefs.git
+[submodule "puppet-camp-chicago-slides"]
+	path = puppet-camp-chicago-slides
+	url = https://github.com/puppetlabs/puppet-camp-chicago-slides.git
+[submodule "pltraining-classroom"]
+	path = pltraining-classroom
+	url = https://github.com/puppetlabs/pltraining-classroom.git
+[submodule "jruby"]
+	path = jruby
+	url = https://github.com/puppetlabs/jruby.git
+[submodule "circle-cloudformation"]
+	path = circle-cloudformation
+	url = https://github.com/circleci/circle-cloudformation.git
+[submodule "clj-getrusage"]
+	path = clj-getrusage
+	url = https://github.com/circleci/clj-getrusage.git
+[submodule "clj-v8"]
+	path = clj-v8
+	url = https://github.com/circleci/clj-v8.git
+[submodule "media"]
+	path = media
+	url = https://github.com/circleci/media.git
+[submodule "puppet-module-tomcat"]
+	path = puppet-module-tomcat
+	url = https://github.com/puppetlabs/puppet-module-tomcat.git
+[submodule "puppet-syntax-emacs"]
+	path = puppet-syntax-emacs
+	url = https://github.com/puppetlabs/puppet-syntax-emacs.git
+[submodule "puppet-enc"]
+	path = puppet-enc
+	url = https://github.com/puppetlabs/puppet-enc.git
+[submodule "puppet-syntax-vim"]
+	path = puppet-syntax-vim
+	url = https://github.com/puppetlabs/puppet-syntax-vim.git
+[submodule "puppet-newrelic"]
+	path = puppet-newrelic
+	url = https://github.com/puppetlabs/puppet-newrelic.git
+[submodule "puppet-compile-catalog-with-files"]
+	path = puppet-compile-catalog-with-files
+	url = https://github.com/puppetlabs/puppet-compile-catalog-with-files.git
+[submodule "puppet-nexus"]
+	path = puppet-nexus
+	url = https://github.com/puppetlabs/puppet-nexus.git
+[submodule "puppet-pcp-broker"]
+	path = puppet-pcp-broker
+	url = https://github.com/puppetlabs/puppet-pcp-broker.git
+[submodule "puppet-report-generator"]
+	path = puppet-report-generator
+	url = https://github.com/puppetlabs/puppet-report-generator.git
+[submodule "puppet-mac_admin"]
+	path = puppet-mac_admin
+	url = https://github.com/puppetlabs/puppet-mac_admin.git
+[submodule "puppet-vro-autosign_example"]
+	path = puppet-vro-autosign_example
+	url = https://github.com/puppetlabs/puppet-vro-autosign_example.git
+[submodule "puppet-instance"]
+	path = puppet-instance
+	url = https://github.com/puppetlabs/puppet-instance.git
+[submodule "puppet-enterprise-consul-docker-demo"]
+	path = puppet-enterprise-consul-docker-demo
+	url = https://github.com/puppetlabs/puppet-enterprise-consul-docker-demo.git
+[submodule "puppet-vro-vra_prop"]
+	path = puppet-vro-vra_prop
+	url = https://github.com/puppetlabs/puppet-vro-vra_prop.git
+[submodule "puppet-vro-vro_plugin_sshd"]
+	path = puppet-vro-vro_plugin_sshd
+	url = https://github.com/puppetlabs/puppet-vro-vro_plugin_sshd.git
+[submodule "puppetdb-webhooks-staging"]
+	path = puppetdb-webhooks-staging
+	url = https://github.com/puppetlabs/puppetdb-webhooks-staging.git
+[submodule "puppet-vagrant-boxes"]
+	path = puppet-vagrant-boxes
+	url = https://github.com/puppetlabs/puppet-vagrant-boxes.git
+[submodule "puppet-zpr"]
+	path = puppet-zpr
+	url = https://github.com/puppetlabs/puppet-zpr.git
+[submodule "puppet-strings"]
+	path = puppet-strings
+	url = https://github.com/puppetlabs/puppet-strings.git
+[submodule "puppetdb-cli"]
+	path = puppetdb-cli
+	url = https://github.com/puppetlabs/puppetdb-cli.git
+[submodule "puppet-webhooks"]
+	path = puppet-webhooks
+	url = https://github.com/puppetlabs/puppet-webhooks.git
+[submodule "puppetlabs-activemq"]
+	path = puppetlabs-activemq
+	url = https://github.com/puppetlabs/puppetlabs-activemq.git
+[submodule "puppetlabs-apacheds"]
+	path = puppetlabs-apacheds
+	url = https://github.com/puppetlabs/puppetlabs-apacheds.git
+[submodule "puppetlabs-apk"]
+	path = puppetlabs-apk
+	url = https://github.com/puppetlabs/puppetlabs-apk.git
+[submodule "puppet-master-profiler"]
+	path = puppet-master-profiler
+	url = https://github.com/puppetlabs/puppet-master-profiler.git
+[submodule "puppet-gatling-jenkins-plugin"]
+	path = puppet-gatling-jenkins-plugin
+	url = https://github.com/puppetlabs/puppet-gatling-jenkins-plugin.git
+[submodule "puppetlabs-app_modeling"]
+	path = puppetlabs-app_modeling
+	url = https://github.com/puppetlabs/puppetlabs-app_modeling.git
+[submodule "puppetconf-partner-demo-env"]
+	path = puppetconf-partner-demo-env
+	url = https://github.com/puppetlabs/puppetconf-partner-demo-env.git
+[submodule "puppetlabs-accounts"]
+	path = puppetlabs-accounts
+[submodule "puppetforge-plugin"]
+	path = puppetforge-plugin
+	url = https://github.com/puppetlabs/puppetforge-plugin.git
+[submodule "puppetlabs-bitlbee"]
+	path = puppetlabs-bitlbee
+	url = https://github.com/puppetlabs/puppetlabs-bitlbee.git
+[submodule "puppetlabs-appdirector"]
+	path = puppetlabs-appdirector
+	url = https://github.com/puppetlabs/puppetlabs-appdirector.git
+[submodule "puppetlabs-azure_agent"]
+	path = puppetlabs-azure_agent
+	url = https://github.com/puppetlabs/puppetlabs-azure_agent.git
+[submodule "puppetlabs-awsdemo_profiles"]
+	path = puppetlabs-awsdemo_profiles
+	url = https://github.com/puppetlabs/puppetlabs-awsdemo_profiles.git
+[submodule "puppet-eucalyptus"]
+	path = puppet-eucalyptus
+	url = https://github.com/puppetlabs/puppet-eucalyptus.git
+[submodule "puppetlabs-bootstrap"]
+	path = puppetlabs-bootstrap
+	url = https://github.com/puppetlabs/puppetlabs-bootstrap.git
+[submodule "puppetlabs-auth_conf"]
+	path = puppetlabs-auth_conf
+	url = https://github.com/puppetlabs/puppetlabs-auth_conf.git
+[submodule "puppetlabs-chiliproject"]
+	path = puppetlabs-chiliproject
+	url = https://github.com/puppetlabs/puppetlabs-chiliproject.git
+[submodule "puppetlabs-classification-service"]
+	path = puppetlabs-classification-service
+	url = https://github.com/puppetlabs/puppetlabs-classification-service.git
+[submodule "puppetlabs-cloudpassage"]
+	path = puppetlabs-cloudpassage
+	url = https://github.com/puppetlabs/puppetlabs-cloudpassage.git
+[submodule "puppetlabs-compliance_profile"]
+	path = puppetlabs-compliance_profile
+	url = https://github.com/puppetlabs/puppetlabs-compliance_profile.git
+[submodule "puppetlabs-cloudshop"]
+	path = puppetlabs-cloudshop
+	url = https://github.com/puppetlabs/puppetlabs-cloudshop.git
+[submodule "puppetlabs-crankd"]
+	path = puppetlabs-crankd
+	url = https://github.com/puppetlabs/puppetlabs-crankd.git
+[submodule "puppetlabs-create_resources"]
+	path = puppetlabs-create_resources
+	url = https://github.com/puppetlabs/puppetlabs-create_resources.git
+[submodule "puppetlabs-cloudformation"]
+	path = puppetlabs-cloudformation
+	url = https://github.com/puppetlabs/puppetlabs-cloudformation.git
+[submodule "puppetlabs-chronos"]
+	path = puppetlabs-chronos
+	url = https://github.com/puppetlabs/puppetlabs-chronos.git
+[submodule "puppetlabs-chocolatey"]
+	path = puppetlabs-chocolatey
+	url = https://github.com/puppetlabs/puppetlabs-chocolatey.git
+[submodule "puppetlabs-cups"]
+	path = puppetlabs-cups
+	url = https://github.com/puppetlabs/puppetlabs-cups.git
+[submodule "puppetlabs-concat"]
+	path = puppetlabs-concat
+	url = https://github.com/puppetlabs/puppetlabs-concat.git
+[submodule "puppetlabs-acl"]
+	path = puppetlabs-acl
+	url = https://github.com/puppetlabs/puppetlabs-acl.git
+[submodule "puppetlabs-data-service"]
+	path = puppetlabs-data-service
+	url = https://github.com/puppetlabs/puppetlabs-data-service.git
+[submodule "puppetlabs-certregen"]
+	path = puppetlabs-certregen
+	url = https://github.com/puppetlabs/puppetlabs-certregen.git
+[submodule "puppetlabs-boundary"]
+	path = puppetlabs-boundary
+	url = https://github.com/puppetlabs/puppetlabs-boundary.git
+[submodule "puppetlabs-dashboard"]
+	path = puppetlabs-dashboard
+	url = https://github.com/puppetlabs/puppetlabs-dashboard.git
+[submodule "puppetlabs-dns"]
+	path = puppetlabs-dns
+	url = https://github.com/puppetlabs/puppetlabs-dns.git
+[submodule "puppetlabs-catalog_preview"]
+	path = puppetlabs-catalog_preview
+	url = https://github.com/puppetlabs/puppetlabs-catalog_preview.git
+[submodule "puppetlabs-dism"]
+	path = puppetlabs-dism
+	url = https://github.com/puppetlabs/puppetlabs-dism.git
+[submodule "puppetlabs-debbuilder"]
+	path = puppetlabs-debbuilder
+	url = https://github.com/puppetlabs/puppetlabs-debbuilder.git
+[submodule "puppet-rfc"]
+	path = puppet-rfc
+	url = https://github.com/puppetlabs/puppet-rfc.git
+[submodule "puppetlabs-dummy"]
+	path = puppetlabs-dummy
+	url = https://github.com/puppetlabs/puppetlabs-dummy.git
+[submodule "puppetlabs-docker_ucp"]
+	path = puppetlabs-docker_ucp
+	url = https://github.com/puppetlabs/puppetlabs-docker_ucp.git
+[submodule "puppetlabs-dummy_service"]
+	path = puppetlabs-dummy_service
+	url = https://github.com/puppetlabs/puppetlabs-dummy_service.git
+[submodule "puppetlabs-dujour"]
+	path = puppetlabs-dujour
+	url = https://github.com/puppetlabs/puppetlabs-dujour.git
+[submodule "puppetlabs-denyhosts"]
+	path = puppetlabs-denyhosts
+	url = https://github.com/puppetlabs/puppetlabs-denyhosts.git
+[submodule "puppetlabs-cve20113872"]
+	path = puppetlabs-cve20113872
+	url = https://github.com/puppetlabs/puppetlabs-cve20113872.git
+[submodule "puppetcpp"]
+	path = puppetcpp
+	url = https://github.com/puppetlabs/puppetcpp.git
+[submodule "puppetlabs-apt"]
+	path = puppetlabs-apt
+	url = https://github.com/puppetlabs/puppetlabs-apt.git
+[submodule "puppet-module-tool"]
+	path = puppet-module-tool
+	url = https://github.com/puppetlabs/puppet-module-tool.git
+[submodule "puppetlabs-f5"]
+	path = puppetlabs-f5
+	url = https://github.com/puppetlabs/puppetlabs-f5.git
+[submodule "puppet-in-docker"]
+	path = puppet-in-docker
+	url = https://github.com/puppetlabs/puppet-in-docker.git
+[submodule "puppet-community-debian"]
+	path = puppet-community-debian
+	url = https://github.com/puppetlabs/puppet-community-debian.git
+[submodule "puppet-dashboard-community-debian"]
+	path = puppet-dashboard-community-debian
+	url = https://github.com/puppetlabs/puppet-dashboard-community-debian.git
+[submodule "puppet-quest-guide"]
+	path = puppet-quest-guide
+	url = https://github.com/puppetlabs/puppet-quest-guide.git
+[submodule "puppetlabs-apache"]
+	path = puppetlabs-apache
+	url = https://github.com/puppetlabs/puppetlabs-apache.git
+[submodule "puppetconf-edu-demo"]
+	path = puppetconf-edu-demo
+	url = https://github.com/puppetlabs/puppetconf-edu-demo.git
+[submodule "puppet-reporter"]
+	path = puppet-reporter
+	url = https://github.com/puppetlabs/puppet-reporter.git
+[submodule "puppetcamp-boston-slides"]
+	path = puppetcamp-boston-slides
+	url = https://github.com/puppetlabs/puppetcamp-boston-slides.git
+[submodule "puppetdb"]
+	path = puppetdb
+	url = https://github.com/puppetlabs/puppetdb.git
+[submodule "puppetlabs-dsc"]
+	path = puppetlabs-dsc
+	url = https://github.com/puppetlabs/puppetlabs-dsc.git
+[submodule "puppetfactory"]
+	path = puppetfactory
+	url = https://github.com/puppetlabs/puppetfactory.git
+[submodule "puppet-docs-bootstrap"]
+	path = puppet-docs-bootstrap
+	url = https://github.com/puppetlabs/puppet-docs-bootstrap.git
+[submodule "puppet-docs"]
+	path = puppet-docs
+	url = https://github.com/puppetlabs/puppet-docs.git
+[submodule "puppet-win32-ruby"]
+	path = puppet-win32-ruby
+	url = https://github.com/puppetlabs/puppet-win32-ruby.git
+[submodule "puppetlabs-git"]
+	path = puppetlabs-git
+	url = https://github.com/puppetlabs/puppetlabs-git
+[submodule "puppetlabs-gcc"]
+	path = puppetlabs-gcc
+	url = https://github.com/puppetlabs/puppetlabs-gcc.git
+[submodule "puppetlabs-graphiteme"]
+	path = puppetlabs-graphiteme
+	url = https://github.com/puppetlabs/puppetlabs-graphiteme.git
+[submodule "puppetlabs-foo"]
+	path = puppetlabs-foo
+	url = https://github.com/puppetlabs/puppetlabs-foo.git
+[submodule "puppetlabs-ldap"]
+	path = puppetlabs-ldap
+	url = https://github.com/puppetlabs/puppetlabs-ldap.git
+[submodule "puppetlabs-inetd"]
+	path = puppetlabs-inetd
+	url = https://github.com/puppetlabs/puppetlabs-inetd.git
+[submodule "puppetlabs-inventory"]
+	path = puppetlabs-inventory
+[submodule "puppetlabs-limits"]
+	path = puppetlabs-limits
+	url = https://github.com/puppetlabs/puppetlabs-limits.git
+[submodule "puppetlabs-ldconfig"]
+	path = puppetlabs-ldconfig
+	url = https://github.com/puppetlabs/puppetlabs-ldconfig.git
+[submodule "puppetlabs-lib_puppet"]
+	path = puppetlabs-lib_puppet
+	url = https://github.com/puppetlabs/puppetlabs-lib_puppet.git
+[submodule "puppetlabs-iis"]
+	path = puppetlabs-iis
+	url = https://github.com/puppetlabs/puppetlabs-iis.git
+[submodule "puppetlabs-module_spec_helper"]
+	path = puppetlabs-module_spec_helper
+	url = https://github.com/puppetlabs/puppetlabs-module_spec_helper.git
+[submodule "puppetlabs-mount_iso"]
+	path = puppetlabs-mount_iso
+	url = https://github.com/puppetlabs/puppetlabs-mount_iso.git
+[submodule "puppetlabs-marathon"]
+	path = puppetlabs-marathon
+	url = https://github.com/puppetlabs/puppetlabs-marathon.git
+[submodule "puppetlabs-image_build"]
+	path = puppetlabs-image_build
+	url = https://github.com/puppetlabs/puppetlabs-image_build.git
+[submodule "puppetlabs-hocon"]
+	path = puppetlabs-hocon
+	url = https://github.com/puppetlabs/puppetlabs-hocon.git
+[submodule "puppetlabs-kvm"]
+	path = puppetlabs-kvm
+	url = https://github.com/puppetlabs/puppetlabs-kvm.git
+[submodule "puppetlabs-mssql"]
+	path = puppetlabs-mssql
+	url = https://github.com/puppetlabs/puppetlabs-mssql.git
+[submodule "puppetlabs-motd"]
+	path = puppetlabs-motd
+	url = https://github.com/puppetlabs/puppetlabs-motd.git
+[submodule "puppetlabs-mount_providers"]
+	path = puppetlabs-mount_providers
+	url = https://github.com/puppetlabs/puppetlabs-mount_providers.git
+[submodule "puppetlabs-haproxy"]
+	path = puppetlabs-haproxy
+	url = https://github.com/puppetlabs/puppetlabs-haproxy.git
+[submodule "puppetlabs-nodesearch"]
+	path = puppetlabs-nodesearch
+[submodule "puppetlabs-nfs"]
+	path = puppetlabs-nfs
+	url = https://github.com/puppetlabs/puppetlabs-nfs.git
+[submodule "puppetlabs-firewall"]
+	path = puppetlabs-firewall
+	url = https://github.com/puppetlabs/puppetlabs-firewall.git
+[submodule "puppetlabs-nscd"]
+	path = puppetlabs-nscd
+	url = https://github.com/puppetlabs/puppetlabs-nscd.git
+[submodule "puppetlabs-lvm"]
+	path = puppetlabs-lvm
+	url = https://github.com/puppetlabs/puppetlabs-lvm.git
+[submodule "puppetlabs-pe_devel"]
+	path = puppetlabs-pe_devel
+	url = https://github.com/puppetlabs/puppetlabs-pe_devel.git
+[submodule "puppetlabs-opennebula"]
+	path = puppetlabs-opennebula
+	url = https://github.com/puppetlabs/puppetlabs-opennebula.git
+[submodule "puppetlabs-openstack_project"]
+	path = puppetlabs-openstack_project
+	url = https://github.com/puppetlabs/puppetlabs-openstack_project.git
+[submodule "puppetlabs-openvz"]
+	path = puppetlabs-openvz
+	url = https://github.com/puppetlabs/puppetlabs-openvz.git
+[submodule "puppetlabs-ops-graphite"]
+	path = puppetlabs-ops-graphite
+	url = https://github.com/puppetlabs/puppetlabs-ops-graphite.git
+[submodule "puppetlabs-package_updates"]
+	path = puppetlabs-package_updates
+	url = https://github.com/puppetlabs/puppetlabs-package_updates.git
+[submodule "puppetlabs-passenger"]
+	path = puppetlabs-passenger
+	url = https://github.com/puppetlabs/puppetlabs-passenger.git
+[submodule "puppetlabs-pe_shared_ca"]
+	path = puppetlabs-pe_shared_ca
+	url = https://github.com/puppetlabs/puppetlabs-pe_shared_ca.git
+[submodule "puppetlabs-puppetserver_gem"]
+	path = puppetlabs-puppetserver_gem
+	url = https://github.com/puppetlabs/puppetlabs-puppetserver_gem.git
+[submodule "puppetlabs-policy_engine"]
+	path = puppetlabs-policy_engine
+	url = https://github.com/puppetlabs/puppetlabs-policy_engine.git
+[submodule "puppetlabs-pe_jenkinsci"]
+	path = puppetlabs-pe_jenkinsci
+	url = https://github.com/puppetlabs/puppetlabs-pe_jenkinsci.git
+[submodule "puppetlabs-puppet"]
+	path = puppetlabs-puppet
+	url = https://github.com/puppetlabs/puppetlabs-puppet.git
+[submodule "puppetlabs-pe_upgrade"]
+	path = puppetlabs-pe_upgrade
+	url = https://github.com/puppetlabs/puppetlabs-pe_upgrade.git
+[submodule "puppetlabs-puppet_authorization"]
+	path = puppetlabs-puppet_authorization
+	url = https://github.com/puppetlabs/puppetlabs-puppet_authorization.git
+[submodule "puppetlabs-rancher"]
+	path = puppetlabs-rancher
+	url = https://github.com/puppetlabs/puppetlabs-rancher.git
+[submodule "puppetlabs-rcfiles"]
+	path = puppetlabs-rcfiles
+	url = https://github.com/puppetlabs/puppetlabs-rcfiles.git
+[submodule "puppetlabs-puppetserver_perf_control"]
+	path = puppetlabs-puppetserver_perf_control
+	url = https://github.com/puppetlabs/puppetlabs-puppetserver_perf_control.git
+[submodule "puppetlabs-packer"]
+	path = puppetlabs-packer
+	url = https://github.com/puppetlabs/puppetlabs-packer.git
+[submodule "puppetlabs-remote_resource"]
+	path = puppetlabs-remote_resource
+	url = https://github.com/puppetlabs/puppetlabs-remote_resource.git
+[submodule "puppetlabs-rkt"]
+	path = puppetlabs-rkt
+	url = https://github.com/puppetlabs/puppetlabs-rkt.git
+[submodule "puppetlabs-stunnel"]
+	path = puppetlabs-stunnel
+	url = https://github.com/puppetlabs/puppetlabs-stunnel.git
+[submodule "puppetlabs-tempest"]
+	path = puppetlabs-tempest
+	url = https://github.com/puppetlabs/puppetlabs-tempest.git
+[submodule "puppetlabs-robby"]
+	path = puppetlabs-robby
+	url = https://github.com/puppetlabs/puppetlabs-robby.git
+[submodule "puppetlabs-transition"]
+	path = puppetlabs-transition
+	url = https://github.com/puppetlabs/puppetlabs-transition.git
+[submodule "puppetlabs-logentries"]
+	path = puppetlabs-logentries
+	url = https://github.com/puppetlabs/puppetlabs-logentries.git
+[submodule "puppetlabs-rpmbuilder"]
+	path = puppetlabs-rpmbuilder
+	url = https://github.com/puppetlabs/puppetlabs-rpmbuilder.git
+[submodule "puppetlabs-tagmail"]
+	path = puppetlabs-tagmail
+[submodule "puppetlabs-tftp"]
+	path = puppetlabs-tftp
+	url = https://github.com/puppetlabs/puppetlabs-tftp.git
+[submodule "puppetlabs-openstack"]
+	path = puppetlabs-openstack
+	url = https://github.com/puppetlabs/puppetlabs-openstack.git
+[submodule "puppetlabs-vcenter"]
+	path = puppetlabs-vcenter
+	url = https://github.com/puppetlabs/puppetlabs-vcenter.git
+[submodule "puppetlabs-vswitch"]
+	path = puppetlabs-vswitch
+	url = https://github.com/puppetlabs/puppetlabs-vswitch.git
+[submodule "puppetlabs-netapp"]
+	path = puppetlabs-netapp
+	url = https://github.com/puppetlabs/puppetlabs-netapp.git
+[submodule "puppetlabs-razor"]
+	path = puppetlabs-razor
+	url = https://github.com/puppetlabs/puppetlabs-razor.git
+[submodule "puppetlabs-puppetdb"]
+	path = puppetlabs-puppetdb
+	url = https://github.com/puppetlabs/puppetlabs-puppetdb.git
+[submodule "puppetlabs-registry"]
+	path = puppetlabs-registry
+	url = https://github.com/puppetlabs/puppetlabs-registry.git
+[submodule "puppetlabs-mysql"]
+	path = puppetlabs-mysql
+	url = https://github.com/puppetlabs/puppetlabs-mysql.git
+[submodule "puppetlabs-release"]
+	path = puppetlabs-release
+	url = https://github.com/puppetlabs/puppetlabs-release.git
+[submodule "puppetlabs-sshkeys"]
+	path = puppetlabs-sshkeys
+	url = https://github.com/puppetlabs/puppetlabs-sshkeys.git
+[submodule "puppetlabs-reboot"]
+	path = puppetlabs-reboot
+	url = https://github.com/puppetlabs/puppetlabs-reboot.git
+[submodule "puppetlabs-vcsrepo"]
+	path = puppetlabs-vcsrepo
+	url = https://github.com/puppetlabs/puppetlabs-vcsrepo.git
+[submodule "puppetlabs-rabbitmq"]
+	path = puppetlabs-rabbitmq
+	url = https://github.com/puppetlabs/puppetlabs-rabbitmq.git
+[submodule "puppetlabs-postgresql"]
+	path = puppetlabs-postgresql
+	url = https://github.com/puppetlabs/puppetlabs-postgresql.git
+[submodule "puppetlabs-tomcat"]
+	path = puppetlabs-tomcat
+	url = https://github.com/puppetlabs/puppetlabs-tomcat.git
+[submodule "puppetlabs-powershell"]
+	path = puppetlabs-powershell
+	url = https://github.com/puppetlabs/puppetlabs-powershell.git
+[submodule "atom-circle-perf-tests"]
+	path = atom-circle-perf-tests
+	url = https://github.com/circleci/atom-circle-perf-tests.git
+[submodule "lein-release-4digit"]
+	path = lein-release-4digit
+	url = https://github.com/puppetlabs/lein-release-4digit
+[submodule "linnaeus"]
+	path = linnaeus
+	url = https://github.com/puppetlabs/linnaeus.git
+[submodule "lein-step-parent"]
+	path = lein-step-parent
+	url = https://github.com/puppetlabs/lein-step-parent.git
+[submodule "mcollective-ohai-facts"]
+	path = mcollective-ohai-facts
+	url = https://github.com/puppetlabs/mcollective-ohai-facts.git
+[submodule "pltraining-rbac"]
+	path = pltraining-rbac
+	url = https://github.com/puppetlabs/pltraining-rbac.git
+[submodule "netdev_stdlib"]
+	path = netdev_stdlib
+	url = https://github.com/puppetlabs/netdev_stdlib.git
+[submodule "mcollective-logstash-audit"]
+	path = mcollective-logstash-audit
+	url = https://github.com/puppetlabs/mcollective-logstash-audit.git
+[submodule "jruby-utils"]
+	path = jruby-utils
+	url = https://github.com/puppetlabs/jruby-utils.git
+[submodule "puppet-rocker-demo"]
+	path = puppet-rocker-demo
+	url = https://github.com/puppetlabs/puppet-rocker-demo.git
+[submodule "puppet-vro-vro_plugin_user"]
+	path = puppet-vro-vro_plugin_user
+	url = https://github.com/puppetlabs/puppet-vro-vro_plugin_user.git
+[submodule "puppet-tftp"]
+	path = puppet-tftp
+	url = https://github.com/puppetlabs/puppet-tftp.git
+[submodule "puppetdb-javaclient"]
+	path = puppetdb-javaclient
+	url = https://github.com/puppetlabs/puppetdb-javaclient.git
+[submodule "puppet-debugging-kit-1"]
+	path = puppet-debugging-kit-1
+	url = https://github.com/puppetlabs/puppet-debugging-kit-1.git
+[submodule "puppetlabs-cloud_provisioner"]
+	path = puppetlabs-cloud_provisioner
+	url = https://github.com/puppetlabs/puppetlabs-cloud_provisioner.git
+[submodule "puppet-specifications"]
+	path = puppet-specifications
+	url = https://github.com/puppetlabs/puppet-specifications.git
+[submodule "puppetlabs-pkgupdates"]
+	path = puppetlabs-pkgupdates
+	url = https://github.com/puppetlabs/puppetlabs-pkgupdates.git
+[submodule "puppetlabs-kwalify"]
+	path = puppetlabs-kwalify
+	url = https://github.com/puppetlabs/puppetlabs-kwalify.git
+[submodule "puppetlabs-openstack_admin"]
+	path = puppetlabs-openstack_admin
+	url = https://github.com/puppetlabs/puppetlabs-openstack_admin.git
+[submodule "puppetlabs-pe_gem"]
+	path = puppetlabs-pe_gem
+	url = https://github.com/puppetlabs/puppetlabs-pe_gem.git
+[submodule "puppetlabs-ldap_entry"]
+	path = puppetlabs-ldap_entry
+	url = https://github.com/puppetlabs/puppetlabs-ldap_entry.git
+[submodule "puppetlabs-node_gce"]
+	path = puppetlabs-node_gce
+	url = https://github.com/puppetlabs/puppetlabs-node_gce.git
+[submodule "puppetlabs-ibm_installation_manager"]
+	path = puppetlabs-ibm_installation_manager
+	url = https://github.com/puppetlabs/puppetlabs-ibm_installation_manager.git
+[submodule "puppetlabs-sysctl"]
+	path = puppetlabs-sysctl
+	url = https://github.com/puppetlabs/puppetlabs-sysctl.git
+[submodule "puppetlabs-sqlite"]
+	path = puppetlabs-sqlite
+	url = https://github.com/puppetlabs/puppetlabs-sqlite.git
+[submodule "puppetlabs-grizzly"]
+	path = puppetlabs-grizzly
+	url = https://github.com/puppetlabs/puppetlabs-grizzly.git
+[submodule "puppetlabs-havana"]
+	path = puppetlabs-havana
+	url = https://github.com/puppetlabs/puppetlabs-havana.git
+[submodule "puppetlabs-rsync"]
+	path = puppetlabs-rsync
+	url = https://github.com/puppetlabs/puppetlabs-rsync.git
+[submodule "puppetlabs-java_ks"]
+	path = puppetlabs-java_ks
+	url = https://github.com/puppetlabs/puppetlabs-java_ks.git
+[submodule "puppetlabs-gce_compute"]
+	path = puppetlabs-gce_compute
+	url = https://github.com/puppetlabs/puppetlabs-gce_compute.git
+[submodule "puppetlabs-puppet_agent"]
+	path = puppetlabs-puppet_agent
+	url = https://github.com/puppetlabs/puppetlabs-puppet_agent.git
+[submodule "puppetlabs-netscaler"]
+	path = puppetlabs-netscaler
+	url = https://github.com/puppetlabs/puppetlabs-netscaler.git
+[submodule "puppetlabs-mongodb"]
+	path = puppetlabs-mongodb
+	url = https://github.com/puppetlabs/puppetlabs-mongodb.git
+[submodule "sales-demo"]
+	path = sales-demo
+	url = https://github.com/puppetlabs/sales-demo.git
+[submodule "tse-module-node_fact"]
+	path = tse-module-node_fact
+	url = https://github.com/puppetlabs/tse-module-node_fact.git
+[submodule "rust-kitchensink"]
+	path = rust-kitchensink
+	url = https://github.com/puppetlabs/rust-kitchensink.git
+[submodule "transifex-test"]
+	path = transifex-test
+	url = https://github.com/puppetlabs/transifex-test.git
+[submodule "puppetlabs-wordpress_app"]
+	path = puppetlabs-wordpress_app
+	url = https://github.com/puppetlabs/puppetlabs-wordpress_app.git
+[submodule "puppetlabs-windows"]
+	path = puppetlabs-windows
+	url = https://github.com/puppetlabs/puppetlabs-windows.git
+[submodule "puppetlabs-xinetd"]
+	path = puppetlabs-xinetd
+	url = https://github.com/puppetlabs/puppetlabs-xinetd.git
+[submodule "puppetlabs-websphere"]
+	path = puppetlabs-websphere
+	url = https://github.com/puppetlabs/puppetlabs-websphere.git
+[submodule "puppetserver-metrics-viz"]
+	path = puppetserver-metrics-viz
+	url = https://github.com/puppetlabs/puppetserver-metrics-viz.git
+[submodule "puppetlabs_spec_helper"]
+	path = puppetlabs_spec_helper
+	url = https://github.com/puppetlabs/puppetlabs_spec_helper.git
+[submodule "cloud-native-demo"]
+	path = cloud-native-demo
+	url = https://github.com/kelseyhightower/cloud-native-demo.git
+[submodule "cri-o-tutorial"]
+	path = cri-o-tutorial
+	url = https://github.com/kelseyhightower/cri-o-tutorial.git
+[submodule "konfd"]
+	path = konfd
+	url = https://github.com/kelseyhightower/konfd.git
+[submodule "gke-service-accounts-tutorial"]
+	path = gke-service-accounts-tutorial
+	url = https://github.com/kelseyhightower/gke-service-accounts-tutorial.git
