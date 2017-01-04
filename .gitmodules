@@ -4341,3 +4341,269 @@
 [submodule "gke-service-accounts-tutorial"]
 	path = gke-service-accounts-tutorial
 	url = https://github.com/kelseyhightower/gke-service-accounts-tutorial.git
+[submodule "container-linux-config-transpiler"]
+	path = container-linux-config-transpiler
+	url = https://github.com/coreos/container-linux-config-transpiler.git
+[submodule "ipnets"]
+	path = ipnets
+	url = https://github.com/coreos/ipnets.git
+[submodule "echo"]
+	path = echo
+	url = https://github.com/kelseyhightower/echo.git
+[submodule "dell-iom_8x4"]
+	path = dell-iom_8x4
+	url = https://github.com/ripienaar/dell-iom_8x4.git
+[submodule "apache-blackbox"]
+	path = apache-blackbox
+	url = https://github.com/ripienaar/apache-blackbox.git
+[submodule "asm-deployer-rpm"]
+	path = asm-deployer-rpm
+	url = https://github.com/ripienaar/asm-deployer-rpm.git
+[submodule "dell-cisconexus5k"]
+	path = dell-cisconexus5k
+	url = https://github.com/ripienaar/dell-cisconexus5k.git
+[submodule "crossroads"]
+	path = crossroads
+	url = https://github.com/ripienaar/crossroads.git
+[submodule "docker_registry_maintainer"]
+	path = docker_registry_maintainer
+	url = https://github.com/ripienaar/docker_registry_maintainer.git
+[submodule "dell-cmc"]
+	path = dell-cmc
+	url = https://github.com/ripienaar/dell-cmc.git
+[submodule "dell_dnsserver"]
+	path = dell_dnsserver
+	url = https://github.com/ripienaar/dell_dnsserver.git
+[submodule "flashpolicyd"]
+	path = flashpolicyd
+[submodule "ec2-boot-init"]
+	path = ec2-boot-init
+	url = https://github.com/ripienaar/ec2-boot-init.git
+[submodule "dell-brocade"]
+	path = dell-brocade
+	url = https://github.com/ripienaar/dell-brocade.git
+[submodule "bitbar"]
+	path = bitbar
+[submodule "facter-facts"]
+	path = facter-facts
+	url = https://github.com/ripienaar/facter-facts.git
+[submodule "dell-idrac"]
+	path = dell-idrac
+	url = https://github.com/ripienaar/dell-idrac.git
+[submodule "dell-force10"]
+	path = dell-force10
+	url = https://github.com/ripienaar/dell-force10.git
+[submodule "frender"]
+	path = frender
+	url = https://github.com/ripienaar/frender.git
+[submodule "docker-gogs"]
+	path = docker-gogs
+	url = https://github.com/ripienaar/docker-gogs.git
+[submodule "gwtf"]
+	path = gwtf
+	url = https://github.com/ripienaar/gwtf.git
+[submodule "gpx"]
+	path = gpx
+	url = https://github.com/ripienaar/gpx.git
+[submodule "gdash"]
+	path = gdash
+	url = https://github.com/ripienaar/gdash.git
+[submodule "hiera-module-json"]
+	path = hiera-module-json
+	url = https://github.com/ripienaar/hiera-module-json.git
+[submodule "hiera-puppet-nodes"]
+	path = hiera-puppet-nodes
+	url = https://github.com/ripienaar/hiera-puppet-nodes.git
+[submodule "jekyll-docs-template"]
+	path = jekyll-docs-template
+	url = https://github.com/ripienaar/jekyll-docs-template.git
+[submodule "lyc"]
+	path = lyc
+	url = https://github.com/ripienaar/lyc.git
+[submodule "lambda_webhook_gwy"]
+	path = lambda_webhook_gwy
+	url = https://github.com/ripienaar/lambda_webhook_gwy.git
+[submodule "mcollective-agent-debugger"]
+	path = mcollective-agent-debugger
+	url = https://github.com/ripienaar/mcollective-agent-debugger.git
+[submodule "mcollective-cucumber"]
+	path = mcollective-cucumber
+[submodule "mcollective-audit-summary"]
+	path = mcollective-audit-summary
+	url = https://github.com/ripienaar/mcollective-audit-summary.git
+[submodule "JSON-Grep"]
+	path = JSON-Grep
+	url = https://github.com/ripienaar/JSON-Grep.git
+[submodule "mc-plugins"]
+	path = mc-plugins
+	url = https://github.com/ripienaar/mc-plugins.git
+[submodule "free-for-dev"]
+	path = free-for-dev
+	url = https://github.com/ripienaar/free-for-dev.git
+[submodule "mcollective-test"]
+	path = mcollective-test
+	url = https://github.com/ripienaar/mcollective-test.git
+[submodule "mcollective-server-provisioner"]
+	path = mcollective-server-provisioner
+[submodule "mcollective-choria"]
+	path = mcollective-choria
+	url = https://github.com/ripienaar/mcollective-choria.git
+[submodule "monitoring-scripts"]
+	path = monitoring-scripts
+	url = https://github.com/ripienaar/monitoring-scripts.git
+[submodule "mcollective-rspec"]
+	path = mcollective-rspec
+	url = https://github.com/ripienaar/mcollective-rspec.git
+[submodule "mysql-dump-split"]
+	path = mysql-dump-split
+	url = https://github.com/ripienaar/mysql-dump-split.git
+[submodule "munin-ruby"]
+	path = munin-ruby
+	url = https://github.com/ripienaar/munin-ruby.git
+[submodule "oldskool-gcse"]
+	path = oldskool-gcse
+	url = https://github.com/ripienaar/oldskool-gcse.git
+[submodule "mco_rpc_web"]
+	path = mco_rpc_web
+	url = https://github.com/ripienaar/mco_rpc_web.git
+[submodule "mysql-lagslave"]
+	path = mysql-lagslave
+	url = https://github.com/ripienaar/mysql-lagslave.git
+[submodule "mdwiki-server"]
+	path = mdwiki-server
+	url = https://github.com/ripienaar/mdwiki-server.git
+[submodule "mod_auth_openid_loginpage"]
+	path = mod_auth_openid_loginpage
+	url = https://github.com/ripienaar/mod_auth_openid_loginpage.git
+[submodule "oldskool"]
+	path = oldskool
+	url = https://github.com/ripienaar/oldskool.git
+[submodule "oldskool-password"]
+	path = oldskool-password
+	url = https://github.com/ripienaar/oldskool-password.git
+[submodule "passmakr"]
+	path = passmakr
+	url = https://github.com/ripienaar/passmakr.git
+[submodule "oldskool-puppet"]
+	path = oldskool-puppet
+[submodule "puppet-classifier"]
+	path = puppet-classifier
+	url = https://github.com/ripienaar/puppet-classifier.git
+[submodule "puppet-catalog-diff"]
+	path = puppet-catalog-diff
+	url = https://github.com/ripienaar/puppet-catalog-diff.git
+[submodule "mt_devops_sept2016"]
+	path = mt_devops_sept2016
+	url = https://github.com/ripienaar/mt_devops_sept2016.git
+[submodule "puppet-forge-module-stats"]
+	path = puppet-forge-module-stats
+	url = https://github.com/ripienaar/puppet-forge-module-stats.git
+[submodule "puppet-geolocation"]
+	path = puppet-geolocation
+	url = https://github.com/ripienaar/puppet-geolocation.git
+[submodule "puppet-extlookup"]
+	path = puppet-extlookup
+	url = https://github.com/ripienaar/puppet-extlookup.git
+[submodule "puppet-mcollective-client"]
+	path = puppet-mcollective-client
+	url = https://github.com/ripienaar/puppet-mcollective-client.git
+[submodule "puppet-parselocalconfig"]
+	path = puppet-parselocalconfig
+	url = https://github.com/ripienaar/puppet-parselocalconfig.git
+[submodule "puppet-module-data"]
+	path = puppet-module-data
+	url = https://github.com/ripienaar/puppet-module-data.git
+[submodule "puppet-collectd"]
+	path = puppet-collectd
+	url = https://github.com/ripienaar/puppet-collectd.git
+[submodule "mcollective-vagrant"]
+	path = mcollective-vagrant
+	url = https://github.com/ripienaar/mcollective-vagrant.git
+[submodule "puppet-nginx"]
+	path = puppet-nginx
+	url = https://github.com/ripienaar/puppet-nginx.git
+[submodule "epichrome"]
+	path = epichrome
+	url = https://github.com/ripienaar/epichrome.git
+[submodule "puppet-nats"]
+	path = puppet-nats
+	url = https://github.com/ripienaar/puppet-nats.git
+[submodule "nofuckstogive.today"]
+	path = nofuckstogive.today
+	url = https://github.com/ripienaar/nofuckstogive.today.git
+[submodule "flapjack"]
+	path = flapjack
+	url = https://github.com/ripienaar/flapjack.git
+[submodule "choria-docs"]
+	path = choria-docs
+	url = https://github.com/ripienaar/choria-docs.git
+[submodule "mcollective-ec2demo"]
+	path = mcollective-ec2demo
+	url = https://github.com/ripienaar/mcollective-ec2demo.git
+[submodule "collectd"]
+	path = collectd
+	url = https://github.com/ripienaar/collectd.git
+[submodule "ripienaar"]
+	path = ripienaar
+	url = https://github.com/ripienaar/ripienaar.git
+[submodule "puppet-reportprint"]
+	path = puppet-reportprint
+[submodule "ripienaar.github.com"]
+	path = ripienaar.github.com
+	url = https://github.com/ripienaar/ripienaar.github.com.git
+[submodule "rakeca"]
+	path = rakeca
+	url = https://github.com/ripienaar/rakeca.git
+[submodule "systemu"]
+	path = systemu
+	url = https://github.com/ripienaar/systemu.git
+[submodule "ruby-ssl"]
+	path = ruby-ssl
+	url = https://github.com/ripienaar/ruby-ssl.git
+[submodule "pure-ruby-nats"]
+	path = pure-ruby-nats
+	url = https://github.com/ripienaar/pure-ruby-nats.git
+[submodule "puppet-puppetdbquery"]
+	path = puppet-puppetdbquery
+[submodule "travlrmap-demo"]
+	path = travlrmap-demo
+[submodule "sensu_bitbar"]
+	path = sensu_bitbar
+[submodule "ruby-pdns"]
+	path = ruby-pdns
+	url = https://github.com/ripienaar/ruby-pdns.git
+[submodule "vcloud-tools"]
+	path = vcloud-tools
+	url = https://github.com/ripienaar/vcloud-tools.git
+[submodule "vmware-vcenter"]
+	path = vmware-vcenter
+	url = https://github.com/ripienaar/vmware-vcenter.git
+[submodule "travlrmap"]
+	path = travlrmap
+	url = https://github.com/ripienaar/travlrmap.git
+[submodule "ruby-nats"]
+	path = ruby-nats
+	url = https://github.com/ripienaar/ruby-nats.git
+[submodule "ruby-nagios"]
+	path = ruby-nagios
+	url = https://github.com/ripienaar/ruby-nagios.git
+[submodule "puppet_agent_mgr"]
+	path = puppet_agent_mgr
+[submodule "ruote-mcollective"]
+	path = ruote-mcollective
+	url = https://github.com/ripienaar/ruote-mcollective.git
+[submodule "snipper"]
+	path = snipper
+	url = https://github.com/ripienaar/snipper.git
+[submodule "unimatrix"]
+	path = unimatrix
+	url = https://github.com/ripienaar/unimatrix.git
+[submodule "ruby-puppetdb"]
+	path = ruby-puppetdb
+	url = https://github.com/ripienaar/ruby-puppetdb.git
+[submodule "stomp-irb"]
+	path = stomp-irb
+	url = https://github.com/ripienaar/stomp-irb.git
+[submodule "slaf"]
+	path = slaf
+	url = https://github.com/ripienaar/slaf.git
