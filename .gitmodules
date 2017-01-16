@@ -4607,3 +4607,469 @@
 [submodule "slaf"]
 	path = slaf
 	url = https://github.com/ripienaar/slaf.git
+[submodule "blockdevice-utils"]
+	path = blockdevice-utils
+	url = https://github.com/ClusterHQ/blockdevice-utils.git
+[submodule "ceph-flocker-driver"]
+	path = ceph-flocker-driver
+	url = https://github.com/ClusterHQ/ceph-flocker-driver.git
+[submodule "docker-drives-daisy"]
+	path = docker-drives-daisy
+	url = https://github.com/ClusterHQ/docker-drives-daisy.git
+[submodule "flocker-api-examples"]
+	path = flocker-api-examples
+	url = https://github.com/ClusterHQ/flocker-api-examples.git
+[submodule "boot2docker-cli"]
+	path = boot2docker-cli
+	url = https://github.com/ClusterHQ/boot2docker-cli.git
+[submodule "examples"]
+	path = examples
+	url = https://github.com/ClusterHQ/examples.git
+[submodule "gce-ansible-demo"]
+	path = gce-ansible-demo
+	url = https://github.com/ClusterHQ/gce-ansible-demo.git
+[submodule "build.clusterhq.com"]
+	path = build.clusterhq.com
+	url = https://github.com/ClusterHQ/build.clusterhq.com.git
+[submodule "github-pr-handler"]
+	path = github-pr-handler
+	url = https://github.com/ClusterHQ/github-pr-handler.git
+[submodule "flocker-storage-profiles-demo"]
+	path = flocker-storage-profiles-demo
+	url = https://github.com/ClusterHQ/flocker-storage-profiles-demo.git
+[submodule "flocker-openssl"]
+	path = flocker-openssl
+	url = https://github.com/ClusterHQ/flocker-openssl.git
+[submodule "fli"]
+	path = fli
+	url = https://github.com/ClusterHQ/fli.git
+[submodule "flocker-vnx-driver"]
+	path = flocker-vnx-driver
+	url = https://github.com/ClusterHQ/flocker-vnx-driver.git
+[submodule "jenkins-build-scrounging"]
+	path = jenkins-build-scrounging
+	url = https://github.com/ClusterHQ/jenkins-build-scrounging.git
+[submodule "eliot"]
+	path = eliot
+	url = https://github.com/ClusterHQ/eliot.git
+[submodule "powerstrip-slowreq"]
+	path = powerstrip-slowreq
+	url = https://github.com/ClusterHQ/powerstrip-slowreq.git
+[submodule "rancher-flocker"]
+	path = rancher-flocker
+	url = https://github.com/ClusterHQ/rancher-flocker.git
+[submodule "mesos-flocker-integrations"]
+	path = mesos-flocker-integrations
+	url = https://github.com/ClusterHQ/mesos-flocker-integrations.git
+[submodule "sphinx-prompt"]
+	path = sphinx-prompt
+	url = https://github.com/ClusterHQ/sphinx-prompt.git
+[submodule "machinist"]
+	path = machinist
+	url = https://github.com/ClusterHQ/machinist.git
+[submodule "powerstrip"]
+	path = powerstrip
+	url = https://github.com/ClusterHQ/powerstrip.git
+[submodule "vagrant-flocker"]
+	path = vagrant-flocker
+[submodule "vagrant-powerstrip-flocker"]
+	path = vagrant-powerstrip-flocker
+	url = https://github.com/ClusterHQ/vagrant-powerstrip-flocker.git
+[submodule "ec2-plugin"]
+	path = ec2-plugin
+	url = https://github.com/ClusterHQ/ec2-plugin.git
+[submodule "volume-hub-catalog-agents"]
+	path = volume-hub-catalog-agents
+	url = https://github.com/ClusterHQ/volume-hub-catalog-agents.git
+[submodule "volume-catalog-idsite"]
+	path = volume-catalog-idsite
+	url = https://github.com/ClusterHQ/volume-catalog-idsite.git
+[submodule "pyzfs"]
+	path = pyzfs
+	url = https://github.com/ClusterHQ/pyzfs.git
+[submodule "testify"]
+	path = testify
+	url = https://github.com/ClusterHQ/testify.git
+[submodule "marathon-flocker-plugin-demo"]
+	path = marathon-flocker-plugin-demo
+	url = https://github.com/ClusterHQ/marathon-flocker-plugin-demo.git
+[submodule "pyrsistent"]
+	path = pyrsistent
+	url = https://github.com/ClusterHQ/pyrsistent.git
+[submodule "dvol"]
+	path = dvol
+	url = https://github.com/ClusterHQ/dvol.git
+[submodule "spl"]
+	path = spl
+	url = https://github.com/ClusterHQ/spl.git
+[submodule "docker-plugins"]
+	path = docker-plugins
+	url = https://github.com/ClusterHQ/docker-plugins.git
+[submodule "testtools"]
+	path = testtools
+	url = https://github.com/ClusterHQ/testtools.git
+[submodule "docker-images"]
+	path = docker-images
+	url = https://github.com/ClusterHQ/docker-images.git
+[submodule "zfs"]
+	path = zfs
+	url = https://github.com/ClusterHQ/zfs.git
+[submodule "flocker"]
+	path = flocker
+	url = https://github.com/ClusterHQ/flocker.git
+[submodule "gentoo"]
+	path = gentoo
+	url = https://github.com/ClusterHQ/gentoo.git
+[submodule "docker-slim"]
+	path = docker-slim
+	url = https://github.com/docker-slim/docker-slim
+[submodule "tectonic-forum"]
+	path = tectonic-forum
+	url = https://github.com/coreos/tectonic-forum.git
+[submodule "apiserver"]
+	path = apiserver
+	url = https://github.com/kubernetes/apiserver.git
+[submodule "repo-infra"]
+	path = repo-infra
+	url = https://github.com/kubernetes/repo-infra.git
+[submodule "apimachinery"]
+	path = apimachinery
+	url = https://github.com/kubernetes/apimachinery.git
+[submodule "dns"]
+	path = dns
+	url = https://github.com/kubernetes/dns.git
+[submodule "cloudfoundry-git"]
+	path = cloudfoundry-git
+	url = https://github.com/deis/cloudfoundry-git
+[submodule "clusterator"]
+	path = clusterator
+	url = https://github.com/deis/clusterator.git
+[submodule "django-polls"]
+	path = django-polls
+[submodule "cloudfoundry-github-service-broker-ruby"]
+	path = cloudfoundry-github-service-broker-ruby
+	url = https://github.com/deis/cloudfoundry-github-service-broker-ruby.git
+[submodule "example-dockerfile-http"]
+	path = example-dockerfile-http
+[submodule "example-dockerfile-procfile-http"]
+	path = example-dockerfile-procfile-http
+	url = https://github.com/deis/example-dockerfile-procfile-http.git
+[submodule "dockerbuilder"]
+	path = dockerbuilder
+	url = https://github.com/deis/dockerbuilder.git
+[submodule "example-grpc-server"]
+	path = example-grpc-server
+	url = https://github.com/deis/example-grpc-server.git
+[submodule "example-dockerfile-python"]
+	path = example-dockerfile-python
+	url = https://github.com/deis/example-dockerfile-python.git
+[submodule "example-clojure-ring"]
+	path = example-clojure-ring
+	url = https://github.com/deis/example-clojure-ring.git
+[submodule "example-java-jetty"]
+	path = example-java-jetty
+	url = https://github.com/deis/example-java-jetty.git
+[submodule "example-nodejs-express"]
+	path = example-nodejs-express
+	url = https://github.com/deis/example-nodejs-express.git
+[submodule "example-perl"]
+	path = example-perl
+	url = https://github.com/deis/example-perl.git
+[submodule "example-python-django"]
+	path = example-python-django
+	url = https://github.com/deis/example-python-django.git
+[submodule "example-play"]
+	path = example-play
+[submodule "e2e-runner"]
+	path = e2e-runner
+	url = https://github.com/deis/e2e-runner.git
+[submodule "example-scala"]
+	path = example-scala
+	url = https://github.com/deis/example-scala.git
+[submodule "kubeapp"]
+	path = kubeapp
+[submodule "megaboom"]
+	path = megaboom
+[submodule "k8s-claimer"]
+	path = k8s-claimer
+	url = https://github.com/deis/k8s-claimer.git
+[submodule "nsq"]
+	path = nsq
+	url = https://github.com/deis/nsq.git
+[submodule "redis"]
+	path = redis
+	url = https://github.com/deis/redis.git
+[submodule "object-storage-cli"]
+	path = object-storage-cli
+	url = https://github.com/deis/object-storage-cli.git
+[submodule "makeself"]
+	path = makeself
+[submodule "controller-sdk-go"]
+	path = controller-sdk-go
+	url = https://github.com/deis/controller-sdk-go.git
+[submodule "example-grpc-client"]
+	path = example-grpc-client
+	url = https://github.com/deis/example-grpc-client.git
+[submodule "riak"]
+	path = riak
+	url = https://github.com/deis/riak.git
+[submodule "seed-repo"]
+	path = seed-repo
+	url = https://github.com/deis/seed-repo.git
+[submodule "syslogparser"]
+	path = syslogparser
+	url = https://github.com/deis/syslogparser.git
+[submodule "rigger"]
+	path = rigger
+	url = https://github.com/deis/rigger.git
+[submodule "workflow-migration"]
+	path = workflow-migration
+	url = https://github.com/deis/workflow-migration.git
+[submodule "router"]
+	path = router
+	url = https://github.com/deis/router.git
+[submodule "prototype-repo"]
+	path = prototype-repo
+	url = https://github.com/deis/prototype-repo.git
+[submodule "steward-demo-s3"]
+	path = steward-demo-s3
+	url = https://github.com/deis/steward-demo-s3.git
+[submodule "workflow-manager"]
+	path = workflow-manager
+	url = https://github.com/deis/workflow-manager.git
+[submodule "steward-framework"]
+	path = steward-framework
+	url = https://github.com/deis/steward-framework.git
+[submodule "presentation-template"]
+	path = presentation-template
+	url = https://github.com/deis/presentation-template.git
+[submodule "wal-e"]
+	path = wal-e
+[submodule "monitor"]
+	path = monitor
+	url = https://github.com/deis/monitor.git
+[submodule "logger"]
+	path = logger
+	url = https://github.com/deis/logger.git
+[submodule "deis.io"]
+	path = deis.io
+	url = https://github.com/deis/deis.io.git
+[submodule "steward"]
+	path = steward
+	url = https://github.com/deis/steward.git
+[submodule "slugbuilder"]
+	path = slugbuilder
+	url = https://github.com/deis/slugbuilder.git
+[submodule "minio"]
+	path = minio
+	url = https://github.com/deis/minio.git
+[submodule "slugrunner"]
+	path = slugrunner
+	url = https://github.com/deis/slugrunner.git
+[submodule "minio-src"]
+	path = minio-src
+	url = https://github.com/deis/minio-src.git
+[submodule "workflow-cli"]
+	path = workflow-cli
+	url = https://github.com/deis/workflow-cli.git
+[submodule "controller"]
+	path = controller
+	url = https://github.com/deis/controller.git
+[submodule "boto"]
+	path = boto
+	url = https://github.com/deis/boto.git
+[submodule "workflow-e2e"]
+	path = workflow-e2e
+	url = https://github.com/deis/workflow-e2e.git
+[submodule "workflow"]
+	path = workflow
+	url = https://github.com/deis/workflow.git
+[submodule "community-slack"]
+	path = community-slack
+	url = https://github.com/weaveworks/community-slack.git
+[submodule "docker-plugin"]
+	path = docker-plugin
+	url = https://github.com/weaveworks/docker-plugin.git
+[submodule "integrations"]
+	path = integrations
+	url = https://github.com/weaveworks/integrations.git
+[submodule "weave-kube"]
+	path = weave-kube
+	url = https://github.com/weaveworks/weave-kube.git
+[submodule "prom-aggregation-gateway"]
+	path = prom-aggregation-gateway
+	url = https://github.com/weaveworks/prom-aggregation-gateway.git
+[submodule "cortex"]
+	path = cortex
+	url = https://github.com/weaveworks/cortex.git
+[submodule "weave"]
+	path = weave
+	url = https://github.com/weaveworks/weave.git
+[submodule "guides"]
+	path = guides
+	url = https://github.com/weaveworks/guides.git
+[submodule "al-agent"]
+	path = al-agent
+	url = https://github.com/DualSpark/al-agent.git
+[submodule "ansible-role"]
+	path = ansible-role
+	url = https://github.com/DualSpark/ansible-role.git
+[submodule "dandy"]
+	path = dandy
+	url = https://github.com/DualSpark/dandy.git
+[submodule "demotower"]
+	path = demotower
+	url = https://github.com/DualSpark/demotower.git
+[submodule "k8s-pvc-aws-app"]
+	path = k8s-pvc-aws-app
+	url = https://github.com/DualSpark/k8s-pvc-aws-app.git
+[submodule "lab-cloudformation"]
+	path = lab-cloudformation
+	url = https://github.com/DualSpark/lab-cloudformation.git
+[submodule "pm_dot_net"]
+	path = pm_dot_net
+	url = https://github.com/DualSpark/pm_dot_net.git
+[submodule "kubernetes-kafka"]
+	path = kubernetes-kafka
+	url = https://github.com/DualSpark/kubernetes-kafka.git
+[submodule "ops-consulstack"]
+	path = ops-consulstack
+	url = https://github.com/DualSpark/ops-consulstack.git
+[submodule "VPNJumpbox"]
+	path = VPNJumpbox
+	url = https://github.com/DualSpark/VPNJumpbox.git
+[submodule "cloudformation-environmentbase"]
+	path = cloudformation-environmentbase
+	url = https://github.com/DualSpark/cloudformation-environmentbase.git
+[submodule "troposphere"]
+	path = troposphere
+	url = https://github.com/DualSpark/troposphere.git
+[submodule "blog-immutable-image"]
+	path = blog-immutable-image
+	url = https://github.com/DualSpark/blog-immutable-image.git
+[submodule "aws-codepipeline-custom-job-worker"]
+	path = aws-codepipeline-custom-job-worker
+	url = https://github.com/DualSpark/aws-codepipeline-custom-job-worker.git
+[submodule "ansible-modules-core"]
+	path = ansible-modules-core
+	url = https://github.com/DualSpark/ansible-modules-core.git
+[submodule "blog-monitoring-sample"]
+	path = blog-monitoring-sample
+	url = https://github.com/DualSpark/blog-monitoring-sample.git
+[submodule "telegraf"]
+	path = telegraf
+	url = https://github.com/DualSpark/telegraf.git
+[submodule "drone"]
+	path = drone
+	url = https://github.com/DualSpark/drone.git
+[submodule "chocolatey"]
+	path = chocolatey
+	url = https://github.com/DualSpark/chocolatey.git
+[submodule "kong"]
+	path = kong
+	url = https://github.com/DualSpark/kong.git
+[submodule "hafjell-test"]
+	path = hafjell-test
+	url = https://github.com/puppetlabs/hafjell-test.git
+[submodule "mc0d"]
+	path = mc0d
+	url = https://github.com/puppetlabs/mc0d.git
+[submodule "puppet-courseware-manager"]
+	path = puppet-courseware-manager
+	url = https://github.com/puppetlabs/puppet-courseware-manager.git
+[submodule "calico"]
+	path = calico
+	url = https://github.com/projectcalico/calico.git
+[submodule "calico-kubernetes-ubuntu-demo"]
+	path = calico-kubernetes-ubuntu-demo
+	url = https://github.com/projectcalico/calico-kubernetes-ubuntu-demo.git
+[submodule "go-build"]
+	path = go-build
+	url = https://github.com/projectcalico/go-build.git
+[submodule "calico-kubernetes-coreos-demo"]
+	path = calico-kubernetes-coreos-demo
+	url = https://github.com/projectcalico/calico-kubernetes-coreos-demo.git
+[submodule "go-yaml-wrapper"]
+	path = go-yaml-wrapper
+	url = https://github.com/projectcalico/go-yaml-wrapper.git
+[submodule "charm-bird"]
+	path = charm-bird
+	url = https://github.com/projectcalico/charm-bird.git
+[submodule "k8s-policy"]
+	path = k8s-policy
+	url = https://github.com/projectcalico/k8s-policy.git
+[submodule "test-ca"]
+	path = test-ca
+	url = https://github.com/projectcalico/test-ca.git
+[submodule "go-json"]
+	path = go-json
+	url = https://github.com/projectcalico/go-json.git
+[submodule "posix_spawn"]
+	path = posix_spawn
+	url = https://github.com/projectcalico/posix_spawn.git
+[submodule "netmodules-plugin"]
+	path = netmodules-plugin
+	url = https://github.com/projectcalico/netmodules-plugin.git
+[submodule "prometheus-client-python"]
+	path = prometheus-client-python
+	url = https://github.com/projectcalico/prometheus-client-python.git
+[submodule "cni-plugin"]
+	path = cni-plugin
+	url = https://github.com/projectcalico/cni-plugin.git
+[submodule "python-etcd"]
+	path = python-etcd
+	url = https://github.com/projectcalico/python-etcd.git
+[submodule "k8s-exec-plugin"]
+	path = k8s-exec-plugin
+	url = https://github.com/projectcalico/k8s-exec-plugin.git
+[submodule "canal"]
+	path = canal
+	url = https://github.com/projectcalico/canal.git
+[submodule "charm-neutron-api"]
+	path = charm-neutron-api
+	url = https://github.com/projectcalico/charm-neutron-api.git
+[submodule "star"]
+	path = star
+	url = https://github.com/projectcalico/star.git
+[submodule "libcalico-go"]
+	path = libcalico-go
+	url = https://github.com/projectcalico/libcalico-go.git
+[submodule "calico-dcos"]
+	path = calico-dcos
+	url = https://github.com/projectcalico/calico-dcos.git
+[submodule "go-yaml"]
+	path = go-yaml
+	url = https://github.com/projectcalico/go-yaml.git
+[submodule "datrie"]
+	path = datrie
+	url = https://github.com/projectcalico/datrie.git
+[submodule "libnetwork-plugin"]
+	path = libnetwork-plugin
+	url = https://github.com/projectcalico/libnetwork-plugin.git
+[submodule "libcalico"]
+	path = libcalico
+	url = https://github.com/projectcalico/libcalico.git
+[submodule "bird"]
+	path = bird
+	url = https://github.com/projectcalico/bird.git
+[submodule "calico-dnsmasq"]
+	path = calico-dnsmasq
+	url = https://github.com/projectcalico/calico-dnsmasq.git
+[submodule "felix"]
+	path = felix
+	url = https://github.com/projectcalico/felix.git
+[submodule "cfssl"]
+	path = cfssl
+	url = https://github.com/projectcalico/cfssl.git
+[submodule "calico-k8s-cluster"]
+	path = calico-k8s-cluster
+	url = https://github.com/projectcalico/calico-k8s-cluster.git
+[submodule "charm-etcd"]
+	path = charm-etcd
+	url = https://github.com/projectcalico/charm-etcd.git
+[submodule "fuel-library"]
+	path = fuel-library
+	url = https://github.com/projectcalico/fuel-library.git
+[submodule "calico-neutron"]
+	path = calico-neutron
+	url = https://github.com/projectcalico/calico-neutron.git
