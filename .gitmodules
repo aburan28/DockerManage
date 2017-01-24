@@ -5073,3 +5073,674 @@
 [submodule "calico-neutron"]
 	path = calico-neutron
 	url = https://github.com/projectcalico/calico-neutron.git
+[submodule "for-aws"]
+	path = for-aws
+	url = https://github.com/docker/for-aws.git
+[submodule "project-template"]
+	path = project-template
+	url = https://github.com/opencontainers/project-template.git
+[submodule "tob"]
+	path = tob
+	url = https://github.com/opencontainers/tob.git
+[submodule "image-spec"]
+	path = image-spec
+	url = https://github.com/opencontainers/image-spec.git
+[submodule "runtime-spec"]
+	path = runtime-spec
+	url = https://github.com/opencontainers/runtime-spec.git
+[submodule "image-tools"]
+	path = image-tools
+	url = https://github.com/opencontainers/image-tools.git
+[submodule "runc.io"]
+	path = runc.io
+	url = https://github.com/opencontainers/runc.io.git
+[submodule "runtime-tools"]
+	path = runtime-tools
+	url = https://github.com/opencontainers/runtime-tools.git
+[submodule "artwork"]
+	path = artwork
+	url = https://github.com/opencontainers/artwork.git
+[submodule "web"]
+	path = web
+	url = https://github.com/opencontainers/web.git
+[submodule "aws-lambda-mirror-dns-function"]
+	path = aws-lambda-mirror-dns-function
+	url = https://github.com/awslabs/aws-lambda-mirror-dns-function.git
+[submodule "aws-python-sample"]
+	path = aws-python-sample
+[submodule "aws-ruby-sample"]
+	path = aws-ruby-sample
+[submodule "aws-lambda-ddns-function"]
+	path = aws-lambda-ddns-function
+	url = https://github.com/awslabs/aws-lambda-ddns-function.git
+[submodule "aws-iotbot"]
+	path = aws-iotbot
+	url = https://github.com/awslabs/aws-iotbot.git
+[submodule "aws-research-cloud"]
+	path = aws-research-cloud
+	url = https://github.com/awslabs/aws-research-cloud.git
+[submodule "aws-model-validators"]
+	path = aws-model-validators
+	url = https://github.com/awslabs/aws-model-validators.git
+[submodule "aws-sdk-arduino"]
+	path = aws-sdk-arduino
+	url = https://github.com/awslabs/aws-sdk-arduino.git
+[submodule "aws-mobile-sample-wif"]
+	path = aws-mobile-sample-wif
+	url = https://github.com/awslabs/aws-mobile-sample-wif.git
+[submodule "aws-iot-mqtt-load-generator"]
+	path = aws-iot-mqtt-load-generator
+	url = https://github.com/awslabs/aws-iot-mqtt-load-generator.git
+[submodule "aws-js-s3-explorer"]
+	path = aws-js-s3-explorer
+	url = https://github.com/awslabs/aws-js-s3-explorer.git
+[submodule "aws-iot-examples"]
+	path = aws-iot-examples
+	url = https://github.com/awslabs/aws-iot-examples.git
+[submodule "aws-s3-artifact-manager-sample"]
+	path = aws-s3-artifact-manager-sample
+	url = https://github.com/awslabs/aws-s3-artifact-manager-sample.git
+[submodule "aws-saml-adfs-cmdlet-sample"]
+	path = aws-saml-adfs-cmdlet-sample
+	url = https://github.com/awslabs/aws-saml-adfs-cmdlet-sample.git
+[submodule "aws-support-tools"]
+	path = aws-support-tools
+	url = https://github.com/awslabs/aws-support-tools.git
+[submodule "aws-support-examples"]
+	path = aws-support-examples
+	url = https://github.com/awslabs/aws-support-examples.git
+[submodule "aws-lambda-rdbms-integration"]
+	path = aws-lambda-rdbms-integration
+	url = https://github.com/awslabs/aws-lambda-rdbms-integration.git
+[submodule "aws-transit-vpc"]
+	path = aws-transit-vpc
+	url = https://github.com/awslabs/aws-transit-vpc.git
+[submodule "aws-sdk-js-sample-video-transcoder"]
+	path = aws-sdk-js-sample-video-transcoder
+	url = https://github.com/awslabs/aws-sdk-js-sample-video-transcoder.git
+[submodule "aws-serverless-express"]
+	path = aws-serverless-express
+	url = https://github.com/awslabs/aws-serverless-express.git
+[submodule "aws-security-automation"]
+	path = aws-security-automation
+	url = https://github.com/awslabs/aws-security-automation.git
+[submodule "aws-lex-convo-bot-example"]
+	path = aws-lex-convo-bot-example
+	url = https://github.com/awslabs/aws-lex-convo-bot-example.git
+[submodule "aws-serverless-crud-sample"]
+	path = aws-serverless-crud-sample
+	url = https://github.com/awslabs/aws-serverless-crud-sample.git
+[submodule "aws-tvm-identity"]
+	path = aws-tvm-identity
+	url = https://github.com/awslabs/aws-tvm-identity.git
+[submodule "AWSCodePipeline-S3-AWSCodeDeploy_Windows"]
+	path = AWSCodePipeline-S3-AWSCodeDeploy_Windows
+	url = https://github.com/awslabs/AWSCodePipeline-S3-AWSCodeDeploy_Windows.git
+[submodule "aws-xray-dotnet-webapp"]
+	path = aws-xray-dotnet-webapp
+[submodule "awscli-aliases"]
+	path = awscli-aliases
+	url = https://github.com/awslabs/awscli-aliases.git
+[submodule "cloudsearchable"]
+	path = cloudsearchable
+	url = https://github.com/awslabs/cloudsearchable.git
+[submodule "awscli-reinvent-examples"]
+	path = awscli-reinvent-examples
+	url = https://github.com/awslabs/awscli-reinvent-examples.git
+[submodule "awscli-cookbook"]
+	path = awscli-cookbook
+	url = https://github.com/awslabs/awscli-cookbook.git
+[submodule "cfncluster-node"]
+	path = cfncluster-node
+	url = https://github.com/awslabs/cfncluster-node.git
+[submodule "chalice"]
+	path = chalice
+	url = https://github.com/awslabs/chalice.git
+[submodule "AWSCodePipeline-Jenkins-AWSCodeDeploy_Windows"]
+	path = AWSCodePipeline-Jenkins-AWSCodeDeploy_Windows
+	url = https://github.com/awslabs/AWSCodePipeline-Jenkins-AWSCodeDeploy_Windows.git
+[submodule "cloudwatch-logs-subscription-consumer"]
+	path = cloudwatch-logs-subscription-consumer
+	url = https://github.com/awslabs/cloudwatch-logs-subscription-consumer.git
+[submodule "aws-serverless-auth-reference-app"]
+	path = aws-serverless-auth-reference-app
+	url = https://github.com/awslabs/aws-serverless-auth-reference-app.git
+[submodule "cloudwatch-logs-centralize-logs"]
+	path = cloudwatch-logs-centralize-logs
+	url = https://github.com/awslabs/cloudwatch-logs-centralize-logs.git
+[submodule "cognito-sample-nodejs"]
+	path = cognito-sample-nodejs
+	url = https://github.com/awslabs/cognito-sample-nodejs.git
+[submodule "collectd-cloudwatch"]
+	path = collectd-cloudwatch
+	url = https://github.com/awslabs/collectd-cloudwatch.git
+[submodule "create-thumbnails-lambda"]
+	path = create-thumbnails-lambda
+	url = https://github.com/awslabs/create-thumbnails-lambda.git
+[submodule "cost-optimization-monitor"]
+	path = cost-optimization-monitor
+	url = https://github.com/awslabs/cost-optimization-monitor.git
+[submodule "cwe-monitor-secgrp"]
+	path = cwe-monitor-secgrp
+	url = https://github.com/awslabs/cwe-monitor-secgrp.git
+[submodule "aws-sdk-react-native"]
+	path = aws-sdk-react-native
+	url = https://github.com/awslabs/aws-sdk-react-native.git
+[submodule "aws-waf-security-automations"]
+	path = aws-waf-security-automations
+	url = https://github.com/awslabs/aws-waf-security-automations.git
+[submodule "dynamodb-document-js-sdk"]
+	path = dynamodb-document-js-sdk
+[submodule "aws-sdk-android-samples"]
+	path = aws-sdk-android-samples
+	url = https://github.com/awslabs/aws-sdk-android-samples.git
+[submodule "cfncluster"]
+	path = cfncluster
+	url = https://github.com/awslabs/cfncluster.git
+[submodule "aws-sha256-agentcs"]
+	path = aws-sha256-agentcs
+	url = https://github.com/awslabs/aws-sha256-agentcs.git
+[submodule "dynamodb-transactions"]
+	path = dynamodb-transactions
+	url = https://github.com/awslabs/dynamodb-transactions.git
+[submodule "eb-docker-multiple-ports"]
+	path = eb-docker-multiple-ports
+	url = https://github.com/awslabs/eb-docker-multiple-ports.git
+[submodule "dynamodb-streams-kinesis-adapter"]
+	path = dynamodb-streams-kinesis-adapter
+	url = https://github.com/awslabs/dynamodb-streams-kinesis-adapter.git
+[submodule "eb-docker-virtual-hosting"]
+	path = eb-docker-virtual-hosting
+[submodule "dynamodb-tictactoe-example-app"]
+	path = dynamodb-tictactoe-example-app
+[submodule "deeplearning-benchmark"]
+	path = deeplearning-benchmark
+	url = https://github.com/awslabs/deeplearning-benchmark.git
+[submodule "eb-demo-php-simple-app"]
+	path = eb-demo-php-simple-app
+	url = https://github.com/awslabs/eb-demo-php-simple-app.git
+[submodule "dynamodb-continuous-backup"]
+	path = dynamodb-continuous-backup
+	url = https://github.com/awslabs/dynamodb-continuous-backup.git
+[submodule "eb-locustio-sample"]
+	path = eb-locustio-sample
+	url = https://github.com/awslabs/eb-locustio-sample.git
+[submodule "dynamodb-titan-storage-backend"]
+	path = dynamodb-titan-storage-backend
+	url = https://github.com/awslabs/dynamodb-titan-storage-backend.git
+[submodule "eb-java-scorekeep"]
+	path = eb-java-scorekeep
+	url = https://github.com/awslabs/eb-java-scorekeep.git
+[submodule "dynamodb-cross-region-library"]
+	path = dynamodb-cross-region-library
+	url = https://github.com/awslabs/dynamodb-cross-region-library.git
+[submodule "certlint"]
+	path = certlint
+	url = https://github.com/awslabs/certlint.git
+[submodule "aws-training-demo"]
+	path = aws-training-demo
+	url = https://github.com/awslabs/aws-training-demo.git
+[submodule "aws-lambda-redshift-loader"]
+	path = aws-lambda-redshift-loader
+	url = https://github.com/awslabs/aws-lambda-redshift-loader.git
+[submodule "aws-waf-sample"]
+	path = aws-waf-sample
+	url = https://github.com/awslabs/aws-waf-sample.git
+[submodule "cloudwatch-api-tracker"]
+	path = cloudwatch-api-tracker
+	url = https://github.com/awslabs/cloudwatch-api-tracker.git
+[submodule "aws-mobile-self-paced-labs-samples"]
+	path = aws-mobile-self-paced-labs-samples
+	url = https://github.com/awslabs/aws-mobile-self-paced-labs-samples.git
+[submodule "cloudwatch-logs-customize-alarms"]
+	path = cloudwatch-logs-customize-alarms
+	url = https://github.com/awslabs/cloudwatch-logs-customize-alarms.git
+[submodule "aws-sdk-net-samples"]
+	path = aws-sdk-net-samples
+	url = https://github.com/awslabs/aws-sdk-net-samples.git
+[submodule "aws-sdk-ios-samples"]
+	path = aws-sdk-ios-samples
+	url = https://github.com/awslabs/aws-sdk-ios-samples.git
+[submodule "dynamodb-geo"]
+	path = dynamodb-geo
+	url = https://github.com/awslabs/dynamodb-geo.git
+[submodule "aws-lambda-zombie-workshop"]
+	path = aws-lambda-zombie-workshop
+	url = https://github.com/awslabs/aws-lambda-zombie-workshop.git
+[submodule "aws-serverless-website-workshop"]
+	path = aws-serverless-website-workshop
+	url = https://github.com/awslabs/aws-serverless-website-workshop.git
+[submodule "aws-quickstart"]
+	path = aws-quickstart
+	url = https://github.com/awslabs/aws-quickstart.git
+[submodule "aws-sdk-xamarin"]
+	path = aws-sdk-xamarin
+	url = https://github.com/awslabs/aws-sdk-xamarin.git
+[submodule "aws-ms-deploy-assistant"]
+	path = aws-ms-deploy-assistant
+	url = https://github.com/awslabs/aws-ms-deploy-assistant.git
+[submodule "aws-sdk-unity-samples"]
+	path = aws-sdk-unity-samples
+	url = https://github.com/awslabs/aws-sdk-unity-samples.git
+[submodule "amazon-kinesis-client-net"]
+	path = amazon-kinesis-client-net
+	url = https://github.com/awslabs/amazon-kinesis-client-net.git
+[submodule "amazon-kinesis-client-ruby"]
+	path = amazon-kinesis-client-ruby
+	url = https://github.com/awslabs/amazon-kinesis-client-ruby.git
+[submodule "amazon-ecr-credential-helper"]
+	path = amazon-ecr-credential-helper
+	url = https://github.com/awslabs/amazon-ecr-credential-helper.git
+[submodule "amazon-inspector-auto-remediate"]
+	path = amazon-inspector-auto-remediate
+[submodule "amazon-inspector-agent-autodeploy"]
+	path = amazon-inspector-agent-autodeploy
+	url = https://github.com/awslabs/amazon-inspector-agent-autodeploy.git
+[submodule "amazon-inspector-finding-forwarder"]
+	path = amazon-inspector-finding-forwarder
+	url = https://github.com/awslabs/amazon-inspector-finding-forwarder.git
+[submodule "amazon-kinesis-client-python"]
+	path = amazon-kinesis-client-python
+	url = https://github.com/awslabs/amazon-kinesis-client-python.git
+[submodule "amazon-cognito-developer-authentication-sample"]
+	path = amazon-cognito-developer-authentication-sample
+	url = https://github.com/awslabs/amazon-cognito-developer-authentication-sample.git
+[submodule "amazon-redshift-udfs"]
+	path = amazon-redshift-udfs
+	url = https://github.com/awslabs/amazon-redshift-udfs.git
+[submodule "automating-governance-sample"]
+	path = automating-governance-sample
+	url = https://github.com/awslabs/automating-governance-sample.git
+[submodule "amazon-sqs-java-extended-client-lib"]
+	path = amazon-sqs-java-extended-client-lib
+[submodule "api-gateway-secure-pet-store"]
+	path = api-gateway-secure-pet-store
+	url = https://github.com/awslabs/api-gateway-secure-pet-store.git
+[submodule "aws-ant-tasks"]
+	path = aws-ant-tasks
+	url = https://github.com/awslabs/aws-ant-tasks.git
+[submodule "amazon-kinesis-client"]
+	path = amazon-kinesis-client
+	url = https://github.com/awslabs/amazon-kinesis-client.git
+[submodule "amazon-kinesis-data-visualization-sample"]
+	path = amazon-kinesis-data-visualization-sample
+	url = https://github.com/awslabs/amazon-kinesis-data-visualization-sample.git
+[submodule "aws-centralized-logging"]
+	path = aws-centralized-logging
+[submodule "aws-cfn-custom-resource-examples"]
+	path = aws-cfn-custom-resource-examples
+	url = https://github.com/awslabs/aws-cfn-custom-resource-examples.git
+[submodule "aws-akka-firehose"]
+	path = aws-akka-firehose
+	url = https://github.com/awslabs/aws-akka-firehose.git
+[submodule "aws-cidr-finder"]
+	path = aws-cidr-finder
+[submodule "aws-apigateway-lambda-authorizer-blueprints"]
+	path = aws-apigateway-lambda-authorizer-blueprints
+	url = https://github.com/awslabs/aws-apigateway-lambda-authorizer-blueprints.git
+[submodule "apn-blog"]
+	path = apn-blog
+	url = https://github.com/awslabs/apn-blog.git
+[submodule "aws-blog-net-exploring-aspnet-core"]
+	path = aws-blog-net-exploring-aspnet-core
+[submodule "aws-codepipeline-block-production"]
+	path = aws-codepipeline-block-production
+	url = https://github.com/awslabs/aws-codepipeline-block-production.git
+[submodule "aws-cloudformation-templates"]
+	path = aws-cloudformation-templates
+[submodule "aws-cfn-template-flip"]
+	path = aws-cfn-template-flip
+	url = https://github.com/awslabs/aws-cfn-template-flip.git
+[submodule "aws-codedeploy-plugin"]
+	path = aws-codedeploy-plugin
+	url = https://github.com/awslabs/aws-codedeploy-plugin.git
+[submodule "aws-codedeploy-samples"]
+	path = aws-codedeploy-samples
+	url = https://github.com/awslabs/aws-codedeploy-samples.git
+[submodule "aws-codepipeline-s3-aws-codedeploy_linux"]
+	path = aws-codepipeline-s3-aws-codedeploy_linux
+	url = https://github.com/awslabs/aws-codepipeline-s3-aws-codedeploy_linux.git
+[submodule "aws-codepipeline-jenkins-aws-codedeploy_linux"]
+	path = aws-codepipeline-jenkins-aws-codedeploy_linux
+	url = https://github.com/awslabs/aws-codepipeline-jenkins-aws-codedeploy_linux.git
+[submodule "aws-codepipeline-synthetic-tests"]
+	path = aws-codepipeline-synthetic-tests
+	url = https://github.com/awslabs/aws-codepipeline-synthetic-tests.git
+[submodule "aws-cross-account-manager"]
+	path = aws-cross-account-manager
+	url = https://github.com/awslabs/aws-cross-account-manager.git
+[submodule "aws-config-to-elasticsearch"]
+	path = aws-config-to-elasticsearch
+	url = https://github.com/awslabs/aws-config-to-elasticsearch.git
+[submodule "aws-config-rules"]
+	path = aws-config-rules
+	url = https://github.com/awslabs/aws-config-rules.git
+[submodule "aws-device-farm-sample-web-app-using-appium"]
+	path = aws-device-farm-sample-web-app-using-appium
+	url = https://github.com/awslabs/aws-device-farm-sample-web-app-using-appium.git
+[submodule "aws-device-farm-gradle-plugin"]
+	path = aws-device-farm-gradle-plugin
+	url = https://github.com/awslabs/aws-device-farm-gradle-plugin.git
+[submodule "aws-device-farm-sample-web-app-using-appium-python"]
+	path = aws-device-farm-sample-web-app-using-appium-python
+[submodule "aws-educate-scripts"]
+	path = aws-educate-scripts
+[submodule "aws-dynamodb-examples"]
+	path = aws-dynamodb-examples
+	url = https://github.com/awslabs/aws-dynamodb-examples.git
+[submodule "aws-codedeploy-sample-tomcat"]
+	path = aws-codedeploy-sample-tomcat
+	url = https://github.com/awslabs/aws-codedeploy-sample-tomcat.git
+[submodule "aws-device-farm-appium-tests-for-sample-app"]
+	path = aws-device-farm-appium-tests-for-sample-app
+	url = https://github.com/awslabs/aws-device-farm-appium-tests-for-sample-app.git
+[submodule "aws-go-wordfreq-sample"]
+	path = aws-go-wordfreq-sample
+[submodule "aws-dx-monitor"]
+	path = aws-dx-monitor
+	url = https://github.com/awslabs/aws-dx-monitor.git
+[submodule "aws-hal-client-java"]
+	path = aws-hal-client-java
+	url = https://github.com/awslabs/aws-hal-client-java.git
+[submodule "aws-flow-ruby-opsworks-helloworld"]
+	path = aws-flow-ruby-opsworks-helloworld
+	url = https://github.com/awslabs/aws-flow-ruby-opsworks-helloworld.git
+[submodule "aws-fluent-plugin-kinesis"]
+	path = aws-fluent-plugin-kinesis
+	url = https://github.com/awslabs/aws-fluent-plugin-kinesis.git
+[submodule "aws-flow-ruby-samples"]
+	path = aws-flow-ruby-samples
+	url = https://github.com/awslabs/aws-flow-ruby-samples.git
+[submodule "aws-device-farm-jenkins-plugin"]
+	path = aws-device-farm-jenkins-plugin
+	url = https://github.com/awslabs/aws-device-farm-jenkins-plugin.git
+[submodule "aws-data-lake-solution"]
+	path = aws-data-lake-solution
+	url = https://github.com/awslabs/aws-data-lake-solution.git
+[submodule "aws-encryption-sdk-java"]
+	path = aws-encryption-sdk-java
+	url = https://github.com/awslabs/aws-encryption-sdk-java.git
+[submodule "aws-demo-php-simple-app"]
+	path = aws-demo-php-simple-app
+	url = https://github.com/awslabs/aws-demo-php-simple-app.git
+[submodule "aws-arch-backoff-simulator"]
+	path = aws-arch-backoff-simulator
+	url = https://github.com/awslabs/aws-arch-backoff-simulator.git
+[submodule "aws-elasticache-cluster-client-memcached-for-php"]
+	path = aws-elasticache-cluster-client-memcached-for-php
+	url = https://github.com/awslabs/aws-elasticache-cluster-client-memcached-for-php.git
+[submodule "aws-elasticache-cluster-client-libmemcached"]
+	path = aws-elasticache-cluster-client-libmemcached
+	url = https://github.com/awslabs/aws-elasticache-cluster-client-libmemcached.git
+[submodule "aws-dynamodb-mars-json-demo"]
+	path = aws-dynamodb-mars-json-demo
+	url = https://github.com/awslabs/aws-dynamodb-mars-json-demo.git
+[submodule "aws-dynamodb-encryption-java"]
+	path = aws-dynamodb-encryption-java
+[submodule "aws-cognito-angular2-quickstart"]
+	path = aws-cognito-angular2-quickstart
+	url = https://github.com/awslabs/aws-cognito-angular2-quickstart.git
+[submodule "aws-codepipeline-time-windows"]
+	path = aws-codepipeline-time-windows
+	url = https://github.com/awslabs/aws-codepipeline-time-windows.git
+[submodule "aws-database-migration-samples"]
+	path = aws-database-migration-samples
+	url = https://github.com/awslabs/aws-database-migration-samples.git
+[submodule "aws-api-gateway-developer-portal"]
+	path = aws-api-gateway-developer-portal
+	url = https://github.com/awslabs/aws-api-gateway-developer-portal.git
+[submodule "aws-hangouts"]
+	path = aws-hangouts
+	url = https://github.com/awslabs/aws-hangouts.git
+[submodule "amazon-redshift-utils"]
+	path = amazon-redshift-utils
+	url = https://github.com/awslabs/amazon-redshift-utils.git
+[submodule "aws-elasticache-cluster-client-memcached-for-java"]
+	path = aws-elasticache-cluster-client-memcached-for-java
+	url = https://github.com/awslabs/aws-elasticache-cluster-client-memcached-for-java.git
+[submodule "aws-iot-demo-for-danbo"]
+	path = aws-iot-demo-for-danbo
+	url = https://github.com/awslabs/aws-iot-demo-for-danbo.git
+[submodule "aws-device-farm-xctest-ui-tests-for-ios-sample-app"]
+	path = aws-device-farm-xctest-ui-tests-for-ios-sample-app
+	url = https://github.com/awslabs/aws-device-farm-xctest-ui-tests-for-ios-sample-app.git
+[submodule "amazon-polly-sample"]
+	path = amazon-polly-sample
+	url = https://github.com/awslabs/amazon-polly-sample.git
+[submodule "aws-device-farm-calabash-tests-for-sample-app"]
+	path = aws-device-farm-calabash-tests-for-sample-app
+	url = https://github.com/awslabs/aws-device-farm-calabash-tests-for-sample-app.git
+[submodule "aws-device-farm-sample-app-for-ios"]
+	path = aws-device-farm-sample-app-for-ios
+	url = https://github.com/awslabs/aws-device-farm-sample-app-for-ios.git
+[submodule "aws-device-farm-sample-app-for-android"]
+	path = aws-device-farm-sample-app-for-android
+	url = https://github.com/awslabs/aws-device-farm-sample-app-for-android.git
+[submodule "aws-big-data-blog"]
+	path = aws-big-data-blog
+	url = https://github.com/awslabs/aws-big-data-blog.git
+[submodule "amazon-kinesis-aggregators"]
+	path = amazon-kinesis-aggregators
+	url = https://github.com/awslabs/amazon-kinesis-aggregators.git
+[submodule "ec2-spot-labs"]
+	path = ec2-spot-labs
+	url = https://github.com/awslabs/ec2-spot-labs.git
+[submodule "eb-node-express-sample"]
+	path = eb-node-express-sample
+[submodule "ec2-classic-mirror"]
+	path = ec2-classic-mirror
+	url = https://github.com/awslabs/ec2-classic-mirror.git
+[submodule "eb-node-express"]
+	path = eb-node-express
+[submodule "eb-wif-sample"]
+	path = eb-wif-sample
+	url = https://github.com/awslabs/eb-wif-sample.git
+[submodule "ec2-fleet-compare"]
+	path = ec2-fleet-compare
+	url = https://github.com/awslabs/ec2-fleet-compare.git
+[submodule "eb-py-flask-signup-worker"]
+	path = eb-py-flask-signup-worker
+	url = https://github.com/awslabs/eb-py-flask-signup-worker.git
+[submodule "ecs-mesos-scheduler-driver"]
+	path = ecs-mesos-scheduler-driver
+	url = https://github.com/awslabs/ecs-mesos-scheduler-driver.git
+[submodule "ecs-swift-sample-app"]
+	path = ecs-swift-sample-app
+	url = https://github.com/awslabs/ecs-swift-sample-app.git
+[submodule "ecs-machine-learning"]
+	path = ecs-machine-learning
+	url = https://github.com/awslabs/ecs-machine-learning.git
+[submodule "ecr-cleanup-lambda"]
+	path = ecr-cleanup-lambda
+	url = https://github.com/awslabs/ecr-cleanup-lambda.git
+[submodule "eb-node-express-signup"]
+	path = eb-node-express-signup
+	url = https://github.com/awslabs/eb-node-express-signup.git
+[submodule "ebs-snapshot-scheduler"]
+	path = ebs-snapshot-scheduler
+[submodule "eb-python-flask"]
+	path = eb-python-flask
+	url = https://github.com/awslabs/eb-python-flask.git
+[submodule "kinesis-poster-worker"]
+	path = kinesis-poster-worker
+	url = https://github.com/awslabs/kinesis-poster-worker.git
+[submodule "java-meme-generator-sample"]
+	path = java-meme-generator-sample
+	url = https://github.com/awslabs/java-meme-generator-sample.git
+[submodule "kinesis-log4j-appender"]
+	path = kinesis-log4j-appender
+	url = https://github.com/awslabs/kinesis-log4j-appender.git
+[submodule "ecs-refarch-continuous-deployment"]
+	path = ecs-refarch-continuous-deployment
+	url = https://github.com/awslabs/ecs-refarch-continuous-deployment.git
+[submodule "elastic-beanstalk-docs"]
+	path = elastic-beanstalk-docs
+[submodule "kinesis-storm-spout"]
+	path = kinesis-storm-spout
+	url = https://github.com/awslabs/kinesis-storm-spout.git
+[submodule "git-secrets"]
+	path = git-secrets
+	url = https://github.com/awslabs/git-secrets.git
+[submodule "emr-dynamodb-connector"]
+	path = emr-dynamodb-connector
+	url = https://github.com/awslabs/emr-dynamodb-connector.git
+[submodule "lambda-refarch-fileprocessing"]
+	path = lambda-refarch-fileprocessing
+[submodule "lambda-refarch-streamprocessing"]
+	path = lambda-refarch-streamprocessing
+[submodule "lambda-apigateway-twilio-tutorial"]
+	path = lambda-apigateway-twilio-tutorial
+	url = https://github.com/awslabs/lambda-apigateway-twilio-tutorial.git
+[submodule "j2119"]
+	path = j2119
+	url = https://github.com/awslabs/j2119.git
+[submodule "logstash-input-dynamodb"]
+	path = logstash-input-dynamodb
+	url = https://github.com/awslabs/logstash-input-dynamodb.git
+[submodule "mqtt-kinesis-bridge"]
+	path = mqtt-kinesis-bridge
+	url = https://github.com/awslabs/mqtt-kinesis-bridge.git
+[submodule "opsworks-attribute-customization"]
+	path = opsworks-attribute-customization
+	url = https://github.com/awslabs/opsworks-attribute-customization.git
+[submodule "lambda-runcommand-configuration-management"]
+	path = lambda-runcommand-configuration-management
+	url = https://github.com/awslabs/lambda-runcommand-configuration-management.git
+[submodule "lightsail-auto-snapshots"]
+	path = lightsail-auto-snapshots
+	url = https://github.com/awslabs/lightsail-auto-snapshots.git
+[submodule "opsworks-demo-php-simple-app"]
+	path = opsworks-demo-php-simple-app
+	url = https://github.com/awslabs/opsworks-demo-php-simple-app.git
+[submodule "lambda-refarch-mobilebackend"]
+	path = lambda-refarch-mobilebackend
+	url = https://github.com/awslabs/lambda-refarch-mobilebackend.git
+[submodule "opsworks-first-cookbook"]
+	path = opsworks-first-cookbook
+	url = https://github.com/awslabs/opsworks-first-cookbook.git
+[submodule "opsworks-elasticsearch-cookbook"]
+	path = opsworks-elasticsearch-cookbook
+	url = https://github.com/awslabs/opsworks-elasticsearch-cookbook.git
+[submodule "opsworks-demo-rails-photo-share-app"]
+	path = opsworks-demo-rails-photo-share-app
+	url = https://github.com/awslabs/opsworks-demo-rails-photo-share-app.git
+[submodule "opsworks-windows-demo-nodejs"]
+	path = opsworks-windows-demo-nodejs
+[submodule "opsworks-example-cookbooks"]
+	path = opsworks-example-cookbooks
+[submodule "opsworks-windows-demo-cookbooks"]
+	path = opsworks-windows-demo-cookbooks
+	url = https://github.com/awslabs/opsworks-windows-demo-cookbooks.git
+[submodule "reinvent2013-js-blog-demo"]
+	path = reinvent2013-js-blog-demo
+	url = https://github.com/awslabs/reinvent2013-js-blog-demo.git
+[submodule "rds-support-tools"]
+	path = rds-support-tools
+	url = https://github.com/awslabs/rds-support-tools.git
+[submodule "reinvent2015-practicaldynamodb"]
+	path = reinvent2015-practicaldynamodb
+	url = https://github.com/awslabs/reinvent2015-practicaldynamodb.git
+[submodule "py-flask-signup-docker"]
+	path = py-flask-signup-docker
+	url = https://github.com/awslabs/py-flask-signup-docker.git
+[submodule "route53-infima"]
+	path = route53-infima
+	url = https://github.com/awslabs/route53-infima.git
+[submodule "reinvent2015-dev309"]
+	path = reinvent2015-dev309
+	url = https://github.com/awslabs/reinvent2015-dev309.git
+[submodule "rekognition-image-search-engine"]
+	path = rekognition-image-search-engine
+	url = https://github.com/awslabs/rekognition-image-search-engine.git
+[submodule "service-discovery-ecs-consul"]
+	path = service-discovery-ecs-consul
+[submodule "serverless-application-model"]
+	path = serverless-application-model
+	url = https://github.com/awslabs/serverless-application-model.git
+[submodule "startup-kit-templates"]
+	path = startup-kit-templates
+	url = https://github.com/awslabs/startup-kit-templates.git
+[submodule "pgbouncer-rr-patch"]
+	path = pgbouncer-rr-patch
+	url = https://github.com/awslabs/pgbouncer-rr-patch.git
+[submodule "lambda-chef-node-cleanup"]
+	path = lambda-chef-node-cleanup
+	url = https://github.com/awslabs/lambda-chef-node-cleanup.git
+[submodule "ecs-demo-php-simple-app"]
+	path = ecs-demo-php-simple-app
+	url = https://github.com/awslabs/ecs-demo-php-simple-app.git
+[submodule "serverless-photo-recognition"]
+	path = serverless-photo-recognition
+	url = https://github.com/awslabs/serverless-photo-recognition.git
+[submodule "lambda-refarch-webapp"]
+	path = lambda-refarch-webapp
+	url = https://github.com/awslabs/lambda-refarch-webapp.git
+[submodule "startup-kit-serverless-workload"]
+	path = startup-kit-serverless-workload
+	url = https://github.com/awslabs/startup-kit-serverless-workload.git
+[submodule "simplerobotservice"]
+	path = simplerobotservice
+	url = https://github.com/awslabs/simplerobotservice.git
+[submodule "lambda-java8-dynamodb"]
+	path = lambda-java8-dynamodb
+	url = https://github.com/awslabs/lambda-java8-dynamodb.git
+[submodule "s2n"]
+	path = s2n
+	url = https://github.com/awslabs/s2n.git
+[submodule "live-stream-on-aws"]
+	path = live-stream-on-aws
+	url = https://github.com/awslabs/live-stream-on-aws.git
+[submodule "route53-dynamic-dns-with-lambda"]
+	path = route53-dynamic-dns-with-lambda
+	url = https://github.com/awslabs/route53-dynamic-dns-with-lambda.git
+[submodule "ecs-task-kite"]
+	path = ecs-task-kite
+	url = https://github.com/awslabs/ecs-task-kite.git
+[submodule "eb-tomcat-snakes"]
+	path = eb-tomcat-snakes
+	url = https://github.com/awslabs/eb-tomcat-snakes.git
+[submodule "emr-sample-apps"]
+	path = emr-sample-apps
+	url = https://github.com/awslabs/emr-sample-apps.git
+[submodule "ecs-deep-learning-workshop"]
+	path = ecs-deep-learning-workshop
+	url = https://github.com/awslabs/ecs-deep-learning-workshop.git
+[submodule "simplebeerservice"]
+	path = simplebeerservice
+	url = https://github.com/awslabs/simplebeerservice.git
+[submodule "serverless-chatbots-workshop"]
+	path = serverless-chatbots-workshop
+	url = https://github.com/awslabs/serverless-chatbots-workshop.git
+[submodule "lambda-streams-to-firehose"]
+	path = lambda-streams-to-firehose
+	url = https://github.com/awslabs/lambda-streams-to-firehose.git
+[submodule "reinvent2013-mobile-photo-share"]
+	path = reinvent2013-mobile-photo-share
+	url = https://github.com/awslabs/reinvent2013-mobile-photo-share.git
+[submodule "serverless-image-resizing"]
+	path = serverless-image-resizing
+	url = https://github.com/awslabs/serverless-image-resizing.git
+[submodule "kinesis-aggregation"]
+	path = kinesis-aggregation
+	url = https://github.com/awslabs/kinesis-aggregation.git
+[submodule "amazon-kinesis-scaling-utils"]
+	path = amazon-kinesis-scaling-utils
+	url = https://github.com/awslabs/amazon-kinesis-scaling-utils.git
+[submodule "aws-codepipeline-plugin-for-jenkins"]
+	path = aws-codepipeline-plugin-for-jenkins
+	url = https://github.com/awslabs/aws-codepipeline-plugin-for-jenkins.git
+[submodule "mxnet-lambda"]
+	path = mxnet-lambda
+	url = https://github.com/awslabs/mxnet-lambda.git
+[submodule "todo-sample-app-cookbooks"]
+	path = todo-sample-app-cookbooks
+	url = https://github.com/awslabs/todo-sample-app-cookbooks.git
+[submodule "todo-sample-app"]
+	path = todo-sample-app
+	url = https://github.com/awslabs/todo-sample-app.git
+[submodule "streaming-analytics-pipeline"]
+	path = streaming-analytics-pipeline
+	url = https://github.com/awslabs/streaming-analytics-pipeline.git
+[submodule "swift-ecs-workshop"]
+	path = swift-ecs-workshop
+	url = https://github.com/awslabs/swift-ecs-workshop.git
