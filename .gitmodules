@@ -5744,3 +5744,45 @@
 [submodule "swift-ecs-workshop"]
 	path = swift-ecs-workshop
 	url = https://github.com/awslabs/swift-ecs-workshop.git
+[submodule "linkerd"]
+	path = linkerd
+	url = https://github.com/linkerd/linkerd
+[submodule "basictracer-javascript"]
+	path = basictracer-javascript
+	url = https://github.com/opentracing/basictracer-javascript.git
+[submodule "specification"]
+	path = specification
+	url = https://github.com/opentracing/specification.git
+[submodule "basictracer-go"]
+	path = basictracer-go
+	url = https://github.com/opentracing/basictracer-go.git
+[submodule "basictracer-python"]
+	path = basictracer-python
+	url = https://github.com/opentracing/basictracer-python.git
+[submodule "opentracing-objc"]
+	path = opentracing-objc
+	url = https://github.com/opentracing/opentracing-objc.git
+[submodule "opentracing-javascript"]
+	path = opentracing-javascript
+	url = https://github.com/opentracing/opentracing-javascript.git
+[submodule "opentracing.io"]
+	path = opentracing.io
+	url = https://github.com/opentracing/opentracing.io.git
+[submodule "docker-lloyd"]
+	path = docker-lloyd
+	url = https://github.com/docker-infra/docker-lloyd.git
+[submodule "logstash-input-s3"]
+	path = logstash-input-s3
+	url = https://github.com/docker-infra/logstash-input-s3.git
+[submodule "container_exporter"]
+	path = container_exporter
+	url = https://github.com/docker-infra/container_exporter.git
+[submodule "prometheus-consul"]
+	path = prometheus-consul
+	url = https://github.com/docker-infra/prometheus-consul.git
+[submodule "reefer"]
+	path = reefer
+	url = https://github.com/docker-infra/reefer.git
+[submodule "elasticsearch_exporter"]
+	path = elasticsearch_exporter
+	url = https://github.com/docker-infra/elasticsearch_exporter.git
