@@ -5786,3 +5786,607 @@
 [submodule "elasticsearch_exporter"]
 	path = elasticsearch_exporter
 	url = https://github.com/docker-infra/elasticsearch_exporter.git
+[submodule "bdcisco-module-evpn_vxlan"]
+	path = bdcisco-module-evpn_vxlan
+	url = https://github.com/puppetlabs/bdcisco-module-evpn_vxlan.git
+[submodule "docker-snap"]
+	path = docker-snap
+	url = https://github.com/docker/docker-snap.git
+[submodule "communitytools-image2docker-linux"]
+	path = communitytools-image2docker-linux
+	url = https://github.com/docker/communitytools-image2docker-linux.git
+[submodule "10acre-ranch"]
+	path = 10acre-ranch
+	url = https://github.com/rancher/10acre-ranch.git
+[submodule "cadvisor-package"]
+	path = cadvisor-package
+	url = https://github.com/rancher/cadvisor-package.git
+[submodule "console-agent"]
+	path = console-agent
+	url = https://github.com/rancher/console-agent.git
+[submodule "build-master"]
+	path = build-master
+	url = https://github.com/rancher/build-master.git
+[submodule "cattle-cli"]
+	path = cattle-cli
+	url = https://github.com/rancher/cattle-cli.git
+[submodule "agent-binaries"]
+	path = agent-binaries
+	url = https://github.com/rancher/agent-binaries.git
+[submodule "api-ui"]
+	path = api-ui
+	url = https://github.com/rancher/api-ui.git
+[submodule "docker-package"]
+	path = docker-package
+	url = https://github.com/rancher/docker-package.git
+[submodule "drone-sd"]
+	path = drone-sd
+	url = https://github.com/rancher/drone-sd.git
+[submodule "cniglue"]
+	path = cniglue
+	url = https://github.com/rancher/cniglue.git
+[submodule "ember-api-store"]
+	path = ember-api-store
+	url = https://github.com/rancher/ember-api-store.git
+[submodule "docker-from-scratch"]
+	path = docker-from-scratch
+	url = https://github.com/rancher/docker-from-scratch.git
+[submodule "cli-1"]
+	path = cli-1
+	url = https://github.com/rancher/cli-1.git
+[submodule "go-fibmap"]
+	path = go-fibmap
+	url = https://github.com/rancher/go-fibmap.git
+[submodule "etc-host-updater"]
+	path = etc-host-updater
+	url = https://github.com/rancher/etc-host-updater.git
+[submodule "docker-longhorn-driver"]
+	path = docker-longhorn-driver
+	url = https://github.com/rancher/docker-longhorn-driver.git
+[submodule "go-skel"]
+	path = go-skel
+	url = https://github.com/rancher/go-skel.git
+[submodule "etcdb"]
+	path = etcdb
+	url = https://github.com/rancher/etcdb.git
+[submodule "go-rancher-metadata"]
+	path = go-rancher-metadata
+	url = https://github.com/rancher/go-rancher-metadata.git
+[submodule "cluster-manager"]
+	path = cluster-manager
+	url = https://github.com/rancher/cluster-manager.git
+[submodule "docker-java"]
+	path = docker-java
+	url = https://github.com/rancher/docker-java.git
+[submodule "gdapi-python"]
+	path = gdapi-python
+	url = https://github.com/rancher/gdapi-python.git
+[submodule "goStrongswanVici"]
+	path = goStrongswanVici
+	url = https://github.com/rancher/goStrongswanVici.git
+[submodule "cni"]
+	path = cni
+	url = https://github.com/rancher/cni.git
+[submodule "infra-catalog"]
+	path = infra-catalog
+	url = https://github.com/rancher/infra-catalog.git
+[submodule "jenkins-rancher"]
+	path = jenkins-rancher
+	url = https://github.com/rancher/jenkins-rancher.git
+[submodule "install-docker"]
+	path = install-docker
+	url = https://github.com/rancher/install-docker.git
+[submodule "jenkins-master"]
+	path = jenkins-master
+	url = https://github.com/rancher/jenkins-master.git
+[submodule "candiedyaml"]
+	path = candiedyaml
+	url = https://github.com/rancher/candiedyaml.git
+[submodule "jenkins-slave"]
+	path = jenkins-slave
+	url = https://github.com/rancher/jenkins-slave.git
+[submodule "healthcheck"]
+	path = healthcheck
+	url = https://github.com/rancher/healthcheck.git
+[submodule "kubernetes-package"]
+	path = kubernetes-package
+	url = https://github.com/rancher/kubernetes-package.git
+[submodule "external-dns"]
+	path = external-dns
+	url = https://github.com/rancher/external-dns.git
+[submodule "community-catalog"]
+	path = community-catalog
+	url = https://github.com/rancher/community-catalog.git
+[submodule "host-proxy"]
+	path = host-proxy
+	url = https://github.com/rancher/host-proxy.git
+[submodule "loggly-docker"]
+	path = loggly-docker
+	url = https://github.com/rancher/loggly-docker.git
+[submodule "longhorn-catalog"]
+	path = longhorn-catalog
+	url = https://github.com/rancher/longhorn-catalog.git
+[submodule "kubernetes-model"]
+	path = kubernetes-model
+	url = https://github.com/rancher/kubernetes-model.git
+[submodule "loadbalancer"]
+	path = loadbalancer
+	url = https://github.com/rancher/loadbalancer.git
+[submodule "netconf"]
+	path = netconf
+	url = https://github.com/rancher/netconf.git
+[submodule "kubernetes-agent"]
+	path = kubernetes-agent
+	url = https://github.com/rancher/kubernetes-agent.git
+[submodule "machine-package"]
+	path = machine-package
+	url = https://github.com/rancher/machine-package.git
+[submodule "node-agent"]
+	path = node-agent
+	url = https://github.com/rancher/node-agent.git
+[submodule "longhorn-tests"]
+	path = longhorn-tests
+	url = https://github.com/rancher/longhorn-tests.git
+[submodule "kubectld"]
+	path = kubectld
+[submodule "leader"]
+	path = leader
+	url = https://github.com/rancher/leader.git
+[submodule "go-machine-service"]
+	path = go-machine-service
+	url = https://github.com/rancher/go-machine-service.git
+[submodule "openstack-catalog"]
+	path = openstack-catalog
+	url = https://github.com/rancher/openstack-catalog.git
+[submodule "go-rancher"]
+	path = go-rancher
+	url = https://github.com/rancher/go-rancher.git
+[submodule "orchestrating-docker"]
+	path = orchestrating-docker
+	url = https://github.com/rancher/orchestrating-docker.git
+[submodule "os-installer"]
+	path = os-installer
+	url = https://github.com/rancher/os-installer.git
+[submodule "os-engines"]
+	path = os-engines
+	url = https://github.com/rancher/os-engines.git
+[submodule "os-vbox"]
+	path = os-vbox
+	url = https://github.com/rancher/os-vbox.git
+[submodule "convoy-agent"]
+	path = convoy-agent
+	url = https://github.com/rancher/convoy-agent.git
+[submodule "network-policy-manager"]
+	path = network-policy-manager
+	url = https://github.com/rancher/network-policy-manager.git
+[submodule "os-vagrant"]
+	path = os-vagrant
+	url = https://github.com/rancher/os-vagrant.git
+[submodule "os-services"]
+	path = os-services
+	url = https://github.com/rancher/os-services.git
+[submodule "longhorn"]
+	path = longhorn
+	url = https://github.com/rancher/longhorn.git
+[submodule "os-kernel"]
+	path = os-kernel
+	url = https://github.com/rancher/os-kernel.git
+[submodule "host-api"]
+	path = host-api
+	url = https://github.com/rancher/host-api.git
+[submodule "os-base"]
+	path = os-base
+	url = https://github.com/rancher/os-base.git
+[submodule "external-lb"]
+	path = external-lb
+	url = https://github.com/rancher/external-lb.git
+[submodule "os-images"]
+	path = os-images
+	url = https://github.com/rancher/os-images.git
+[submodule "catalog-service"]
+	path = catalog-service
+	url = https://github.com/rancher/catalog-service.git
+[submodule "lacsso"]
+	path = lacsso
+	url = https://github.com/rancher/lacsso.git
+[submodule "convoy"]
+	path = convoy
+	url = https://github.com/rancher/convoy.git
+[submodule "icons"]
+	path = icons
+	url = https://github.com/rancher/icons.git
+[submodule "plugin-manager"]
+	path = plugin-manager
+	url = https://github.com/rancher/plugin-manager.git
+[submodule "lb-controller"]
+	path = lb-controller
+	url = https://github.com/rancher/lb-controller.git
+[submodule "kolla"]
+	path = kolla
+	url = https://github.com/rancher/kolla.git
+[submodule "noVNC"]
+	path = noVNC
+	url = https://github.com/rancher/noVNC.git
+[submodule "catalog-dockerfiles"]
+	path = catalog-dockerfiles
+	url = https://github.com/rancher/catalog-dockerfiles.git
+[submodule "os"]
+	path = os
+	url = https://github.com/rancher/os.git
+[submodule "cattle"]
+	path = cattle
+	url = https://github.com/rancher/cattle.git
+[submodule "docker-dind-base"]
+	path = docker-dind-base
+	url = https://github.com/rancher/docker-dind-base.git
+[submodule "buildroot"]
+	path = buildroot
+	url = https://github.com/rancher/buildroot.git
+[submodule "boxen"]
+	path = boxen
+	url = https://github.com/rancher/boxen.git
+[submodule "os-packer"]
+	path = os-packer
+	url = https://github.com/rancher/os-packer.git
+[submodule "wagl"]
+	path = wagl
+	url = git://github.com/ahmetalpbalkan/wagl/
+[submodule "docker-do"]
+	path = docker-do
+	url = git://github.com/benzaita/docker-do
+[submodule "powerline-docker"]
+	path = powerline-docker
+	url = git://github.com/adrianmo/powerline-docker
+[submodule "docker-machine-nfs"]
+	path = docker-machine-nfs
+	url = git://github.com/adlogix/docker-machine-nfs
+[submodule "dockersql"]
+	path = dockersql
+	url = git://github.com/crosbymichael/dockersql
+[submodule "blockbridge-docker-volume"]
+	path = blockbridge-docker-volume
+	url = git://github.com/blockbridge/blockbridge-docker-volume
+[submodule "percheron"]
+	path = percheron
+	url = git://github.com/ashmckenzie/percheron
+[submodule "zodiac"]
+	path = zodiac
+	url = git://github.com/CenturyLinkLabs/zodiac
+[submodule "framework"]
+	path = framework
+	url = git://github.com/clusterdock/framework
+[submodule "docker-quick-ref"]
+	path = docker-quick-ref
+	url = git://github.com/dimonomid/docker-quick-ref
+[submodule "forward2docker"]
+	path = forward2docker
+	url = git://github.com/bsideup/forward2docker
+[submodule "Dockerfiles"]
+	path = Dockerfiles
+	url = git://github.com/crosbymichael/Dockerfiles
+[submodule "skinnywhale"]
+	path = skinnywhale
+	url = git://github.com/djosephsen/skinnywhale
+[submodule "docker-volumes"]
+	path = docker-volumes
+	url = git://github.com/cpuguy83/docker-volumes
+[submodule "Beluga"]
+	path = Beluga
+	url = git://github.com/cortexmedia/Beluga
+[submodule "vessel"]
+	path = vessel
+	url = git://github.com/awvessel/vessel
+[submodule "dinghy"]
+	path = dinghy
+	url = git://github.com/codekitchen/dinghy
+[submodule "awesome_bot"]
+	path = awesome_bot
+	url = git://github.com/dkhamsing/awesome_bot
+[submodule "azurefile-dockervolumedriver"]
+	path = azurefile-dockervolumedriver
+	url = git://github.com/ahmetalpbalkan/azurefile-dockervolumedriver
+[submodule "learn-docker"]
+	path = learn-docker
+	url = git://github.com/dwyl/learn-docker
+[submodule "awesome-ciandcd"]
+	path = awesome-ciandcd
+	url = git://github.com/ciandcd/awesome-ciandcd
+[submodule "local-persist"]
+	path = local-persist
+	url = git://github.com/CWSpear/local-persist
+[submodule "dockerding-on-rails"]
+	path = dockerding-on-rails
+	url = git://github.com/Electrofenster/dockerding-on-rails
+[submodule "docker-osx-dev"]
+	path = docker-osx-dev
+	url = git://github.com/brikis98/docker-osx-dev
+[submodule "proxy"]
+	path = proxy
+	url = git://github.com/factorish/proxy
+[submodule "DoMonit"]
+	path = DoMonit
+	url = git://github.com/eon01/DoMonit
+[submodule "elsy"]
+	path = elsy
+	url = git://github.com/cisco/elsy
+[submodule "docker-compose-search"]
+	path = docker-compose-search
+	url = git://github.com/francescou/docker-compose-search
+[submodule "containership"]
+	path = containership
+	url = git://github.com/containership/containership
+[submodule "awesome-linux-containers"]
+	path = awesome-linux-containers
+	url = git://github.com/Friz-zy/awesome-linux-containers
+[submodule "devstep"]
+	path = devstep
+	url = git://github.com/fgrehm/devstep
+[submodule "docker-convenience-scripts"]
+	path = docker-convenience-scripts
+	url = git://github.com/gdiepen/docker-convenience-scripts
+[submodule "docker-continuous-deployment"]
+	path = docker-continuous-deployment
+	url = git://github.com/francescou/docker-continuous-deployment
+[submodule "Docker-Secure-Deployment-Guidelines"]
+	path = Docker-Secure-Deployment-Guidelines
+	url = git://github.com/GDSSecurity/Docker-Secure-Deployment-Guidelines
+[submodule "dray"]
+	path = dray
+	url = git://github.com/CenturyLinkLabs/dray
+[submodule "capitan"]
+	path = capitan
+	url = git://github.com/byrnedo/capitan
+[submodule "dexec"]
+	path = dexec
+	url = git://github.com/docker-exec/dexec
+[submodule "logjam"]
+	path = logjam
+	url = git://github.com/gocardless/logjam
+[submodule "chaperone-docker"]
+	path = chaperone-docker
+	url = git://github.com/garywiz/chaperone-docker
+[submodule "fabio"]
+	path = fabio
+	url = git://github.com/eBay/fabio
+[submodule "dvm"]
+	path = dvm
+	url = git://github.com/getcarina/dvm
+[submodule "swarmci"]
+	path = swarmci
+	url = git://github.com/ghostsquad/swarmci
+[submodule "chaperone"]
+	path = chaperone
+	url = git://github.com/garywiz/chaperone
+[submodule "dockerana"]
+	path = dockerana
+	url = git://github.com/dockerana/dockerana
+[submodule "dockit"]
+	path = dockit
+	url = git://github.com/humblec/dockit
+[submodule "docker-zabbix"]
+	path = docker-zabbix
+	url = git://github.com/gomex/docker-zabbix
+[submodule "habitus"]
+	path = habitus
+	url = git://github.com/cloud66/habitus
+[submodule "elastickube"]
+	path = elastickube
+	url = git://github.com/ElasticBox/elastickube
+[submodule "bocker"]
+	path = bocker
+	url = git://github.com/icy/bocker
+[submodule "gradle-docker-plugin"]
+	path = gradle-docker-plugin
+	url = git://github.com/gesellix/gradle-docker-plugin
+[submodule "ahab"]
+	path = ahab
+	url = git://github.com/instacart/ahab
+[submodule "depcon"]
+	path = depcon
+	url = git://github.com/gondor/depcon
+[submodule "docker-client"]
+	path = docker-client
+	url = git://github.com/gesellix/docker-client
+[submodule "whale-linter"]
+	path = whale-linter
+	url = git://github.com/jeromepin/whale-linter
+[submodule "nsenter"]
+	path = nsenter
+	url = git://github.com/jpetazzo/nsenter
+[submodule "squid-in-a-can"]
+	path = squid-in-a-can
+	url = git://github.com/jpetazzo/squid-in-a-can
+[submodule "docker-letsencrypt-nginx-proxy-companion"]
+	path = docker-letsencrypt-nginx-proxy-companion
+	url = git://github.com/JrCs/docker-letsencrypt-nginx-proxy-companion
+[submodule "captain"]
+	path = captain
+	url = git://github.com/harbur/captain
+[submodule "dockramp"]
+	path = dockramp
+	url = git://github.com/jlhawn/dockramp
+[submodule "docker-fluentd"]
+	path = docker-fluentd
+	url = git://github.com/kiyoto/docker-fluentd
+[submodule "nginx-proxy"]
+	path = nginx-proxy
+	url = git://github.com/jwilder/nginx-proxy
+[submodule "dockerize"]
+	path = dockerize
+	url = git://github.com/jwilder/dockerize
+[submodule "docker-mon"]
+	path = docker-mon
+	url = git://github.com/icecrime/docker-mon
+[submodule "dockerfile-examples"]
+	path = dockerfile-examples
+	url = git://github.com/komljen/dockerfile-examples
+[submodule "docker-garby"]
+	path = docker-garby
+	url = git://github.com/konstruktoid/docker-garby
+[submodule "docker-registry-browser"]
+	path = docker-registry-browser
+	url = git://github.com/klausmeyer/docker-registry-browser
+[submodule "dokku"]
+	path = dokku
+	url = git://github.com/dokku/dokku
+[submodule "pumba"]
+	path = pumba
+	url = git://github.com/gaia-adm/pumba
+[submodule "docker-volume-netshare"]
+	path = docker-volume-netshare
+	url = git://github.com/gondor/docker-volume-netshare
+[submodule "dockly"]
+	path = dockly
+	url = git://github.com/lirantal/dockly
+[submodule "logspout"]
+	path = logspout
+	url = git://github.com/gliderlabs/logspout
+[submodule "composerize"]
+	path = composerize
+	url = git://github.com/magicmark/composerize
+[submodule "mcollective-docker-agent"]
+	path = mcollective-docker-agent
+	url = git://github.com/m4ce/mcollective-docker-agent
+[submodule "container-factory"]
+	path = container-factory
+	url = git://github.com/lsqio/container-factory
+[submodule "longshoreman"]
+	path = longshoreman
+	url = git://github.com/longshoreman/longshoreman
+[submodule "rocker-compose"]
+	path = rocker-compose
+	url = git://github.com/grammarly/rocker-compose
+[submodule "wharfee"]
+	path = wharfee
+	url = git://github.com/j-bennet/wharfee
+[submodule "inspec"]
+	path = inspec
+	url = git://github.com/chef/inspec
+[submodule "rocker"]
+	path = rocker
+	url = git://github.com/grammarly/rocker
+[submodule "portainer"]
+	path = portainer
+	url = git://github.com/duedil-ltd/portainer
+[submodule "fugu"]
+	path = fugu
+	url = git://github.com/mattes/fugu
+[submodule "docker-ls"]
+	path = docker-ls
+	url = git://github.com/mayflower/docker-ls
+[submodule "muguet"]
+	path = muguet
+	url = git://github.com/mattallty/muguet
+[submodule "platform"]
+	path = platform
+	url = git://github.com/dockunit/platform
+[submodule "docker-swarm-visualizer"]
+	path = docker-swarm-visualizer
+	url = git://github.com/manomarks/docker-swarm-visualizer
+[submodule "docket"]
+	path = docket
+	url = git://github.com/netvarun/docket
+[submodule "docker-companion"]
+	path = docker-companion
+	url = git://github.com/mudler/docker-companion
+[submodule "Docker.DotNet"]
+	path = Docker.DotNet
+	url = git://github.com/Microsoft/Docker.DotNet
+[submodule "docker-gen"]
+	path = docker-gen
+	url = git://github.com/jwilder/docker-gen
+[submodule "Docker-PowerShell"]
+	path = Docker-PowerShell
+	url = git://github.com/Microsoft/Docker-PowerShell
+[submodule "rescoyl"]
+	path = rescoyl
+	url = git://github.com/noteed/rescoyl
+[submodule "docker-compose-demo"]
+	path = docker-compose-demo
+	url = git://github.com/llitfkitfk/docker-compose-demo
+[submodule "atlantis"]
+	path = atlantis
+	url = git://github.com/ooyala/atlantis
+[submodule "dcw"]
+	path = dcw
+	url = git://github.com/pbertera/dcw
+[submodule "Zabbix-Docker-Monitoring"]
+	path = Zabbix-Docker-Monitoring
+	url = git://github.com/monitoringartist/Zabbix-Docker-Monitoring
+[submodule "centurion"]
+	path = centurion
+	url = git://github.com/newrelic/centurion
+[submodule "container-compliance"]
+	path = container-compliance
+	url = git://github.com/OpenSCAP/container-compliance
+[submodule "nvidia-docker"]
+	path = nvidia-docker
+	url = git://github.com/NVIDIA/nvidia-docker
+[submodule "docker-unison"]
+	path = docker-unison
+	url = git://github.com/leighmcculloch/docker-unison
+[submodule "registrator"]
+	path = registrator
+	url = git://github.com/progrium/registrator
+[submodule "crowdr"]
+	path = crowdr
+	url = git://github.com/polonskiy/crowdr
+[submodule "docker-registry-web"]
+	path = docker-registry-web
+	url = git://github.com/mkuchin/docker-registry-web
+[submodule "rapid"]
+	path = rapid
+	url = git://github.com/ozlerhakan/rapid
+[submodule "docker-jumpstart"]
+	path = docker-jumpstart
+	url = git://github.com/odewahn/docker-jumpstart/
+[submodule "autodock"]
+	path = autodock
+	url = git://github.com/prologic/autodock
+[submodule "passenger-docker"]
+	path = passenger-docker
+	url = git://github.com/phusion/passenger-docker
+[submodule "tsaotun"]
+	path = tsaotun
+	url = git://github.com/qazbnm456/tsaotun
+[submodule "awesome-kubernetes"]
+	path = awesome-kubernetes
+	url = git://github.com/ramitsurana/awesome-kubernetes
+[submodule "docker-vm"]
+	path = docker-vm
+	url = git://github.com/shyiko/docker-vm
+[submodule "kontena"]
+	path = kontena
+[submodule "docker-proxy"]
+	path = docker-proxy
+	url = git://github.com/silarsis/docker-proxy
+[submodule "baseimage-docker"]
+	path = baseimage-docker
+	url = git://github.com/phusion/baseimage-docker
+[submodule "functions"]
+	path = functions
+	url = git://github.com/iron-io/functions
+[submodule "clocker"]
+	path = clocker
+	url = git://github.com/brooklyncentral/clocker
+[submodule "rexray"]
+	path = rexray
+	url = git://github.com/codedellemc/rexray
+[submodule "docker-busybox"]
+	path = docker-busybox
+	url = git://github.com/jpetazzo/docker-busybox
+[submodule "rancher"]
+	path = rancher
+	url = git://github.com/rancher/rancher
+[submodule "sherdock"]
+	path = sherdock
+	url = git://github.com/rancher/sherdock
+[submodule "ramitsurana/awesome-kubernetes"]
+	path = ramitsurana/awesome-kubernetes
+	url = https://github.com/ramitsurana/awesome-kubernetes.git
+[submodule "https:/github.com/ramitsurana/awesome-kubernetes/graphs/contributors"]
+	path = https:/github.com/ramitsurana/awesome-kubernetes/graphs/contributors
+	url = https://github.com/sindresorhus/awesome
+[submodule "etcdlabs"]
+	path = etcdlabs
+	url = https://github.com/coreos/etcdlabs.git
