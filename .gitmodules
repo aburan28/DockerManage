@@ -6390,3 +6390,21 @@
 [submodule "etcdlabs"]
 	path = etcdlabs
 	url = https://github.com/coreos/etcdlabs.git
+[submodule "looker-slackbot"]
+	path = looker-slackbot
+	url = https://github.com/docker/looker-slackbot.git
+[submodule "whalesay"]
+	path = whalesay
+	url = https://github.com/docker/whalesay.git
+[submodule "metrics"]
+	path = metrics
+	url = https://github.com/kubernetes/metrics.git
+[submodule "kube-aggregator"]
+	path = kube-aggregator
+	url = https://github.com/kubernetes/kube-aggregator.git
+[submodule "sample-apiserver"]
+	path = sample-apiserver
+	url = https://github.com/kubernetes/sample-apiserver.git
+[submodule "prombench"]
+	path = prombench
+	url = https://github.com/prometheus/prombench.git
