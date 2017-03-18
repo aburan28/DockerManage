@@ -6408,3 +6408,15 @@
 [submodule "prombench"]
 	path = prombench
 	url = https://github.com/prometheus/prombench.git
+[submodule "nomad-dispatch-ffmpeg"]
+	path = nomad-dispatch-ffmpeg
+	url = https://github.com/hashicorp/nomad-dispatch-ffmpeg.git
+[submodule "cf-vault-service-broker"]
+	path = cf-vault-service-broker
+	url = https://github.com/hashicorp/cf-vault-service-broker.git
+[submodule "jsonapi-resources"]
+	path = jsonapi-resources
+	url = https://github.com/hashicorp/jsonapi-resources.git
+[submodule "jsonapi-authorization"]
+	path = jsonapi-authorization
+	url = https://github.com/hashicorp/jsonapi-authorization.git
