@@ -6420,3 +6420,954 @@
 [submodule "jsonapi-authorization"]
 	path = jsonapi-authorization
 	url = https://github.com/hashicorp/jsonapi-authorization.git
+[submodule "https:/github.com/camptocamp/docker-git-puppetmaster,"]
+	path = https:/github.com/camptocamp/docker-git-puppetmaster,
+	url = svn_url:
+[submodule "https:/github.com/camptocamp/docker-gitweb,"]
+	path = https:/github.com/camptocamp/docker-gitweb,
+	url = svn_url:
+[submodule "anthem"]
+	path = anthem
+	url = https://github.com/camptocamp/anthem.git
+[submodule "account-analytic"]
+	path = account-analytic
+	url = https://github.com/camptocamp/account-analytic.git
+[submodule "account-closing"]
+	path = account-closing
+	url = https://github.com/camptocamp/account-closing.git
+[submodule "android-gis"]
+	path = android-gis
+	url = https://github.com/camptocamp/android-gis.git
+[submodule "account-payment"]
+	path = account-payment
+	url = https://github.com/camptocamp/account-payment.git
+[submodule "AIS.py"]
+	path = AIS.py
+	url = https://github.com/camptocamp/AIS.py.git
+[submodule "account-financial-reporting"]
+	path = account-financial-reporting
+	url = https://github.com/camptocamp/account-financial-reporting.git
+[submodule "account-financial-tools"]
+	path = account-financial-tools
+	url = https://github.com/camptocamp/account-financial-tools.git
+[submodule "beaker_spec_helper"]
+	path = beaker_spec_helper
+	url = https://github.com/camptocamp/beaker_spec_helper.git
+[submodule "augeas"]
+	path = augeas
+	url = https://github.com/camptocamp/augeas.git
+[submodule "build-debian-cloud"]
+	path = build-debian-cloud
+	url = https://github.com/camptocamp/build-debian-cloud.git
+[submodule "c2c-addons"]
+	path = c2c-addons
+	url = https://github.com/camptocamp/c2c-addons.git
+[submodule "bank-statement-reconcile"]
+	path = bank-statement-reconcile
+	url = https://github.com/camptocamp/bank-statement-reconcile.git
+[submodule "bank-payment"]
+	path = bank-payment
+	url = https://github.com/camptocamp/bank-payment.git
+[submodule "c2c.recipe.closurecompile"]
+	path = c2c.recipe.closurecompile
+	url = https://github.com/camptocamp/c2c.recipe.closurecompile.git
+[submodule "c2c.recipe.cssmin"]
+	path = c2c.recipe.cssmin
+	url = https://github.com/camptocamp/c2c.recipe.cssmin.git
+[submodule "c2c.recipe.jarfile"]
+	path = c2c.recipe.jarfile
+	url = https://github.com/camptocamp/c2c.recipe.jarfile.git
+[submodule "c2cpyramid"]
+	path = c2cpyramid
+	url = https://github.com/camptocamp/c2cpyramid.git
+[submodule "c2c.recipe.jsconfig"]
+	path = c2c.recipe.jsconfig
+	url = https://github.com/camptocamp/c2c.recipe.jsconfig.git
+[submodule "c2c.recipe.msgfmt"]
+	path = c2c.recipe.msgfmt
+	url = https://github.com/camptocamp/c2c.recipe.msgfmt.git
+[submodule "c2c.template"]
+	path = c2c.template
+	url = https://github.com/camptocamp/c2c.template.git
+[submodule "c2cwsgiutils"]
+	path = c2cwsgiutils
+	url = https://github.com/camptocamp/c2cwsgiutils.git
+[submodule "camptocamp-rancher-catalog"]
+	path = camptocamp-rancher-catalog
+	url = https://github.com/camptocamp/camptocamp-rancher-catalog.git
+[submodule "ceph-rbd-backup"]
+	path = ceph-rbd-backup
+	url = https://github.com/camptocamp/ceph-rbd-backup.git
+[submodule "chroot2vm"]
+	path = chroot2vm
+	url = https://github.com/camptocamp/chroot2vm.git
+[submodule "clj-aws"]
+	path = clj-aws
+	url = https://github.com/camptocamp/clj-aws.git
+[submodule "c2c-rd-addons"]
+	path = c2c-rd-addons
+	url = https://github.com/camptocamp/c2c-rd-addons.git
+[submodule "carrier-delivery"]
+	path = carrier-delivery
+	url = https://github.com/camptocamp/carrier-delivery.git
+[submodule "closure-util"]
+	path = closure-util
+	url = https://github.com/camptocamp/closure-util.git
+[submodule "collective.eggproxy"]
+	path = collective.eggproxy
+	url = https://github.com/camptocamp/collective.eggproxy.git
+[submodule "collective.recipe.modwsgi"]
+	path = collective.recipe.modwsgi
+	url = https://github.com/camptocamp/collective.recipe.modwsgi.git
+[submodule "connector-ecommerce"]
+	path = connector-ecommerce
+	url = https://github.com/camptocamp/connector-ecommerce.git
+[submodule "connector-file"]
+	path = connector-file
+	url = https://github.com/camptocamp/connector-file.git
+[submodule "cgxp"]
+	path = cgxp
+	url = https://github.com/camptocamp/cgxp.git
+[submodule "connector-jira"]
+	path = connector-jira
+	url = https://github.com/camptocamp/connector-jira.git
+[submodule "contuner"]
+	path = contuner
+	url = https://github.com/camptocamp/contuner.git
+[submodule "conplicity"]
+	path = conplicity
+	url = https://github.com/camptocamp/conplicity.git
+[submodule "crm"]
+	path = crm
+	url = https://github.com/camptocamp/crm.git
+[submodule "connector-prestashop"]
+	path = connector-prestashop
+	url = https://github.com/camptocamp/connector-prestashop.git
+[submodule "department"]
+	path = department
+	url = https://github.com/camptocamp/department.git
+[submodule "docker-activemq-mcollective"]
+	path = docker-activemq-mcollective
+	url = https://github.com/camptocamp/docker-activemq-mcollective.git
+[submodule "docker-auth-apache-ldap-conf"]
+	path = docker-auth-apache-ldap-conf
+	url = https://github.com/camptocamp/docker-auth-apache-ldap-conf.git
+[submodule "docker-aws-scheduled-maintenance"]
+	path = docker-aws-scheduled-maintenance
+	url = https://github.com/camptocamp/docker-aws-scheduled-maintenance.git
+[submodule "deploy"]
+	path = deploy
+	url = https://github.com/camptocamp/deploy.git
+[submodule "docker-cgit"]
+	path = docker-cgit
+	url = https://github.com/camptocamp/docker-cgit.git
+[submodule "docker-cleanup"]
+	path = docker-cleanup
+	url = https://github.com/camptocamp/docker-cleanup.git
+[submodule "connector"]
+	path = connector
+	url = https://github.com/camptocamp/connector.git
+[submodule "docker-collectd-varnish"]
+	path = docker-collectd-varnish
+[submodule "docker-collectd"]
+	path = docker-collectd
+	url = https://github.com/camptocamp/docker-collectd.git
+[submodule "docker-consul-demo"]
+	path = docker-consul-demo
+	url = https://github.com/camptocamp/docker-consul-demo.git
+[submodule "docker-cron"]
+	path = docker-cron
+	url = https://github.com/camptocamp/docker-cron.git
+[submodule "docker-duplicity"]
+	path = docker-duplicity
+[submodule "docker-docker_auth-conf"]
+	path = docker-docker_auth-conf
+	url = https://github.com/camptocamp/docker-docker_auth-conf.git
+[submodule "docker-exim"]
+	path = docker-exim
+	url = https://github.com/camptocamp/docker-exim.git
+[submodule "docker-geoserver"]
+	path = docker-geoserver
+	url = https://github.com/camptocamp/docker-geoserver.git
+[submodule "docker-git"]
+	path = docker-git
+	url = https://github.com/camptocamp/docker-git.git
+[submodule "docker-gitweb"]
+	path = docker-gitweb
+	url = https://github.com/camptocamp/docker-gitweb.git
+[submodule "docker-gogs-conf"]
+	path = docker-gogs-conf
+	url = https://github.com/camptocamp/docker-gogs-conf.git
+[submodule "docker-haproxy_exporter"]
+	path = docker-haproxy_exporter
+	url = https://github.com/camptocamp/docker-haproxy_exporter.git
+[submodule "docker-haproxy-consul"]
+	path = docker-haproxy-consul
+	url = https://github.com/camptocamp/docker-haproxy-consul.git
+[submodule "docker-haproxy-luasec"]
+	path = docker-haproxy-luasec
+	url = https://github.com/camptocamp/docker-haproxy-luasec.git
+[submodule "docker-https-redirect"]
+	path = docker-https-redirect
+	url = https://github.com/camptocamp/docker-https-redirect.git
+[submodule "docker-ii"]
+	path = docker-ii
+	url = https://github.com/camptocamp/docker-ii.git
+[submodule "docker-jenkins-conf"]
+	path = docker-jenkins-conf
+	url = https://github.com/camptocamp/docker-jenkins-conf.git
+[submodule "docker-irc-webhook"]
+	path = docker-irc-webhook
+	url = https://github.com/camptocamp/docker-irc-webhook.git
+[submodule "docker-mapcache"]
+	path = docker-mapcache
+	url = https://github.com/camptocamp/docker-mapcache.git
+[submodule "docker-mapserver"]
+	path = docker-mapserver
+	url = https://github.com/camptocamp/docker-mapserver.git
+[submodule "docker-mco"]
+	path = docker-mco
+	url = https://github.com/camptocamp/docker-mco.git
+[submodule "docker-mcollectived"]
+	path = docker-mcollectived
+	url = https://github.com/camptocamp/docker-mcollectived.git
+[submodule "docker-mcollectived-node"]
+	path = docker-mcollectived-node
+	url = https://github.com/camptocamp/docker-mcollectived-node.git
+[submodule "docker-mcollectived-puppetca"]
+	path = docker-mcollectived-puppetca
+	url = https://github.com/camptocamp/docker-mcollectived-puppetca.git
+[submodule "docker-nginx-extras"]
+	path = docker-nginx-extras
+	url = https://github.com/camptocamp/docker-nginx-extras.git
+[submodule "docker-nginx-rproxy-auth"]
+	path = docker-nginx-rproxy-auth
+	url = https://github.com/camptocamp/docker-nginx-rproxy-auth.git
+[submodule "docker-node-collectd"]
+	path = docker-node-collectd
+	url = https://github.com/camptocamp/docker-node-collectd.git
+[submodule "docker-odoo-nginx"]
+	path = docker-odoo-nginx
+	url = https://github.com/camptocamp/docker-odoo-nginx.git
+[submodule "docker-openvas-gsa"]
+	path = docker-openvas-gsa
+	url = https://github.com/camptocamp/docker-openvas-gsa.git
+[submodule "docker-odoo-project"]
+	path = docker-odoo-project
+	url = https://github.com/camptocamp/docker-odoo-project.git
+[submodule "docker-openvas-manager"]
+	path = docker-openvas-manager
+	url = https://github.com/camptocamp/docker-openvas-manager.git
+[submodule "docker-openvas-scanner"]
+	path = docker-openvas-scanner
+	url = https://github.com/camptocamp/docker-openvas-scanner.git
+[submodule "docker-pgbackup"]
+	path = docker-pgbackup
+	url = https://github.com/camptocamp/docker-pgbackup.git
+[submodule "docker-pgbouncer-conf"]
+	path = docker-pgbouncer-conf
+	url = https://github.com/camptocamp/docker-pgbouncer-conf.git
+[submodule "docker-pgbouncer"]
+	path = docker-pgbouncer
+	url = https://github.com/camptocamp/docker-pgbouncer.git
+[submodule "docker-pghoard"]
+	path = docker-pghoard
+	url = https://github.com/camptocamp/docker-pghoard.git
+[submodule "docker-pghoard-restore"]
+	path = docker-pghoard-restore
+	url = https://github.com/camptocamp/docker-pghoard-restore.git
+[submodule "docker-pkgbuilder"]
+	path = docker-pkgbuilder
+	url = https://github.com/camptocamp/docker-pkgbuilder.git
+[submodule "docker-postgis"]
+	path = docker-postgis
+	url = https://github.com/camptocamp/docker-postgis.git
+[submodule "docker-postgres-bootstrap"]
+	path = docker-postgres-bootstrap
+	url = https://github.com/camptocamp/docker-postgres-bootstrap.git
+[submodule "docker-postgres-cluster-conf"]
+	path = docker-postgres-cluster-conf
+	url = https://github.com/camptocamp/docker-postgres-cluster-conf.git
+[submodule "docker-postgres"]
+	path = docker-postgres
+	url = https://github.com/camptocamp/docker-postgres.git
+[submodule "cartoweb3"]
+	path = cartoweb3
+	url = https://github.com/camptocamp/cartoweb3.git
+[submodule "demo_geomapfish"]
+	path = demo_geomapfish
+	url = https://github.com/camptocamp/demo_geomapfish.git
+[submodule "c2cgeoportal"]
+	path = c2cgeoportal
+	url = https://github.com/camptocamp/c2cgeoportal.git
+[submodule "cesium"]
+	path = cesium
+	url = https://github.com/camptocamp/cesium.git
+[submodule "docker-prometheus-server"]
+	path = docker-prometheus-server
+	url = https://github.com/camptocamp/docker-prometheus-server.git
+[submodule "docker-puppet-catalog-diff-viewer"]
+	path = docker-puppet-catalog-diff-viewer
+	url = https://github.com/camptocamp/docker-puppet-catalog-diff-viewer.git
+[submodule "docker-puppet-agent"]
+	path = docker-puppet-agent
+	url = https://github.com/camptocamp/docker-puppet-agent.git
+[submodule "docker-puppet-catalog-diff"]
+	path = docker-puppet-catalog-diff
+	url = https://github.com/camptocamp/docker-puppet-catalog-diff.git
+[submodule "docker-prometheus-rancher-metadata-conf"]
+	path = docker-prometheus-rancher-metadata-conf
+	url = https://github.com/camptocamp/docker-prometheus-rancher-metadata-conf.git
+[submodule "docker-puppetboard"]
+	path = docker-puppetboard
+	url = https://github.com/camptocamp/docker-puppetboard.git
+[submodule "docker-puppet-ghostbuster-webhook"]
+	path = docker-puppet-ghostbuster-webhook
+	url = https://github.com/camptocamp/docker-puppet-ghostbuster-webhook.git
+[submodule "docker-puppetdb"]
+	path = docker-puppetdb
+	url = https://github.com/camptocamp/docker-puppetdb.git
+[submodule "docker-r10k-githook"]
+	path = docker-r10k-githook
+	url = https://github.com/camptocamp/docker-r10k-githook.git
+[submodule "docker-puppetserver"]
+	path = docker-puppetserver
+	url = https://github.com/camptocamp/docker-puppetserver.git
+[submodule "docker-r10k-webhook"]
+	path = docker-r10k-webhook
+	url = https://github.com/camptocamp/docker-r10k-webhook.git
+[submodule "docker-rclone"]
+	path = docker-rclone
+	url = https://github.com/camptocamp/docker-rclone.git
+[submodule "docker-redis-openvas-conf"]
+	path = docker-redis-openvas-conf
+	url = https://github.com/camptocamp/docker-redis-openvas-conf.git
+[submodule "docker-registry-conf"]
+	path = docker-registry-conf
+	url = https://github.com/camptocamp/docker-registry-conf.git
+[submodule "docker-rsyslog-agent-conf"]
+	path = docker-rsyslog-agent-conf
+	url = https://github.com/camptocamp/docker-rsyslog-agent-conf.git
+[submodule "docker-rsyslog-dispatcher-conf"]
+	path = docker-rsyslog-dispatcher-conf
+	url = https://github.com/camptocamp/docker-rsyslog-dispatcher-conf.git
+[submodule "docker-rancher-metadata"]
+	path = docker-rancher-metadata
+	url = https://github.com/camptocamp/docker-rancher-metadata.git
+[submodule "docker-sftp"]
+	path = docker-sftp
+	url = https://github.com/camptocamp/docker-sftp.git
+[submodule "docker_smtp"]
+	path = docker_smtp
+	url = https://github.com/camptocamp/docker_smtp.git
+[submodule "docker-sshd-shell"]
+	path = docker-sshd-shell
+	url = https://github.com/camptocamp/docker-sshd-shell.git
+[submodule "docker-swift"]
+	path = docker-swift
+	url = https://github.com/camptocamp/docker-swift.git
+[submodule "docker-tomcat-logback"]
+	path = docker-tomcat-logback
+[submodule "docker-unattended-upgrades"]
+	path = docker-unattended-upgrades
+	url = https://github.com/camptocamp/docker-unattended-upgrades.git
+[submodule "duration"]
+	path = duration
+	url = https://github.com/camptocamp/duration.git
+[submodule "docker_volume_info"]
+	path = docker_volume_info
+	url = https://github.com/camptocamp/docker_volume_info.git
+[submodule "facterdb"]
+	path = facterdb
+	url = https://github.com/camptocamp/facterdb.git
+[submodule "geoext"]
+	path = geoext
+	url = https://github.com/camptocamp/geoext.git
+[submodule "formalchemy"]
+	path = formalchemy
+	url = https://github.com/camptocamp/formalchemy.git
+[submodule "fa.jquery"]
+	path = fa.jquery
+	url = https://github.com/camptocamp/fa.jquery.git
+[submodule "GeoFormAlchemy"]
+	path = GeoFormAlchemy
+	url = https://github.com/camptocamp/GeoFormAlchemy.git
+[submodule "geonode-nginx-docker"]
+	path = geonode-nginx-docker
+	url = https://github.com/camptocamp/geonode-nginx-docker.git
+[submodule "gh-create-issues"]
+	path = gh-create-issues
+	url = https://github.com/camptocamp/gh-create-issues.git
+[submodule "github-backup"]
+	path = github-backup
+	url = https://github.com/camptocamp/github-backup.git
+[submodule "GeoBI"]
+	path = GeoBI
+	url = https://github.com/camptocamp/GeoBI.git
+[submodule "github"]
+	path = github
+	url = https://github.com/camptocamp/github.git
+[submodule "github_pki"]
+	path = github_pki
+	url = https://github.com/camptocamp/github_pki.git
+[submodule "geospatial"]
+	path = geospatial
+	url = https://github.com/camptocamp/geospatial.git
+[submodule "github-repositories-dashboard"]
+	path = github-repositories-dashboard
+	url = https://github.com/camptocamp/github-repositories-dashboard.git
+[submodule "git-subtree"]
+	path = git-subtree
+	url = https://github.com/camptocamp/git-subtree.git
+[submodule "gogs-irc-webhook"]
+	path = gogs-irc-webhook
+	url = https://github.com/camptocamp/gogs-irc-webhook.git
+[submodule "gmf_poc"]
+	path = gmf_poc
+	url = https://github.com/camptocamp/gmf_poc.git
+[submodule "hr"]
+	path = hr
+	url = https://github.com/camptocamp/hr.git
+[submodule "gxp"]
+	path = gxp
+	url = https://github.com/camptocamp/gxp.git
+[submodule "jenkins-file-test-openshift"]
+	path = jenkins-file-test-openshift
+	url = https://github.com/camptocamp/jenkins-file-test-openshift.git
+[submodule "jenkins_test"]
+	path = jenkins_test
+	url = https://github.com/camptocamp/jenkins_test.git
+[submodule "jobber-cron"]
+	path = jobber-cron
+	url = https://github.com/camptocamp/jobber-cron.git
+[submodule "kafka-connect-elasticsearch"]
+	path = kafka-connect-elasticsearch
+	url = https://github.com/camptocamp/kafka-connect-elasticsearch.git
+[submodule "l10n-belgium"]
+	path = l10n-belgium
+	url = https://github.com/camptocamp/l10n-belgium.git
+[submodule "jstools"]
+	path = jstools
+	url = https://github.com/camptocamp/jstools.git
+[submodule "libvmod-awsrest"]
+	path = libvmod-awsrest
+	url = https://github.com/camptocamp/libvmod-awsrest.git
+[submodule "linkeddata-trifid"]
+	path = linkeddata-trifid
+	url = https://github.com/camptocamp/linkeddata-trifid.git
+[submodule "l10n-switzerland"]
+	path = l10n-switzerland
+[submodule "ldproxy"]
+	path = ldproxy
+	url = https://github.com/camptocamp/ldproxy.git
+[submodule "luxembourg_print"]
+	path = luxembourg_print
+	url = https://github.com/camptocamp/luxembourg_print.git
+[submodule "marabunta"]
+	path = marabunta
+	url = https://github.com/camptocamp/marabunta.git
+[submodule "mcollective-puppetdb-discovery"]
+	path = mcollective-puppetdb-discovery
+	url = https://github.com/camptocamp/mcollective-puppetdb-discovery.git
+[submodule "mco-openstack-backup"]
+	path = mco-openstack-backup
+	url = https://github.com/camptocamp/mco-openstack-backup.git
+[submodule "maps-lib-nutiteq"]
+	path = maps-lib-nutiteq
+	url = https://github.com/camptocamp/maps-lib-nutiteq.git
+[submodule "nagios-plugins-cloudformation"]
+	path = nagios-plugins-cloudformation
+	url = https://github.com/camptocamp/nagios-plugins-cloudformation.git
+[submodule "nagios-plugins-ebs"]
+	path = nagios-plugins-ebs
+	url = https://github.com/camptocamp/nagios-plugins-ebs.git
+[submodule "ms_perfs"]
+	path = ms_perfs
+	url = https://github.com/camptocamp/ms_perfs.git
+[submodule "nagios-plugins-elasticsearch"]
+	path = nagios-plugins-elasticsearch
+	url = https://github.com/camptocamp/nagios-plugins-elasticsearch.git
+[submodule "nagios-plugins-elb"]
+	path = nagios-plugins-elb
+	url = https://github.com/camptocamp/nagios-plugins-elb.git
+[submodule "nagios-plugins-freeipa"]
+	path = nagios-plugins-freeipa
+	url = https://github.com/camptocamp/nagios-plugins-freeipa.git
+[submodule "nagios-plugins-s3-backup"]
+	path = nagios-plugins-s3-backup
+	url = https://github.com/camptocamp/nagios-plugins-s3-backup.git
+[submodule "nagios-plugins-rabbitmq"]
+	path = nagios-plugins-rabbitmq
+	url = https://github.com/camptocamp/nagios-plugins-rabbitmq.git
+[submodule "nagios-plugins-s3sync"]
+	path = nagios-plugins-s3sync
+	url = https://github.com/camptocamp/nagios-plugins-s3sync.git
+[submodule "ngo-purchase-workflow"]
+	path = ngo-purchase-workflow
+	url = https://github.com/camptocamp/ngo-purchase-workflow.git
+[submodule "odoo-elasticsearch-kibana"]
+	path = odoo-elasticsearch-kibana
+	url = https://github.com/camptocamp/odoo-elasticsearch-kibana.git
+[submodule "docker-prometheus-auth-conf"]
+	path = docker-prometheus-auth-conf
+	url = https://github.com/camptocamp/docker-prometheus-auth-conf.git
+[submodule "docker-r10k"]
+	path = docker-r10k
+	url = https://github.com/camptocamp/docker-r10k.git
+[submodule "docker-puppet"]
+	path = docker-puppet
+	url = https://github.com/camptocamp/docker-puppet.git
+[submodule "docker-statsd-collectd"]
+	path = docker-statsd-collectd
+	url = https://github.com/camptocamp/docker-statsd-collectd.git
+[submodule "iso19115-3"]
+	path = iso19115-3
+	url = https://github.com/camptocamp/iso19115-3.git
+[submodule "manufacture"]
+	path = manufacture
+	url = https://github.com/camptocamp/manufacture.git
+[submodule "nagios-plugins-securitygroups"]
+	path = nagios-plugins-securitygroups
+	url = https://github.com/camptocamp/nagios-plugins-securitygroups.git
+[submodule "igngeotools"]
+	path = igngeotools
+	url = https://github.com/camptocamp/igngeotools.git
+[submodule "geonode-geoserver-docker"]
+	path = geonode-geoserver-docker
+	url = https://github.com/camptocamp/geonode-geoserver-docker.git
+[submodule "labs_geonode"]
+	path = labs_geonode
+	url = https://github.com/camptocamp/labs_geonode.git
+[submodule "igngeoserver"]
+	path = igngeoserver
+	url = https://github.com/camptocamp/igngeoserver.git
+[submodule "ngeo"]
+	path = ngeo
+	url = https://github.com/camptocamp/ngeo.git
+[submodule "georchestra"]
+	path = georchestra
+	url = https://github.com/camptocamp/georchestra.git
+[submodule "ngo-addons-backport"]
+	path = ngo-addons-backport
+	url = https://github.com/camptocamp/ngo-addons-backport.git
+[submodule "elasticsearch-rpms"]
+	path = elasticsearch-rpms
+	url = https://github.com/camptocamp/elasticsearch-rpms.git
+[submodule "odoo"]
+	path = odoo
+	url = https://github.com/camptocamp/odoo.git
+[submodule "openlayers-webgl-integration"]
+	path = openlayers-webgl-integration
+	url = https://github.com/camptocamp/openlayers-webgl-integration.git
+[submodule "ooor_finders"]
+	path = ooor_finders
+	url = https://github.com/camptocamp/ooor_finders.git
+[submodule "opennebula-puppet-module"]
+	path = opennebula-puppet-module
+	url = https://github.com/camptocamp/opennebula-puppet-module.git
+[submodule "oerpscenario"]
+	path = oerpscenario
+	url = https://github.com/camptocamp/oerpscenario.git
+[submodule "osrm-ele-debian"]
+	path = osrm-ele-debian
+	url = https://github.com/camptocamp/osrm-ele-debian.git
+[submodule "operating-unit"]
+	path = operating-unit
+	url = https://github.com/camptocamp/operating-unit.git
+[submodule "PapyrusSample"]
+	path = PapyrusSample
+	url = https://github.com/camptocamp/PapyrusSample.git
+[submodule "openlayers"]
+	path = openlayers
+	url = https://github.com/camptocamp/openlayers.git
+[submodule "partner-contact"]
+	path = partner-contact
+	url = https://github.com/camptocamp/partner-contact.git
+[submodule "pgcheck"]
+	path = pgcheck
+	url = https://github.com/camptocamp/pgcheck.git
+[submodule "Pillow"]
+	path = Pillow
+	url = https://github.com/camptocamp/Pillow.git
+[submodule "ol3-cesium"]
+	path = ol3-cesium
+	url = https://github.com/camptocamp/ol3-cesium.git
+[submodule "pos"]
+	path = pos
+	url = https://github.com/camptocamp/pos.git
+[submodule "product-variant"]
+	path = product-variant
+	url = https://github.com/camptocamp/product-variant.git
+[submodule "product-attribute"]
+	path = product-attribute
+	url = https://github.com/camptocamp/product-attribute.git
+[submodule "prometheus-docker-rancher"]
+	path = prometheus-docker-rancher
+	url = https://github.com/camptocamp/prometheus-docker-rancher.git
+[submodule "prometheus-puppetdb"]
+	path = prometheus-puppetdb
+	url = https://github.com/camptocamp/prometheus-puppetdb.git
+[submodule "project"]
+	path = project
+	url = https://github.com/camptocamp/project.git
+[submodule "openstack-quantum-puppet"]
+	path = openstack-quantum-puppet
+	url = https://github.com/camptocamp/openstack-quantum-puppet.git
+[submodule "provelobern_bicyclerouteplanner"]
+	path = provelobern_bicyclerouteplanner
+	url = https://github.com/camptocamp/provelobern_bicyclerouteplanner.git
+[submodule "puppet-accounts"]
+	path = puppet-accounts
+	url = https://github.com/camptocamp/puppet-accounts.git
+[submodule "puppet-administration"]
+	path = puppet-administration
+	url = https://github.com/camptocamp/puppet-administration.git
+[submodule "puppet-augeas_file"]
+	path = puppet-augeas_file
+	url = https://github.com/camptocamp/puppet-augeas_file.git
+[submodule "puppet-apache_c2c"]
+	path = puppet-apache_c2c
+	url = https://github.com/camptocamp/puppet-apache_c2c.git
+[submodule "puppet-augeas"]
+	path = puppet-augeas
+	url = https://github.com/camptocamp/puppet-augeas.git
+[submodule "puppet-aws"]
+	path = puppet-aws
+	url = https://github.com/camptocamp/puppet-aws.git
+[submodule "puppet-backup"]
+	path = puppet-backup
+	url = https://github.com/camptocamp/puppet-backup.git
+[submodule "puppet-bazaar"]
+	path = puppet-bazaar
+	url = https://github.com/camptocamp/puppet-bazaar.git
+[submodule "puppet-buildenv"]
+	path = puppet-buildenv
+	url = https://github.com/camptocamp/puppet-buildenv.git
+[submodule "puppet-cartoweb3"]
+	path = puppet-cartoweb3
+	url = https://github.com/camptocamp/puppet-cartoweb3.git
+[submodule "puppet-catalog-diff-viewer"]
+	path = puppet-catalog-diff-viewer
+	url = https://github.com/camptocamp/puppet-catalog-diff-viewer.git
+[submodule "puppet-container_providers"]
+	path = puppet-container_providers
+	url = https://github.com/camptocamp/puppet-container_providers.git
+[submodule "puppet-dell"]
+	path = puppet-dell
+	url = https://github.com/camptocamp/puppet-dell.git
+[submodule "puppet-deploy"]
+	path = puppet-deploy
+	url = https://github.com/camptocamp/puppet-deploy.git
+[submodule "puppet-dhcp"]
+	path = puppet-dhcp
+	url = https://github.com/camptocamp/puppet-dhcp.git
+[submodule "puppet-drbd"]
+	path = puppet-drbd
+	url = https://github.com/camptocamp/puppet-drbd.git
+[submodule "puppet-ecosystem-dashboard"]
+	path = puppet-ecosystem-dashboard
+	url = https://github.com/camptocamp/puppet-ecosystem-dashboard.git
+[submodule "puppet-dovecot"]
+	path = puppet-dovecot
+	url = https://github.com/camptocamp/puppet-dovecot.git
+[submodule "puppet-firewall_c2c"]
+	path = puppet-firewall_c2c
+	url = https://github.com/camptocamp/puppet-firewall_c2c.git
+[submodule "puppet-fonts"]
+	path = puppet-fonts
+	url = https://github.com/camptocamp/puppet-fonts.git
+[submodule "puppet-freepbx"]
+	path = puppet-freepbx
+	url = https://github.com/camptocamp/puppet-freepbx.git
+[submodule "ol3"]
+	path = ol3
+[submodule "puppet-geoserver"]
+	path = puppet-geoserver
+	url = https://github.com/camptocamp/puppet-geoserver.git
+[submodule "puppet-ghostbuster"]
+	path = puppet-ghostbuster
+	url = https://github.com/camptocamp/puppet-ghostbuster.git
+[submodule "puppet-gnome"]
+	path = puppet-gnome
+	url = https://github.com/camptocamp/puppet-gnome.git
+[submodule "puppet-hiera-undef"]
+	path = puppet-hiera-undef
+	url = https://github.com/camptocamp/puppet-hiera-undef.git
+[submodule "puppet-iptables"]
+	path = puppet-iptables
+	url = https://github.com/camptocamp/puppet-iptables.git
+[submodule "puppet-icinga2"]
+	path = puppet-icinga2
+	url = https://github.com/camptocamp/puppet-icinga2.git
+[submodule "puppet-kmod"]
+	path = puppet-kmod
+	url = https://github.com/camptocamp/puppet-kmod.git
+[submodule "puppet-kibana"]
+	path = puppet-kibana
+	url = https://github.com/camptocamp/puppet-kibana.git
+[submodule "puppet-lint-empty_string-check"]
+	path = puppet-lint-empty_string-check
+	url = https://github.com/camptocamp/puppet-lint-empty_string-check.git
+[submodule "puppet-lint-ec2_facts-check"]
+	path = puppet-lint-ec2_facts-check
+[submodule "puppet-lint-file_ensure-check"]
+	path = puppet-lint-file_ensure-check
+	url = https://github.com/camptocamp/puppet-lint-file_ensure-check.git
+[submodule "puppet-lint-fileserver-check"]
+	path = puppet-lint-fileserver-check
+	url = https://github.com/camptocamp/puppet-lint-fileserver-check.git
+[submodule "puppet-lint-file_source_rights-check"]
+	path = puppet-lint-file_source_rights-check
+	url = https://github.com/camptocamp/puppet-lint-file_source_rights-check.git
+[submodule "puppet-lint-leading_zero-check"]
+	path = puppet-lint-leading_zero-check
+	url = https://github.com/camptocamp/puppet-lint-leading_zero-check.git
+[submodule "puppet-lint-spaceship_operator_without_tag-check"]
+	path = puppet-lint-spaceship_operator_without_tag-check
+	url = https://github.com/camptocamp/puppet-lint-spaceship_operator_without_tag-check.git
+[submodule "puppet-lint-undef_in_function-check"]
+	path = puppet-lint-undef_in_function-check
+	url = https://github.com/camptocamp/puppet-lint-undef_in_function-check.git
+[submodule "puppet-lint-trailing_comma-check"]
+	path = puppet-lint-trailing_comma-check
+	url = https://github.com/camptocamp/puppet-lint-trailing_comma-check.git
+[submodule "puppet-mdadm"]
+	path = puppet-mdadm
+	url = https://github.com/camptocamp/puppet-mdadm.git
+[submodule "puppet-modules"]
+	path = puppet-modules
+[submodule "puppet-motd"]
+	path = puppet-motd
+[submodule "puppet-mapserver"]
+	path = puppet-mapserver
+	url = https://github.com/camptocamp/puppet-mapserver.git
+[submodule "puppet-mount_providers"]
+	path = puppet-mount_providers
+	url = https://github.com/camptocamp/puppet-mount_providers.git
+[submodule "puppet-nagios"]
+	path = puppet-nagios
+	url = https://github.com/camptocamp/puppet-nagios.git
+[submodule "puppet-networkmanager"]
+	path = puppet-networkmanager
+	url = https://github.com/camptocamp/puppet-networkmanager.git
+[submodule "puppet-nfs"]
+	path = puppet-nfs
+	url = https://github.com/camptocamp/puppet-nfs.git
+[submodule "puppet-openerp"]
+	path = puppet-openerp
+	url = https://github.com/camptocamp/puppet-openerp.git
+[submodule "puppet-openldap"]
+	path = puppet-openldap
+	url = https://github.com/camptocamp/puppet-openldap.git
+[submodule "puppet-openvz"]
+	path = puppet-openvz
+	url = https://github.com/camptocamp/puppet-openvz.git
+[submodule "puppet-os"]
+	path = puppet-os
+	url = https://github.com/camptocamp/puppet-os.git
+[submodule "puppet-osrm"]
+	path = puppet-osrm
+	url = https://github.com/camptocamp/puppet-osrm.git
+[submodule "puppet-pacemaker"]
+	path = puppet-pacemaker
+[submodule "puppet-pbuilder"]
+	path = puppet-pbuilder
+	url = https://github.com/camptocamp/puppet-pbuilder.git
+[submodule "puppet-policy"]
+	path = puppet-policy
+	url = https://github.com/camptocamp/puppet-policy.git
+[submodule "puppet-postfix"]
+	path = puppet-postfix
+	url = https://github.com/camptocamp/puppet-postfix.git
+[submodule "puppet-public_ipaddress"]
+	path = puppet-public_ipaddress
+	url = https://github.com/camptocamp/puppet-public_ipaddress.git
+[submodule "puppetdb-dashapi"]
+	path = puppetdb-dashapi
+	url = https://github.com/camptocamp/puppetdb-dashapi.git
+[submodule "puppet-postgis"]
+	path = puppet-postgis
+	url = https://github.com/camptocamp/puppet-postgis.git
+[submodule "puppetfile-updater"]
+	path = puppetfile-updater
+	url = https://github.com/camptocamp/puppetfile-updater.git
+[submodule "puppetboard"]
+	path = puppetboard
+	url = https://github.com/camptocamp/puppetboard.git
+[submodule "puppet-rancher-providers"]
+	path = puppet-rancher-providers
+	url = https://github.com/camptocamp/puppet-rancher-providers.git
+[submodule "puppet-rbenv"]
+	path = puppet-rbenv
+	url = https://github.com/camptocamp/puppet-rbenv.git
+[submodule "puppet-rsyncd"]
+	path = puppet-rsyncd
+	url = https://github.com/camptocamp/puppet-rsyncd.git
+[submodule "puppet-rsyslogv8"]
+	path = puppet-rsyslogv8
+	url = https://github.com/camptocamp/puppet-rsyslogv8.git
+[submodule "puppet-samba"]
+	path = puppet-samba
+	url = https://github.com/camptocamp/puppet-samba.git
+[submodule "puppet-shibboleth"]
+	path = puppet-shibboleth
+	url = https://github.com/camptocamp/puppet-shibboleth.git
+[submodule "puppet-selinux"]
+	path = puppet-selinux
+	url = https://github.com/camptocamp/puppet-selinux.git
+[submodule "puppet_standalone_installer_builder"]
+	path = puppet_standalone_installer_builder
+	url = https://github.com/camptocamp/puppet_standalone_installer_builder.git
+[submodule "puppet-syslog-ng"]
+	path = puppet-syslog-ng
+	url = https://github.com/camptocamp/puppet-syslog-ng.git
+[submodule "puppet-subversion"]
+	path = puppet-subversion
+	url = https://github.com/camptocamp/puppet-subversion.git
+[submodule "puppet-systemd"]
+	path = puppet-systemd
+	url = https://github.com/camptocamp/puppet-systemd.git
+[submodule "puppet-tdd-book"]
+	path = puppet-tdd-book
+	url = https://github.com/camptocamp/puppet-tdd-book.git
+[submodule "puppet-sudo"]
+	path = puppet-sudo
+	url = https://github.com/camptocamp/puppet-sudo.git
+[submodule "puppet-tilecache"]
+	path = puppet-tilecache
+	url = https://github.com/camptocamp/puppet-tilecache.git
+[submodule "puppet-varnishkafka"]
+	path = puppet-varnishkafka
+	url = https://github.com/camptocamp/puppet-varnishkafka.git
+[submodule "puppet-tomcat"]
+	path = puppet-tomcat
+	url = https://github.com/camptocamp/puppet-tomcat.git
+[submodule "pytest-odoo"]
+	path = pytest-odoo
+	url = https://github.com/camptocamp/pytest-odoo.git
+[submodule "pyramid_formalchemy"]
+	path = pyramid_formalchemy
+	url = https://github.com/camptocamp/pyramid_formalchemy.git
+[submodule "purchase-workflow"]
+	path = purchase-workflow
+	url = https://github.com/camptocamp/purchase-workflow.git
+[submodule "qgis_easysearch"]
+	path = qgis_easysearch
+	url = https://github.com/camptocamp/qgis_easysearch.git
+[submodule "rancher-aws"]
+	path = rancher-aws
+	url = https://github.com/camptocamp/rancher-aws.git
+[submodule "rancher-elasticserchkibana5"]
+	path = rancher-elasticserchkibana5
+	url = https://github.com/camptocamp/rancher-elasticserchkibana5.git
+[submodule "rancher-template-aws-prometheus"]
+	path = rancher-template-aws-prometheus
+	url = https://github.com/camptocamp/rancher-template-aws-prometheus.git
+[submodule "rancher-template-conplicity"]
+	path = rancher-template-conplicity
+	url = https://github.com/camptocamp/rancher-template-conplicity.git
+[submodule "rancher-template-pgbouncer"]
+	path = rancher-template-pgbouncer
+	url = https://github.com/camptocamp/rancher-template-pgbouncer.git
+[submodule "rancher-template-prometheus-puppetdb"]
+	path = rancher-template-prometheus-puppetdb
+	url = https://github.com/camptocamp/rancher-template-prometheus-puppetdb.git
+[submodule "rancher-template-jenkins"]
+	path = rancher-template-jenkins
+	url = https://github.com/camptocamp/rancher-template-jenkins.git
+[submodule "rancher-template-registry"]
+	path = rancher-template-registry
+	url = https://github.com/camptocamp/rancher-template-registry.git
+[submodule "rancher-template-upkick"]
+	path = rancher-template-upkick
+	url = https://github.com/camptocamp/rancher-template-upkick.git
+[submodule "rdiff-backup-multiversion"]
+	path = rdiff-backup-multiversion
+	url = https://github.com/camptocamp/rdiff-backup-multiversion.git
+[submodule "riemann-ocsp"]
+	path = riemann-ocsp
+	url = https://github.com/camptocamp/riemann-ocsp.git
+[submodule "repoze.who.plugins.tequila"]
+	path = repoze.who.plugins.tequila
+	url = https://github.com/camptocamp/repoze.who.plugins.tequila.git
+[submodule "reporting-engine"]
+	path = reporting-engine
+	url = https://github.com/camptocamp/reporting-engine.git
+[submodule "rma"]
+	path = rma
+	url = https://github.com/camptocamp/rma.git
+[submodule "stack-es2k4"]
+	path = stack-es2k4
+	url = https://github.com/camptocamp/stack-es2k4.git
+[submodule "stack-metrics"]
+	path = stack-metrics
+	url = https://github.com/camptocamp/stack-metrics.git
+[submodule "stock-logistics-warehouse"]
+	path = stock-logistics-warehouse
+	url = https://github.com/camptocamp/stock-logistics-warehouse.git
+[submodule "sun-java6"]
+	path = sun-java6
+	url = https://github.com/camptocamp/sun-java6.git
+[submodule "Studio"]
+	path = Studio
+	url = https://github.com/camptocamp/Studio.git
+[submodule "terraform-provider-pass"]
+	path = terraform-provider-pass
+	url = https://github.com/camptocamp/terraform-provider-pass.git
+[submodule "terraform-provider-rancher"]
+	path = terraform-provider-rancher
+	url = https://github.com/camptocamp/terraform-provider-rancher.git
+[submodule "tilecache"]
+	path = tilecache
+	url = https://github.com/camptocamp/tilecache.git
+[submodule "secureOWS"]
+	path = secureOWS
+	url = https://github.com/camptocamp/secureOWS.git
+[submodule "tilecloud-chain"]
+	path = tilecloud-chain
+	url = https://github.com/camptocamp/tilecloud-chain.git
+[submodule "training-odoo-connector"]
+	path = training-odoo-connector
+	url = https://github.com/camptocamp/training-odoo-connector.git
+[submodule "tilecloud"]
+	path = tilecloud
+	url = https://github.com/camptocamp/tilecloud.git
+[submodule "training-odoo-openacademy"]
+	path = training-odoo-openacademy
+	url = https://github.com/camptocamp/training-odoo-openacademy.git
+[submodule "unixdaemon-mcollective-plugins"]
+	path = unixdaemon-mcollective-plugins
+	url = https://github.com/camptocamp/unixdaemon-mcollective-plugins.git
+[submodule "upkick"]
+	path = upkick
+	url = https://github.com/camptocamp/upkick.git
+[submodule "server-tools"]
+	path = server-tools
+	url = https://github.com/camptocamp/server-tools.git
+[submodule "varnishkafka"]
+	path = varnishkafka
+[submodule "vagrant-debian-package"]
+	path = vagrant-debian-package
+[submodule "unoconv"]
+	path = unoconv
+	url = https://github.com/camptocamp/unoconv.git
+[submodule "vmWfsPlugin"]
+	path = vmWfsPlugin
+	url = https://github.com/camptocamp/vmWfsPlugin.git
+[submodule "wondershaper"]
+	path = wondershaper
+	url = https://github.com/camptocamp/wondershaper.git
+[submodule "webhook"]
+	path = webhook
+[submodule "z3c.recipe.filetemplate"]
+	path = z3c.recipe.filetemplate
+	url = https://github.com/camptocamp/z3c.recipe.filetemplate.git
+[submodule "webglearth"]
+	path = webglearth
+	url = https://github.com/camptocamp/webglearth.git
+[submodule "WebViewer"]
+	path = WebViewer
+	url = https://github.com/camptocamp/WebViewer.git
+[submodule "webspecs"]
+	path = webspecs
+	url = https://github.com/camptocamp/webspecs.git
